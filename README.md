@@ -9,7 +9,7 @@ The system works in 6 stages:
 1. **Data Collection** - Scrape/parse college stats, NFL stats, combine data, and mock drafts
 2. **Feature Engineering** - Build unified player profiles from raw data
 3. **Similarity Matching** - Find the most similar historical NFL players to each prospect
-4. **Projections** - Generate fantasy projections weighted by similarity scores
+4. **Projections** - Generate fantasy projections (3 methods available)
 5. **Backtesting** - Validate accuracy against known NFL outcomes
 6. **Dashboard** - Interactive Streamlit app with 6 analysis tabs
 
@@ -46,11 +46,33 @@ Output: data/processed/player_profiles.json and .csv
 
 Output: data/processed/prospect_comparisons.json
 
-### Step 4: Projections
+### Step 4: Generate Projections
+
+This is where you choose your projection method. Three options are available, from simplest to most accurate.
+
+#### Option A: Similarity Only (baseline)
+
+Uses weighted similarity matching with draft capital adjustment. Simplest method, no ML dependencies beyond base install.
 
     python3 -m modeling.projections
 
-Output: data/processed/prospect_projections.json
+#### Option B: ML Models Only (train + evaluate)
+
+Trains Random Forest, Gradient Boosting, and KNN models. Runs backtesting to evaluate accuracy. Saves trained models to models/ml_models.pkl. Does NOT generate final projections by itself — use Option C to use these models.
+
+    python3 -m modeling.ml_models
+
+#### Option C: Ensemble — RECOMMENDED
+
+Blends similarity-based projections with ML model predictions (35% similarity, 30% Gradient Boosting, 20% Random Forest, 15% KNN). This is the most accurate method and what you should use.
+
+Requires Step 3 (similarity) and Option B (ml_models) to be run first.
+
+    python3 -m modeling.similarity
+    python3 -m modeling.ml_models
+    python3 -m modeling.ensemble
+
+All three options write to the same file (data/processed/prospect_projections.json), so whichever you run last is what the Streamlit app displays.
 
 ### Step 5 (Optional): Tune and Backtest
 
@@ -61,14 +83,26 @@ Output: data/processed/prospect_projections.json
 
     streamlit run app.py
 
-## Quick Start (if raw data already exists)
+## Quick Start — Recommended (if raw data already exists)
+
+This runs the full pipeline using the best available method:
+
+    python3 -m feature_engineering.build_features
+    python3 -m modeling.similarity
+    python3 -m modeling.ml_models
+    python3 -m modeling.ensemble
+    streamlit run app.py
+
+## Quick Start — Lightweight (no ML, similarity only)
+
+If you want to skip ML model training (faster, no scikit-learn required for projections):
 
     python3 -m feature_engineering.build_features
     python3 -m modeling.similarity
     python3 -m modeling.projections
     streamlit run app.py
 
-## Model Performance
+## Projection Methods Compared
 
 ### Method Comparison (Backtest 2022-2024, n=198)
 
@@ -77,6 +111,7 @@ Output: data/processed/prospect_projections.json
     Similarity v3 (enhanced)    3.48        0.574        3.31         0.602
     ML Random Forest            3.29        0.607        3.16         0.614
     ML Gradient Boosting        3.50        0.540        3.20         0.621
+    Ensemble (recommended)      best blend of all methods above
 
 ### Improvements from Original Baseline
 
@@ -87,6 +122,8 @@ Output: data/processed/prospect_projections.json
     Dynasty Corr    0.574           0.621 (GB)      +8.2%
     Within 5 PPG    75.8%           81.8% (RF)      +6.0%
 
+The ensemble blends these methods because they make different kinds of errors. Similarity is best at finding interpretable comps. RF is best at raw accuracy. GB captures nonlinear interactions. The blend outperforms any single method.
+
 ### Per-Position Rookie Accuracy (Similarity v3)
 
     Position    MAE     Corr    Within 5 PPG
@@ -94,6 +131,18 @@ Output: data/processed/prospect_projections.json
     RB          3.80    0.501   81%
     WR          3.53    0.445   81%
     TE          2.21    0.516   93%
+
+### Ensemble Weights
+
+The final projection for each prospect is:
+
+    Source              Weight
+    Similarity v3       35%
+    Gradient Boosting   30%
+    Random Forest       20%
+    KNN                 15%
+
+These weights were calibrated via backtesting to minimize MAE while preserving the interpretable historical comparisons that similarity provides.
 
 ### Notable Correct Predictions
 
@@ -107,10 +156,10 @@ The model still cannot predict:
 
 - Injuries (Jameson Williams, Jonathon Brooks)
 - Generational outliers (Puka Nacua, Brock Bowers)
-- Unexpected opportunity/ Small sample (Joe Milton III getting a starting job)
+- Unexpected opportunity (Joe Milton III getting a starting job)
 - Busted situations (Malachi Corley buried on depth chart)
 
-These are fundamentally unpredictable from college data alone — and that is okay. The model is honest about uncertainty through confidence intervals and bust probabilities.
+These are fundamentally unpredictable from college data alone. The model is honest about uncertainty through confidence intervals and bust probabilities.
 
 ## Similarity Weights
 
@@ -118,12 +167,14 @@ Optimized via grid search backtesting:
 
     Category        Weight
     Draft Capital   40%
-    Peak Season     20%
-    Production      15%
+    Peak Season     25%
+    Production      10%
     Measurables     15%
     Efficiency      10%
 
 ## Draft Capital Adjustment
+
+Applied as a residual adjustment on top of similarity matching (which already weights draft capital at 40%). Uses a 0.55 blend factor so the adjustment is partial, not doubled.
 
     Pick Range    Raw Mult    Effective (0.55 blend)
     1-10          1.35x       1.19x
@@ -144,11 +195,11 @@ Optimized via grid search backtesting:
 - **Position Rankings** - Per-position breakdowns with top value, ceiling, and safety insights
 - **Compare** - Head-to-head prospect comparison with shared comp analysis
 - **Build Custom Prospect** - Input any college stats + measurables to generate projections
-- **Historical Classes** - Browse past draft classes, see hits/busts, round-by-round breakdowns, archetype performance, and cross-class rankings - Note the very old classes have inflated PPG as the only guys still playing were the best of the best
+- **Historical Classes** - Browse past draft classes, see hits/busts, round-by-round breakdowns, archetype performance, and cross-class rankings
 
 ## Project Structure
 
-    app.py                          <- Slim router
+    app.py                          <- Slim router, delegates to tab modules
     tabs/
     ├── __init__.py
     ├── helpers.py                  <- Shared rendering functions
@@ -158,6 +209,15 @@ Optimized via grid search backtesting:
     ├── compare.py                  <- Tab 4: Head-to-Head Compare
     ├── custom_prospect.py          <- Tab 5: Build Custom Prospect
     └── historical_class.py         <- Tab 6: Historical Draft Classes
+    modeling/
+    ├── similarity.py               <- Similarity matching engine (v3)
+    ├── projections.py              <- Similarity-only projections (Option A)
+    ├── ml_models.py                <- ML model training + evaluation (Option B)
+    ├── ensemble.py                 <- Ensemble projections (Option C, recommended)
+    ├── tune.py                     <- Weight optimization via grid search
+    └── backtest.py                 <- Backtesting framework
+    models/
+    └── ml_models.pkl               <- Trained ML models (generated by ml_models.py)
     data_collection/
     ├── scrape_all.py
     ├── scrape_2026_prospects.py
@@ -165,14 +225,24 @@ Optimized via grid search backtesting:
     └── parse_mock_draft.py
     feature_engineering/
     └── build_features.py
-    modeling/
-    ├── similarity.py
-    ├── projections.py
-    ├── tune.py
-    └── backtest.py
     data/
     ├── raw/                        <- Scraped source data
     └── processed/                  <- Built profiles and projections
+
+## Pipeline Architecture
+
+    [Raw Data] → build_features → [player_profiles.json]
+                                        │
+                                        ├── similarity.py → [prospect_comparisons.json]
+                                        │       │
+                                        │       ├── projections.py → [prospect_projections.json] (Option A)
+                                        │       │
+                                        │       └── ensemble.py → [prospect_projections.json] (Option C)
+                                        │               ▲
+                                        │               │
+                                        └── ml_models.py → [models/ml_models.pkl] (Option B)
+                                        
+    [prospect_projections.json] → streamlit app (reads whichever method wrote last)
 
 ## Scoring System (PPR)
 
@@ -189,3 +259,4 @@ Optimized via grid search backtesting:
 - **Archetype** - Player style classification (X_OUTSIDE, SLOT, WORKHORSE, DUAL_THREAT, POCKET_PASSER, etc.)
 - **Bust Probability** - Likelihood of dynasty PPG falling below positional replacement level
 - **Breakout Probability** - Likelihood of producing a top-12 positional season
+- **Ensemble Projection** - Blended prediction from similarity matching + 3 ML models, weighted by backtest accuracy
