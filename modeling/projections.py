@@ -62,7 +62,7 @@ def weighted_projection(comparisons, key, top_n=10, exp=2):
     # Filter: drop comps below 50% of best similarity
     # This prevents a high-similarity bust from dominating
     best_sim = max(c['similarity_score'] for c in valid)
-    sim_floor = best_sim * 0.85
+    sim_floor = best_sim * 0.5
     filtered = [c for c in valid if c['similarity_score'] >= sim_floor]
     
     # Keep at least 3 comps
@@ -151,7 +151,7 @@ def draft_capital_adjustment(proj_dict, draft_round, draft_pick, pos):
 
     # Residual blend: 0.55 of the raw effect applied on top of
     # similarity-matched comps. Calibrated against R1 WR empirical avg.
-    residual_blend = 0.55
+    residual_blend = 0.75
 
     effective = 1.0 + (raw_mult - 1.0) * residual_blend
 

@@ -30,9 +30,9 @@ PROCESSED_DIR = "data/processed"
 # Ensemble weights — KNN excluded, RF promoted
 # Calibrated against backtest 2022-2024 (n=198)
 ENSEMBLE_WEIGHTS = {
-    'similarity': 0.35,
-    'random_forest': 0.35,
-    'gradient_boosting': 0.30,
+    'similarity': 0.3,
+    'random_forest': 0.65,
+    'gradient_boosting': 0.05,
 }
 
 # Models to actually use in ensemble (excludes KNN)
@@ -287,8 +287,8 @@ def main():
 
     print(f"\n{'=' * 70}")
     print(f"✅ ENSEMBLE PROJECTIONS COMPLETE: {len(projections)} prospects")
-    print(f"   Method: 35% Similarity + 35% Random Forest + 30% Gradient Boosting")
-    print(f"   KNN excluded (backtest MAE: 3.60 vs RF 3.29)")
+    print(f"   Method: 30% Similarity + 65% Random Forest + 5% Gradient Boosting")
+    print(f"   KNN excluded (worst backtest performance)")
     print(f"{'=' * 70}")
 
 
