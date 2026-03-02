@@ -1,0 +1,57 @@
+name,position,school,height,weight,espn_id,espn_league
+Fernando Mendoza,QB,Indiana,"6'5""",236 lbs,4837248,college-football
+Ty Simpson,QB,Alabama,"6'1""",211 lbs,4685522,college-football
+Garrett Nussmeier,QB,LSU,"6'1.5""",203 lbs,4567747,college-football
+Carson Beck,QB,Miami,"6'5""",233 lbs,4430841,college-football
+Drew Allar,QB,Penn State,"6'5.5""",228 lbs,4714771,college-football
+Cade Klubnik,QB,Clemson,"6'2.5""",207 lbs,4685413,college-football
+Sawyer Robertson,QB,Baylor,"6'4""",216 lbs,4432759,college-football
+Jeremiyah Love,RB,Notre Dame,"6'0""",212 lbs,4870808,college-football
+Jadarian Price,RB,Notre Dame,"5'10.5""",203 lbs,4685512,college-football
+Emmett Johnson,RB,Nebraska,"5'10.5""",202 lbs,4832955,college-football
+Jonah Coleman,RB,Washington,"5'8""",220 lbs,4702555,college-football
+Mike Washington Jr.,RB,Arkansas,"6'1""",223 lbs,4686658,college-football
+Demond Claiborne,RB,Wake Forest,"5'10""",188 lbs,4832846,college-football
+Kaytron Allen,RB,Penn State,"5'11.5""",216 lbs,4685246,college-football
+Nicholas Singleton,RB,Penn State,"6'0.5""",219 lbs,4685555,college-football
+J'Mari Taylor,RB,Virginia,"5'10""",199 lbs,4713118,college-football
+Carnell Tate,WR,Ohio State,"6'2.5""",192 lbs,4871023,college-football
+Makai Lemon,WR,USC,"5'11""",192 lbs,4870795,college-football
+Jordyn Tyson,WR,Arizona State,"6'2""",203 lbs,4880281,college-football
+Denzel Boston,WR,Washington,"6'3.5""",212 lbs,4832800,college-football
+KC Concepcion,WR,Texas A&M,"5'11.5""",196 lbs,4870653,college-football
+Omar Cooper Jr.,WR,Indiana,"6'0""",199 lbs,4723820,college-football
+Malachi Fields,WR,Notre Dame,"6'4.5""",218 lbs,4682648,college-football
+Chris Bell,WR,Louisville,"6'2""",222 lbs,4684627,mens-college-basketball
+Chris Brazzell II,WR,Tennessee,"6'4""",198 lbs,5091739,college-football
+Zachariah Branch,WR,Georgia,"5'8.5""",177 lbs,4870612,college-football
+Ted Hurst,WR,Georgia State,"6'4""",206 lbs,5220680,college-football
+Deion Burks,WR,Oklahoma,"5'10""",180 lbs,4683151,college-football
+Brenen Thompson,WR,Mississippi State,"5'9.5""",164 lbs,4685553,college-football
+Germie Bernard,WR,Alabama,"6'1.5""",206 lbs,4685261,college-football
+Skyler Bell,WR,UConn,"5'11.5""",192 lbs,4683153,college-football
+Elijah Sarratt,WR,Indiana,"6'2.5""",210 lbs,5088338,college-football
+Ja'Kobi Lane,WR,USC,"6'4.5""",200 lbs,4870847,college-football
+Josh Cameron,WR,Baylor,"6'1.5""",220 lbs,4879194,college-football
+Reggie Virgil,WR,Texas Tech,"6'2.5""",187 lbs,4869132,college-football
+Kevin Coleman Jr.,WR,Missouri,"5'10.5""",179 lbs,4685307,college-football
+De'Zhaun Stribling,WR,Ole Miss,"6'2""",207 lbs,4710714,college-football
+Bryce Lance,WR,North Dakota State,"6'3.5""",204 lbs,4879276,college-football
+Aaron Anderson,WR,LSU,"5'8""",191 lbs,4691138,college-football
+Eric McAlister,WR,TCU,"6'3.5""",194 lbs,4602185,college-football
+Eric Rivers,WR,Georgia Tech,"5'10""",176 lbs,4713277,college-football
+CJ Daniels,WR,Miami,"6'2.5""",202 lbs,4605951,college-football
+Antonio Williams,WR,Clemson,"5'11.5""",187 lbs,5081432,college-football
+Kenyon Sadiq,TE,Oregon,"6'3""",241 lbs,5083315,college-football
+Eli Stowers,TE,Vanderbilt,"6'4""",239 lbs,4431574,college-football
+Max Klare,TE,Ohio State,"6'4.5""",246 lbs,4833029,college-football
+Michael Trigg,TE,Baylor,"6'4""",240 lbs,4594749,college-football
+Jack Endries,TE,Texas,"6'4.5""",245 lbs,5085189,college-football
+Justin Joly,TE,NC State,"6'3.5""",241 lbs,4912052,college-football
+Sam Roush,TE,Stanford,"6'6""",267 lbs,4685504,college-football
+Eli Raridon,TE,Notre Dame,"6'6""",245 lbs,4831959,college-football
+Joe Royer,TE,Cincinnati,"6'5""",247 lbs,4565859,college-football
+Oscar Delp,TE,Georgia,"6'5""",245 lbs,4702559,college-football
+Dallen Bentley,TE,Utah,"6'4""",253 lbs,5159802,college-football
+Nate Boerkircher,TE,Texas A&M,"6'5.5""",245 lbs,4686248,college-football
+Marlin Klein,TE,Michigan,"6'6""",248 lbs,4695705,college-football

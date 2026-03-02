@@ -1,0 +1,357 @@
+espn_id,name,position,height,weight,school,season,college_team,stat_category,is_2026_prospect,completions,passingAttempts,completionPct,passingYards,yardsPerPassAttempt,passingTouchdowns,interceptions,longPassing,sacks,QBRating,rushingAttempts,rushingYards,yardsPerRushAttempt,rushingTouchdowns,longRushing,receptions,receivingYards,yardsPerReception,receivingTouchdowns,longReception
+4837248,Fernando Mendoza,QB,"6'5""",236 lbs,Indiana,2023,california-golden-bears,passing,True,153,243,63.0,"1,708",7.0,14,10,54,16,132.8,,,,,,,,,,
+4837248,Fernando Mendoza,QB,"6'5""",236 lbs,Indiana,2024,california-golden-bears,passing,True,265,386,68.7,"3,004",7.8,16,6,66,41,144.6,,,,,,,,,,
+4837248,Fernando Mendoza,QB,"6'5""",236 lbs,Indiana,2025,indiana-hoosiers,passing,True,273,379,72.0,"3,535",9.3,41,6,62,25,182.9,,,,,,,,,,
+4837248,Fernando Mendoza,QB,"6'5""",236 lbs,Indiana,2023,california-golden-bears,rushing,True,,,,,,,,,,,49,86,1.8,2,16,,,,,
+4837248,Fernando Mendoza,QB,"6'5""",236 lbs,Indiana,2024,california-golden-bears,rushing,True,,,,,,,,,,,87,105,1.2,2,50,,,,,
+4837248,Fernando Mendoza,QB,"6'5""",236 lbs,Indiana,2025,indiana-hoosiers,rushing,True,,,,,,,,,,,90,276,3.1,7,21,,,,,
+4837248,Fernando Mendoza,QB,"6'5""",236 lbs,Indiana,2024,california-golden-bears,receiving,True,,,,,,,,,,,,,,,,0,15,0.0,1,15
+4685522,Ty Simpson,QB,"6'1""",211 lbs,Alabama,2022,alabama-crimson-tide,passing,True,4,5,80.0,35,7.0,0,0,14,0,138.8,,,,,,,,,,
+4685522,Ty Simpson,QB,"6'1""",211 lbs,Alabama,2023,alabama-crimson-tide,passing,True,11,20,55.0,179,8.9,0,0,51,5,130.2,,,,,,,,,,
+4685522,Ty Simpson,QB,"6'1""",211 lbs,Alabama,2024,alabama-crimson-tide,passing,True,14,25,56.0,167,6.7,0,0,43,1,112.1,,,,,,,,,,
+4685522,Ty Simpson,QB,"6'1""",211 lbs,Alabama,2025,alabama-crimson-tide,passing,True,305,473,64.5,"3,567",7.5,28,5,75,28,145.2,,,,,,,,,,
+4685522,Ty Simpson,QB,"6'1""",211 lbs,Alabama,2023,alabama-crimson-tide,rushing,True,,,,,,,,,,,14,86,6.1,2,78,,,,,
+4685522,Ty Simpson,QB,"6'1""",211 lbs,Alabama,2024,alabama-crimson-tide,rushing,True,,,,,,,,,,,8,44,5.5,1,17,,,,,
+4685522,Ty Simpson,QB,"6'1""",211 lbs,Alabama,2025,alabama-crimson-tide,rushing,True,,,,,,,,,,,90,93,1.0,2,26,,,,,
+4567747,Garrett Nussmeier,QB,"6'1.5""",203 lbs,LSU,2021,lsu-tigers,passing,True,29,57,50.9,329,5.8,2,2,33,5,103.9,,,,,,,,,,
+4567747,Garrett Nussmeier,QB,"6'1.5""",203 lbs,LSU,2022,lsu-tigers,passing,True,52,84,61.9,800,9.5,5,4,75,1,152.0,,,,,,,,,,
+4567747,Garrett Nussmeier,QB,"6'1.5""",203 lbs,LSU,2023,lsu-tigers,passing,True,48,78,61.5,591,7.6,4,1,51,0,139.5,,,,,,,,,,
+4567747,Garrett Nussmeier,QB,"6'1.5""",203 lbs,LSU,2024,lsu-tigers,passing,True,337,525,64.2,"4,052",7.7,29,12,76,16,142.7,,,,,,,,,,
+4567747,Garrett Nussmeier,QB,"6'1.5""",203 lbs,LSU,2025,lsu-tigers,passing,True,194,288,67.4,"1,927",6.7,12,5,65,15,133.8,,,,,,,,,,
+4567747,Garrett Nussmeier,QB,"6'1.5""",203 lbs,LSU,2021,lsu-tigers,rushing,True,,,,,,,,,,,5,-46,-9.2,0,0,,,,,
+4567747,Garrett Nussmeier,QB,"6'1.5""",203 lbs,LSU,2022,lsu-tigers,rushing,True,,,,,,,,,,,1,-13,-13.0,0,0,,,,,
+4567747,Garrett Nussmeier,QB,"6'1.5""",203 lbs,LSU,2023,lsu-tigers,rushing,True,,,,,,,,,,,1,1,1.0,1,1,,,,,
+4567747,Garrett Nussmeier,QB,"6'1.5""",203 lbs,LSU,2024,lsu-tigers,rushing,True,,,,,,,,,,,34,-38,-1.1,3,14,,,,,
+4567747,Garrett Nussmeier,QB,"6'1.5""",203 lbs,LSU,2025,lsu-tigers,rushing,True,,,,,,,,,,,29,-57,-2.0,1,26,,,,,
+4430841,Carson Beck,QB,"6'5""",233 lbs,Miami,2021,georgia-bulldogs,passing,True,10,23,43.5,176,7.7,2,2,32,0,119.1,,,,,,,,,,
+4430841,Carson Beck,QB,"6'5""",233 lbs,Miami,2022,georgia-bulldogs,passing,True,26,35,74.3,310,8.9,4,0,28,0,186.4,,,,,,,,,,
+4430841,Carson Beck,QB,"6'5""",233 lbs,Miami,2023,georgia-bulldogs,passing,True,302,417,72.4,"3,941",9.5,24,6,55,11,167.9,,,,,,,,,,
+4430841,Carson Beck,QB,"6'5""",233 lbs,Miami,2024,georgia-bulldogs,passing,True,290,448,64.7,"3,485",7.8,28,12,67,18,145.3,,,,,,,,,,
+4430841,Carson Beck,QB,"6'5""",233 lbs,Miami,2025,miami-hurricanes,passing,True,338,467,72.4,"3,813",8.2,30,12,61,18,157.0,,,,,,,,,,
+4430841,Carson Beck,QB,"6'5""",233 lbs,Miami,2021,georgia-bulldogs,rushing,True,,,,,,,,,,,5,15,3.0,0,15,,,,,
+4430841,Carson Beck,QB,"6'5""",233 lbs,Miami,2022,georgia-bulldogs,rushing,True,,,,,,,,,,,7,43,6.1,0,20,,,,,
+4430841,Carson Beck,QB,"6'5""",233 lbs,Miami,2023,georgia-bulldogs,rushing,True,,,,,,,,,,,60,116,1.9,4,15,,,,,
+4430841,Carson Beck,QB,"6'5""",233 lbs,Miami,2024,georgia-bulldogs,rushing,True,,,,,,,,,,,55,71,1.3,1,14,,,,,
+4430841,Carson Beck,QB,"6'5""",233 lbs,Miami,2025,miami-hurricanes,rushing,True,,,,,,,,,,,62,43,0.7,2,11,,,,,
+4430841,Carson Beck,QB,"6'5""",233 lbs,Miami,2025,miami-hurricanes,receiving,True,,,,,,,,,,,,,,,,1,14,14.0,1,14
+4714771,Drew Allar,QB,"6'5.5""",228 lbs,Penn State,2022,penn-state-nittany-lions,passing,True,35,60,58.3,344,5.7,4,0,32,3,128.5,,,,,,,,,,
+4714771,Drew Allar,QB,"6'5.5""",228 lbs,Penn State,2023,penn-state-nittany-lions,passing,True,233,389,59.9,"2,631",6.8,25,2,75,15,136.9,,,,,,,,,,
+4714771,Drew Allar,QB,"6'5.5""",228 lbs,Penn State,2024,penn-state-nittany-lions,passing,True,262,394,66.5,"3,327",8.4,24,8,59,19,153.5,,,,,,,,,,
+4714771,Drew Allar,QB,"6'5.5""",228 lbs,Penn State,2025,penn-state-nittany-lions,passing,True,103,159,64.8,"1,100",6.9,8,3,67,6,135.7,,,,,,,,,,
+4714771,Drew Allar,QB,"6'5.5""",228 lbs,Penn State,2022,penn-state-nittany-lions,rushing,True,,,,,,,,,,,18,52,2.9,1,19,,,,,
+4714771,Drew Allar,QB,"6'5.5""",228 lbs,Penn State,2023,penn-state-nittany-lions,rushing,True,,,,,,,,,,,74,210,2.8,4,24,,,,,
+4714771,Drew Allar,QB,"6'5.5""",228 lbs,Penn State,2024,penn-state-nittany-lions,rushing,True,,,,,,,,,,,96,302,3.1,6,22,,,,,
+4714771,Drew Allar,QB,"6'5.5""",228 lbs,Penn State,2025,penn-state-nittany-lions,rushing,True,,,,,,,,,,,36,172,4.8,1,27,,,,,
+4714771,Drew Allar,QB,"6'5.5""",228 lbs,Penn State,2023,penn-state-nittany-lions,receiving,True,,,,,,,,,,,,,,,,2,14,7.0,0,10
+4714771,Drew Allar,QB,"6'5.5""",228 lbs,Penn State,2024,penn-state-nittany-lions,receiving,True,,,,,,,,,,,,,,,,0,-4,0.0,0,0
+4714771,Drew Allar,QB,"6'5.5""",228 lbs,Penn State,2025,penn-state-nittany-lions,receiving,True,,,,,,,,,,,,,,,,1,5,5.0,0,5
+4685413,Cade Klubnik,QB,"6'2.5""",207 lbs,Clemson,2022,clemson-tigers,passing,True,61,100,61.0,697,7.0,2,3,68,6,120.1,,,,,,,,,,
+4685413,Cade Klubnik,QB,"6'2.5""",207 lbs,Clemson,2023,clemson-tigers,passing,True,290,454,63.9,"2,844",6.3,19,9,69,28,126.3,,,,,,,,,,
+4685413,Cade Klubnik,QB,"6'2.5""",207 lbs,Clemson,2024,clemson-tigers,passing,True,308,486,63.4,"3,639",7.5,36,6,76,23,148.2,,,,,,,,,,
+4685413,Cade Klubnik,QB,"6'2.5""",207 lbs,Clemson,2025,clemson-tigers,passing,True,257,392,65.6,"2,943",7.5,16,6,75,17,139.0,,,,,,,,,,
+4685413,Cade Klubnik,QB,"6'2.5""",207 lbs,Clemson,2022,clemson-tigers,rushing,True,,,,,,,,,,,42,139,3.3,2,16,,,,,
+4685413,Cade Klubnik,QB,"6'2.5""",207 lbs,Clemson,2023,clemson-tigers,rushing,True,,,,,,,,,,,125,182,1.5,4,22,,,,,
+4685413,Cade Klubnik,QB,"6'2.5""",207 lbs,Clemson,2024,clemson-tigers,rushing,True,,,,,,,,,,,119,463,3.9,7,55,,,,,
+4685413,Cade Klubnik,QB,"6'2.5""",207 lbs,Clemson,2025,clemson-tigers,rushing,True,,,,,,,,,,,83,94,1.1,4,13,,,,,
+4685413,Cade Klubnik,QB,"6'2.5""",207 lbs,Clemson,2022,clemson-tigers,receiving,True,,,,,,,,,,,,,,,,1,19,19.0,0,19
+4432759,Sawyer Robertson,QB,"6'4""",216 lbs,Baylor,2022,mississippi-state-bulldogs,passing,True,6,11,54.5,23,2.1,0,1,7,1,53.9,,,,,,,,,,
+4432759,Sawyer Robertson,QB,"6'4""",216 lbs,Baylor,2023,baylor-bears,passing,True,66,117,56.4,864,7.4,2,4,55,9,117.2,,,,,,,,,,
+4432759,Sawyer Robertson,QB,"6'4""",216 lbs,Baylor,2024,baylor-bears,passing,True,229,368,62.2,"3,071",8.3,28,8,53,15,153.1,,,,,,,,,,
+4432759,Sawyer Robertson,QB,"6'4""",216 lbs,Baylor,2025,baylor-bears,passing,True,304,504,60.3,"3,681",7.3,31,12,73,22,137.2,,,,,,,,,,
+4432759,Sawyer Robertson,QB,"6'4""",216 lbs,Baylor,2022,mississippi-state-bulldogs,rushing,True,,,,,,,,,,,2,0,0.0,0,8,,,,,
+4432759,Sawyer Robertson,QB,"6'4""",216 lbs,Baylor,2023,baylor-bears,rushing,True,,,,,,,,,,,35,69,2.0,1,31,,,,,
+4432759,Sawyer Robertson,QB,"6'4""",216 lbs,Baylor,2024,baylor-bears,rushing,True,,,,,,,,,,,63,230,3.7,4,45,,,,,
+4432759,Sawyer Robertson,QB,"6'4""",216 lbs,Baylor,2025,baylor-bears,rushing,True,,,,,,,,,,,56,17,0.3,3,16,,,,,
+4870808,Jeremiyah Love,RB,"6'0""",212 lbs,Notre Dame,2023,notre-dame-fighting-irish,rushing,True,,,,,,,,,,,71,385,5.4,1,36,,,,,
+4870808,Jeremiyah Love,RB,"6'0""",212 lbs,Notre Dame,2024,notre-dame-fighting-irish,rushing,True,,,,,,,,,,,163,"1,125",6.9,17,98,,,,,
+4870808,Jeremiyah Love,RB,"6'0""",212 lbs,Notre Dame,2025,notre-dame-fighting-irish,rushing,True,,,,,,,,,,,199,"1,372",6.9,18,94,,,,,
+4870808,Jeremiyah Love,RB,"6'0""",212 lbs,Notre Dame,2023,notre-dame-fighting-irish,receiving,True,,,,,,,,,,,,,,,,8,77,9.6,1,33
+4870808,Jeremiyah Love,RB,"6'0""",212 lbs,Notre Dame,2024,notre-dame-fighting-irish,receiving,True,,,,,,,,,,,,,,,,28,237,8.5,2,32
+4870808,Jeremiyah Love,RB,"6'0""",212 lbs,Notre Dame,2025,notre-dame-fighting-irish,receiving,True,,,,,,,,,,,,,,,,27,280,10.4,3,36
+4685512,Jadarian Price,RB,"5'10.5""",203 lbs,Notre Dame,2023,notre-dame-fighting-irish,rushing,True,,,,,,,,,,,47,272,5.8,3,54,,,,,
+4685512,Jadarian Price,RB,"5'10.5""",203 lbs,Notre Dame,2024,notre-dame-fighting-irish,rushing,True,,,,,,,,,,,120,746,6.2,7,70,,,,,
+4685512,Jadarian Price,RB,"5'10.5""",203 lbs,Notre Dame,2025,notre-dame-fighting-irish,rushing,True,,,,,,,,,,,113,674,6.0,11,58,,,,,
+4685512,Jadarian Price,RB,"5'10.5""",203 lbs,Notre Dame,2023,notre-dame-fighting-irish,receiving,True,,,,,,,,,,,,,,,,5,65,13.0,1,40
+4685512,Jadarian Price,RB,"5'10.5""",203 lbs,Notre Dame,2024,notre-dame-fighting-irish,receiving,True,,,,,,,,,,,,,,,,4,10,2.5,0,8
+4685512,Jadarian Price,RB,"5'10.5""",203 lbs,Notre Dame,2025,notre-dame-fighting-irish,receiving,True,,,,,,,,,,,,,,,,6,87,14.5,2,35
+4832955,Emmett Johnson,RB,"5'10.5""",202 lbs,Nebraska,2023,nebraska-cornhuskers,rushing,True,,,,,,,,,,,90,411,4.6,2,29,,,,,
+4832955,Emmett Johnson,RB,"5'10.5""",202 lbs,Nebraska,2024,nebraska-cornhuskers,rushing,True,,,,,,,,,,,117,598,5.1,1,42,,,,,
+4832955,Emmett Johnson,RB,"5'10.5""",202 lbs,Nebraska,2025,nebraska-cornhuskers,rushing,True,,,,,,,,,,,251,"1,451",5.8,12,70,,,,,
+4832955,Emmett Johnson,RB,"5'10.5""",202 lbs,Nebraska,2023,nebraska-cornhuskers,receiving,True,,,,,,,,,,,,,,,,7,46,6.6,0,13
+4832955,Emmett Johnson,RB,"5'10.5""",202 lbs,Nebraska,2024,nebraska-cornhuskers,receiving,True,,,,,,,,,,,,,,,,39,286,7.3,2,29
+4832955,Emmett Johnson,RB,"5'10.5""",202 lbs,Nebraska,2025,nebraska-cornhuskers,receiving,True,,,,,,,,,,,,,,,,46,370,8.0,3,56
+4702555,Jonah Coleman,RB,"5'8""",220 lbs,Washington,2022,arizona-wildcats,rushing,True,,,,,,,,,,,75,372,5.0,4,43,,,,,
+4702555,Jonah Coleman,RB,"5'8""",220 lbs,Washington,2023,arizona-wildcats,rushing,True,,,,,,,,,,,128,871,6.8,5,59,,,,,
+4702555,Jonah Coleman,RB,"5'8""",220 lbs,Washington,2024,washington-huskies,rushing,True,,,,,,,,,,,193,"1,053",5.5,10,64,,,,,
+4702555,Jonah Coleman,RB,"5'8""",220 lbs,Washington,2025,washington-huskies,rushing,True,,,,,,,,,,,156,758,4.9,15,38,,,,,
+4702555,Jonah Coleman,RB,"5'8""",220 lbs,Washington,2022,arizona-wildcats,receiving,True,,,,,,,,,,,,,,,,8,24,3.0,0,14
+4702555,Jonah Coleman,RB,"5'8""",220 lbs,Washington,2023,arizona-wildcats,receiving,True,,,,,,,,,,,,,,,,25,283,11.3,1,69
+4702555,Jonah Coleman,RB,"5'8""",220 lbs,Washington,2024,washington-huskies,receiving,True,,,,,,,,,,,,,,,,23,177,7.7,0,17
+4702555,Jonah Coleman,RB,"5'8""",220 lbs,Washington,2025,washington-huskies,receiving,True,,,,,,,,,,,,,,,,31,354,11.4,2,45
+4686658,Mike Washington Jr.,RB,"6'1""",223 lbs,Arkansas,2021,buffalo-bulls,rushing,True,,,,,,,,,,,23,132,5.7,1,16,,,,,
+4686658,Mike Washington Jr.,RB,"6'1""",223 lbs,Arkansas,2022,buffalo-bulls,rushing,True,,,,,,,,,,,150,625,4.2,7,92,,,,,
+4686658,Mike Washington Jr.,RB,"6'1""",223 lbs,Arkansas,2023,buffalo-bulls,rushing,True,,,,,,,,,,,90,362,4.0,2,49,,,,,
+4686658,Mike Washington Jr.,RB,"6'1""",223 lbs,Arkansas,2024,new-mexico-state-aggies,rushing,True,,,,,,,,,,,157,725,4.6,8,47,,,,,
+4686658,Mike Washington Jr.,RB,"6'1""",223 lbs,Arkansas,2025,arkansas-razorbacks,rushing,True,,,,,,,,,,,167,"1,070",6.4,8,57,,,,,
+4686658,Mike Washington Jr.,RB,"6'1""",223 lbs,Arkansas,2022,buffalo-bulls,receiving,True,,,,,,,,,,,,,,,,23,135,5.9,1,23
+4686658,Mike Washington Jr.,RB,"6'1""",223 lbs,Arkansas,2023,buffalo-bulls,receiving,True,,,,,,,,,,,,,,,,13,35,2.7,0,13
+4686658,Mike Washington Jr.,RB,"6'1""",223 lbs,Arkansas,2024,new-mexico-state-aggies,receiving,True,,,,,,,,,,,,,,,,9,74,8.2,1,25
+4686658,Mike Washington Jr.,RB,"6'1""",223 lbs,Arkansas,2025,arkansas-razorbacks,receiving,True,,,,,,,,,,,,,,,,28,226,8.1,1,35
+4832846,Demond Claiborne,RB,"5'10""",188 lbs,Wake Forest,2022,wake-forest-demon-deacons,rushing,True,,,,,,,,,,,14,57,4.1,0,32,,,,,
+4832846,Demond Claiborne,RB,"5'10""",188 lbs,Wake Forest,2023,wake-forest-demon-deacons,rushing,True,,,,,,,,,,,137,586,4.3,5,42,,,,,
+4832846,Demond Claiborne,RB,"5'10""",188 lbs,Wake Forest,2024,wake-forest-demon-deacons,rushing,True,,,,,,,,,,,228,"1,049",4.6,11,60,,,,,
+4832846,Demond Claiborne,RB,"5'10""",188 lbs,Wake Forest,2025,wake-forest-demon-deacons,rushing,True,,,,,,,,,,,179,907,5.1,10,85,,,,,
+4832846,Demond Claiborne,RB,"5'10""",188 lbs,Wake Forest,2022,wake-forest-demon-deacons,receiving,True,,,,,,,,,,,,,,,,1,-5,-5.0,0,0
+4832846,Demond Claiborne,RB,"5'10""",188 lbs,Wake Forest,2023,wake-forest-demon-deacons,receiving,True,,,,,,,,,,,,,,,,3,35,11.7,0,22
+4832846,Demond Claiborne,RB,"5'10""",188 lbs,Wake Forest,2024,wake-forest-demon-deacons,receiving,True,,,,,,,,,,,,,,,,23,254,11.0,2,44
+4832846,Demond Claiborne,RB,"5'10""",188 lbs,Wake Forest,2025,wake-forest-demon-deacons,receiving,True,,,,,,,,,,,,,,,,28,140,5.0,0,21
+4685246,Kaytron Allen,RB,"5'11.5""",216 lbs,Penn State,2022,penn-state-nittany-lions,rushing,True,,,,,,,,,,,167,867,5.2,10,59,,,,,
+4685246,Kaytron Allen,RB,"5'11.5""",216 lbs,Penn State,2023,penn-state-nittany-lions,rushing,True,,,,,,,,,,,172,902,5.2,6,50,,,,,
+4685246,Kaytron Allen,RB,"5'11.5""",216 lbs,Penn State,2024,penn-state-nittany-lions,rushing,True,,,,,,,,,,,220,"1,108",5.0,8,32,,,,,
+4685246,Kaytron Allen,RB,"5'11.5""",216 lbs,Penn State,2025,penn-state-nittany-lions,rushing,True,,,,,,,,,,,210,"1,303",6.2,15,67,,,,,
+4685246,Kaytron Allen,RB,"5'11.5""",216 lbs,Penn State,2022,penn-state-nittany-lions,receiving,True,,,,,,,,,,,,,,,,20,188,9.4,1,45
+4685246,Kaytron Allen,RB,"5'11.5""",216 lbs,Penn State,2023,penn-state-nittany-lions,receiving,True,,,,,,,,,,,,,,,,14,81,5.8,1,15
+4685246,Kaytron Allen,RB,"5'11.5""",216 lbs,Penn State,2024,penn-state-nittany-lions,receiving,True,,,,,,,,,,,,,,,,18,153,8.5,2,20
+4685246,Kaytron Allen,RB,"5'11.5""",216 lbs,Penn State,2025,penn-state-nittany-lions,receiving,True,,,,,,,,,,,,,,,,18,68,3.8,0,11
+4685246,Kaytron Allen,RB,"5'11.5""",216 lbs,Penn State,2023,penn-state-nittany-lions,passing,True,1,1,100.0,4,4.0,0,0,4,0,133.6,,,,,,,,,,
+4685555,Nicholas Singleton,RB,"6'0.5""",219 lbs,Penn State,2022,penn-state-nittany-lions,rushing,True,,,,,,,,,,,156,"1,061",6.8,12,87,,,,,
+4685555,Nicholas Singleton,RB,"6'0.5""",219 lbs,Penn State,2023,penn-state-nittany-lions,rushing,True,,,,,,,,,,,171,752,4.4,8,24,,,,,
+4685555,Nicholas Singleton,RB,"6'0.5""",219 lbs,Penn State,2024,penn-state-nittany-lions,rushing,True,,,,,,,,,,,172,"1,099",6.4,12,58,,,,,
+4685555,Nicholas Singleton,RB,"6'0.5""",219 lbs,Penn State,2025,penn-state-nittany-lions,rushing,True,,,,,,,,,,,123,549,4.5,13,59,,,,,
+4685555,Nicholas Singleton,RB,"6'0.5""",219 lbs,Penn State,2022,penn-state-nittany-lions,receiving,True,,,,,,,,,,,,,,,,11,85,7.7,1,22
+4685555,Nicholas Singleton,RB,"6'0.5""",219 lbs,Penn State,2023,penn-state-nittany-lions,receiving,True,,,,,,,,,,,,,,,,26,308,11.8,2,53
+4685555,Nicholas Singleton,RB,"6'0.5""",219 lbs,Penn State,2024,penn-state-nittany-lions,receiving,True,,,,,,,,,,,,,,,,41,375,9.1,5,27
+4685555,Nicholas Singleton,RB,"6'0.5""",219 lbs,Penn State,2025,penn-state-nittany-lions,receiving,True,,,,,,,,,,,,,,,,24,219,9.1,1,50
+4713118,J'Mari Taylor,RB,"5'10""",199 lbs,Virginia,2021,north-carolina-central-eagles,rushing,True,,,,,,,,,,,-,-,-,-,-,,,,,
+4713118,J'Mari Taylor,RB,"5'10""",199 lbs,Virginia,2022,north-carolina-central-eagles,rushing,True,,,,,,,,,,,85,415,4.9,7,45,,,,,
+4713118,J'Mari Taylor,RB,"5'10""",199 lbs,Virginia,2023,north-carolina-central-eagles,rushing,True,,,,,,,,,,,73,321,4.4,1,23,,,,,
+4713118,J'Mari Taylor,RB,"5'10""",199 lbs,Virginia,2024,north-carolina-central-eagles,rushing,True,,,,,,,,,,,196,"1,146",5.8,15,66,,,,,
+4713118,J'Mari Taylor,RB,"5'10""",199 lbs,Virginia,2025,virginia-cavaliers,rushing,True,,,,,,,,,,,222,"1,062",4.8,14,78,,,,,
+4713118,J'Mari Taylor,RB,"5'10""",199 lbs,Virginia,2022,north-carolina-central-eagles,receiving,True,,,,,,,,,,,,,,,,9,129,14.3,3,27
+4713118,J'Mari Taylor,RB,"5'10""",199 lbs,Virginia,2023,north-carolina-central-eagles,receiving,True,,,,,,,,,,,,,,,,16,229,14.3,4,60
+4713118,J'Mari Taylor,RB,"5'10""",199 lbs,Virginia,2024,north-carolina-central-eagles,receiving,True,,,,,,,,,,,,,,,,29,257,8.9,2,39
+4713118,J'Mari Taylor,RB,"5'10""",199 lbs,Virginia,2025,virginia-cavaliers,receiving,True,,,,,,,,,,,,,,,,43,253,5.9,1,25
+4713118,J'Mari Taylor,RB,"5'10""",199 lbs,Virginia,2024,north-carolina-central-eagles,passing,True,0,1,0.0,0,0.0,0,0,0,0,0.0,,,,,,,,,,
+4713118,J'Mari Taylor,RB,"5'10""",199 lbs,Virginia,2025,virginia-cavaliers,passing,True,1,1,100.0,1,1.0,1,0,1,0,438.4,,,,,,,,,,
+4871023,Carnell Tate,WR,"6'2.5""",192 lbs,Ohio State,2023,ohio-state-buckeyes,receiving,True,,,,,,,,,,,,,,,,18,264,14.7,1,55
+4871023,Carnell Tate,WR,"6'2.5""",192 lbs,Ohio State,2024,ohio-state-buckeyes,receiving,True,,,,,,,,,,,,,,,,52,733,14.1,4,40
+4871023,Carnell Tate,WR,"6'2.5""",192 lbs,Ohio State,2025,ohio-state-buckeyes,receiving,True,,,,,,,,,,,,,,,,51,875,17.2,9,57
+4871023,Carnell Tate,WR,"6'2.5""",192 lbs,Ohio State,2024,ohio-state-buckeyes,rushing,True,,,,,,,,,,,0,6,0.0,0,6,,,,,
+4871023,Carnell Tate,WR,"6'2.5""",192 lbs,Ohio State,2025,ohio-state-buckeyes,rushing,True,,,,,,,,,,,2,16,8.0,0,8,,,,,
+4870795,Makai Lemon,WR,"5'11""",192 lbs,USC,2023,usc-trojans,receiving,True,,,,,,,,,,,,,,,,6,88,14.7,0,40
+4870795,Makai Lemon,WR,"5'11""",192 lbs,USC,2024,usc-trojans,receiving,True,,,,,,,,,,,,,,,,52,764,14.7,3,70
+4870795,Makai Lemon,WR,"5'11""",192 lbs,USC,2025,usc-trojans,receiving,True,,,,,,,,,,,,,,,,79,"1,156",14.6,11,74
+4870795,Makai Lemon,WR,"5'11""",192 lbs,USC,2025,usc-trojans,rushing,True,,,,,,,,,,,9,4,0.4,2,7,,,,,
+4870795,Makai Lemon,WR,"5'11""",192 lbs,USC,2024,usc-trojans,passing,True,1,1,100.0,39,39.0,0,0,39,0,427.6,,,,,,,,,,
+4870795,Makai Lemon,WR,"5'11""",192 lbs,USC,2025,usc-trojans,passing,True,1,1,100.0,24,24.0,1,0,24,0,631.6,,,,,,,,,,
+4880281,Jordyn Tyson,WR,"6'2""",203 lbs,Arizona State,2022,colorado-buffaloes,receiving,True,,,,,,,,,,,,,,,,22,470,21.4,4,81
+4880281,Jordyn Tyson,WR,"6'2""",203 lbs,Arizona State,2024,arizona-state-sun-devils,receiving,True,,,,,,,,,,,,,,,,75,"1,101",14.7,10,59
+4880281,Jordyn Tyson,WR,"6'2""",203 lbs,Arizona State,2025,arizona-state-sun-devils,receiving,True,,,,,,,,,,,,,,,,61,711,11.7,8,57
+4880281,Jordyn Tyson,WR,"6'2""",203 lbs,Arizona State,2022,colorado-buffaloes,rushing,True,,,,,,,,,,,3,-4,-1.3,0,1,,,,,
+4880281,Jordyn Tyson,WR,"6'2""",203 lbs,Arizona State,2024,arizona-state-sun-devils,rushing,True,,,,,,,,,,,1,1,1.0,0,1,,,,,
+4880281,Jordyn Tyson,WR,"6'2""",203 lbs,Arizona State,2025,arizona-state-sun-devils,rushing,True,,,,,,,,,,,2,4,2.0,1,3,,,,,
+4880281,Jordyn Tyson,WR,"6'2""",203 lbs,Arizona State,2022,colorado-buffaloes,passing,True,1,1,100.0,37,37.0,0,0,37,0,410.8,,,,,,,,,,
+4880281,Jordyn Tyson,WR,"6'2""",203 lbs,Arizona State,2025,arizona-state-sun-devils,passing,True,0,1,0.0,0,0.0,0,0,0,0,0.0,,,,,,,,,,
+4832800,Denzel Boston,WR,"6'3.5""",212 lbs,Washington,2022,washington-huskies,receiving,True,,,,,,,,,,,,,,,,2,15,7.5,0,10
+4832800,Denzel Boston,WR,"6'3.5""",212 lbs,Washington,2023,washington-huskies,receiving,True,,,,,,,,,,,,,,,,5,51,10.2,0,12
+4832800,Denzel Boston,WR,"6'3.5""",212 lbs,Washington,2024,washington-huskies,receiving,True,,,,,,,,,,,,,,,,63,834,13.2,9,51
+4832800,Denzel Boston,WR,"6'3.5""",212 lbs,Washington,2025,washington-huskies,receiving,True,,,,,,,,,,,,,,,,62,881,14.2,11,78
+4832800,Denzel Boston,WR,"6'3.5""",212 lbs,Washington,2022,washington-huskies,rushing,True,,,,,,,,,,,1,2,2.0,1,2,,,,,
+4832800,Denzel Boston,WR,"6'3.5""",212 lbs,Washington,2025,washington-huskies,passing,True,2,2,100.0,15,7.5,1,0,12,0,328.0,,,,,,,,,,
+4870653,KC Concepcion,WR,"5'11.5""",196 lbs,Texas A&M,2023,nc-state-wolfpack,receiving,True,,,,,,,,,,,,,,,,71,839,11.8,10,72
+4870653,KC Concepcion,WR,"5'11.5""",196 lbs,Texas A&M,2024,nc-state-wolfpack,receiving,True,,,,,,,,,,,,,,,,53,460,8.7,6,42
+4870653,KC Concepcion,WR,"5'11.5""",196 lbs,Texas A&M,2025,texas-am-aggies,receiving,True,,,,,,,,,,,,,,,,61,919,15.1,9,48
+4870653,KC Concepcion,WR,"5'11.5""",196 lbs,Texas A&M,2023,nc-state-wolfpack,rushing,True,,,,,,,,,,,41,320,7.8,0,65,,,,,
+4870653,KC Concepcion,WR,"5'11.5""",196 lbs,Texas A&M,2024,nc-state-wolfpack,rushing,True,,,,,,,,,,,19,36,1.9,2,9,,,,,
+4870653,KC Concepcion,WR,"5'11.5""",196 lbs,Texas A&M,2025,texas-am-aggies,rushing,True,,,,,,,,,,,10,75,7.5,1,16,,,,,
+4870653,KC Concepcion,WR,"5'11.5""",196 lbs,Texas A&M,2023,nc-state-wolfpack,passing,True,1,3,33.3,17,5.7,1,0,17,0,190.9,,,,,,,,,,
+4870653,KC Concepcion,WR,"5'11.5""",196 lbs,Texas A&M,2024,nc-state-wolfpack,passing,True,1,1,100.0,28,28.0,0,0,28,1,335.2,,,,,,,,,,
+4723820,Omar Cooper Jr.,WR,"6'0""",199 lbs,Indiana,2023,indiana-hoosiers,receiving,True,,,,,,,,,,,,,,,,18,267,14.8,2,35
+4723820,Omar Cooper Jr.,WR,"6'0""",199 lbs,Indiana,2024,indiana-hoosiers,receiving,True,,,,,,,,,,,,,,,,28,594,21.2,7,69
+4723820,Omar Cooper Jr.,WR,"6'0""",199 lbs,Indiana,2025,indiana-hoosiers,receiving,True,,,,,,,,,,,,,,,,69,937,13.6,13,58
+4723820,Omar Cooper Jr.,WR,"6'0""",199 lbs,Indiana,2024,indiana-hoosiers,rushing,True,,,,,,,,,,,2,23,11.5,1,16,,,,,
+4723820,Omar Cooper Jr.,WR,"6'0""",199 lbs,Indiana,2025,indiana-hoosiers,rushing,True,,,,,,,,,,,3,74,24.7,1,75,,,,,
+4682648,Malachi Fields,WR,"6'4.5""",218 lbs,Notre Dame,2021,virginia-cavaliers,receiving,True,,,,,,,,,,,,,,,,11,172,15.6,0,51
+4682648,Malachi Fields,WR,"6'4.5""",218 lbs,Notre Dame,2022,virginia-cavaliers,receiving,True,,,,,,,,,,,,,,,,5,58,11.6,1,15
+4682648,Malachi Fields,WR,"6'4.5""",218 lbs,Notre Dame,2023,virginia-cavaliers,receiving,True,,,,,,,,,,,,,,,,58,811,14.0,5,39
+4682648,Malachi Fields,WR,"6'4.5""",218 lbs,Notre Dame,2024,virginia-cavaliers,receiving,True,,,,,,,,,,,,,,,,55,808,14.7,5,45
+4682648,Malachi Fields,WR,"6'4.5""",218 lbs,Notre Dame,2025,notre-dame-fighting-irish,receiving,True,,,,,,,,,,,,,,,,36,630,17.5,5,66
+4682648,Malachi Fields,WR,"6'4.5""",218 lbs,Notre Dame,2023,virginia-cavaliers,rushing,True,,,,,,,,,,,1,-6,-6.0,0,0,,,,,
+4682648,Malachi Fields,WR,"6'4.5""",218 lbs,Notre Dame,2024,virginia-cavaliers,passing,True,2,3,66.7,51,17.0,0,0,29,0,209.5,,,,,,,,,,
+5091739,Chris Brazzell II,WR,"6'4""",198 lbs,Tennessee,2022,tulane-green-wave,receiving,True,,,,,,,,,,,,,,,,1,11,11.0,0,11
+5091739,Chris Brazzell II,WR,"6'4""",198 lbs,Tennessee,2023,tulane-green-wave,receiving,True,,,,,,,,,,,,,,,,44,711,16.2,5,47
+5091739,Chris Brazzell II,WR,"6'4""",198 lbs,Tennessee,2024,tennessee-volunteers,receiving,True,,,,,,,,,,,,,,,,29,333,11.5,2,53
+5091739,Chris Brazzell II,WR,"6'4""",198 lbs,Tennessee,2025,tennessee-volunteers,receiving,True,,,,,,,,,,,,,,,,62,"1,017",16.4,9,72
+4870612,Zachariah Branch,WR,"5'8.5""",177 lbs,Georgia,2023,usc-trojans,receiving,True,,,,,,,,,,,,,,,,31,320,10.3,2,36
+4870612,Zachariah Branch,WR,"5'8.5""",177 lbs,Georgia,2024,usc-trojans,receiving,True,,,,,,,,,,,,,,,,47,503,10.7,1,42
+4870612,Zachariah Branch,WR,"5'8.5""",177 lbs,Georgia,2025,georgia-bulldogs,receiving,True,,,,,,,,,,,,,,,,81,811,10.0,6,47
+4870612,Zachariah Branch,WR,"5'8.5""",177 lbs,Georgia,2023,usc-trojans,rushing,True,,,,,,,,,,,9,70,7.8,1,21,,,,,
+4870612,Zachariah Branch,WR,"5'8.5""",177 lbs,Georgia,2024,usc-trojans,rushing,True,,,,,,,,,,,2,17,8.5,0,15,,,,,
+4870612,Zachariah Branch,WR,"5'8.5""",177 lbs,Georgia,2025,georgia-bulldogs,rushing,True,,,,,,,,,,,4,7,1.8,0,10,,,,,
+5220680,Ted Hurst,WR,"6'4""",206 lbs,Georgia State,2024,georgia-state-panthers,receiving,True,,,,,,,,,,,,,,,,56,961,17.2,9,76
+5220680,Ted Hurst,WR,"6'4""",206 lbs,Georgia State,2025,georgia-state-panthers,receiving,True,,,,,,,,,,,,,,,,71,"1,004",14.1,6,70
+4683151,Deion Burks,WR,"5'10""",180 lbs,Oklahoma,2021,purdue-boilermakers,receiving,True,,,,,,,,,,,,,,,,1,26,26.0,0,26
+4683151,Deion Burks,WR,"5'10""",180 lbs,Oklahoma,2022,purdue-boilermakers,receiving,True,,,,,,,,,,,,,,,,15,149,9.9,0,30
+4683151,Deion Burks,WR,"5'10""",180 lbs,Oklahoma,2023,purdue-boilermakers,receiving,True,,,,,,,,,,,,,,,,47,629,13.4,7,84
+4683151,Deion Burks,WR,"5'10""",180 lbs,Oklahoma,2024,oklahoma-sooners,receiving,True,,,,,,,,,,,,,,,,31,245,7.9,3,20
+4683151,Deion Burks,WR,"5'10""",180 lbs,Oklahoma,2025,oklahoma-sooners,receiving,True,,,,,,,,,,,,,,,,57,620,10.9,4,45
+4683151,Deion Burks,WR,"5'10""",180 lbs,Oklahoma,2021,purdue-boilermakers,rushing,True,,,,,,,,,,,2,3,1.5,0,6,,,,,
+4683151,Deion Burks,WR,"5'10""",180 lbs,Oklahoma,2022,purdue-boilermakers,rushing,True,,,,,,,,,,,1,4,4.0,0,4,,,,,
+4683151,Deion Burks,WR,"5'10""",180 lbs,Oklahoma,2023,purdue-boilermakers,rushing,True,,,,,,,,,,,4,12,3.0,0,10,,,,,
+4683151,Deion Burks,WR,"5'10""",180 lbs,Oklahoma,2024,oklahoma-sooners,rushing,True,,,,,,,,,,,5,32,6.4,0,11,,,,,
+4683151,Deion Burks,WR,"5'10""",180 lbs,Oklahoma,2025,oklahoma-sooners,rushing,True,,,,,,,,,,,6,-1,-0.2,0,14,,,,,
+4685553,Brenen Thompson,WR,"5'9.5""",164 lbs,Mississippi State,2022,texas-longhorns,receiving,True,,,,,,,,,,,,,,,,1,32,32.0,0,32
+4685553,Brenen Thompson,WR,"5'9.5""",164 lbs,Mississippi State,2023,oklahoma-sooners,receiving,True,,,,,,,,,,,,,,,,7,241,34.4,2,63
+4685553,Brenen Thompson,WR,"5'9.5""",164 lbs,Mississippi State,2024,oklahoma-sooners,receiving,True,,,,,,,,,,,,,,,,19,230,12.1,2,54
+4685553,Brenen Thompson,WR,"5'9.5""",164 lbs,Mississippi State,2025,mississippi-state-bulldogs,receiving,True,,,,,,,,,,,,,,,,57,"1,054",18.5,6,58
+4685553,Brenen Thompson,WR,"5'9.5""",164 lbs,Mississippi State,2025,mississippi-state-bulldogs,rushing,True,,,,,,,,,,,4,14,3.5,1,10,,,,,
+4685553,Brenen Thompson,WR,"5'9.5""",164 lbs,Mississippi State,2024,oklahoma-sooners,passing,True,0,1,0.0,0,0.0,0,0,0,0,0.0,,,,,,,,,,
+4685261,Germie Bernard,WR,"6'1.5""",206 lbs,Alabama,2022,michigan-state-spartans,receiving,True,,,,,,,,,,,,,,,,7,128,18.3,2,44
+4685261,Germie Bernard,WR,"6'1.5""",206 lbs,Alabama,2023,washington-huskies,receiving,True,,,,,,,,,,,,,,,,34,419,12.3,2,36
+4685261,Germie Bernard,WR,"6'1.5""",206 lbs,Alabama,2024,alabama-crimson-tide,receiving,True,,,,,,,,,,,,,,,,50,794,15.9,2,47
+4685261,Germie Bernard,WR,"6'1.5""",206 lbs,Alabama,2025,alabama-crimson-tide,receiving,True,,,,,,,,,,,,,,,,64,862,13.5,7,43
+4685261,Germie Bernard,WR,"6'1.5""",206 lbs,Alabama,2022,michigan-state-spartans,rushing,True,,,,,,,,,,,1,3,3.0,0,3,,,,,
+4685261,Germie Bernard,WR,"6'1.5""",206 lbs,Alabama,2023,washington-huskies,rushing,True,,,,,,,,,,,13,43,3.3,2,15,,,,,
+4685261,Germie Bernard,WR,"6'1.5""",206 lbs,Alabama,2024,alabama-crimson-tide,rushing,True,,,,,,,,,,,4,37,9.3,1,13,,,,,
+4685261,Germie Bernard,WR,"6'1.5""",206 lbs,Alabama,2025,alabama-crimson-tide,rushing,True,,,,,,,,,,,18,101,5.6,2,25,,,,,
+4685261,Germie Bernard,WR,"6'1.5""",206 lbs,Alabama,2023,washington-huskies,passing,True,1,1,100.0,14,14.0,0,0,14,1,217.6,,,,,,,,,,
+4685261,Germie Bernard,WR,"6'1.5""",206 lbs,Alabama,2025,alabama-crimson-tide,passing,True,2,2,100.0,15,7.5,0,0,11,1,163.0,,,,,,,,,,
+4683153,Skyler Bell,WR,"5'11.5""",192 lbs,UConn,2021,wisconsin-badgers,receiving,True,,,,,,,,,,,,,,,,1,15,15.0,0,15
+4683153,Skyler Bell,WR,"5'11.5""",192 lbs,UConn,2022,wisconsin-badgers,receiving,True,,,,,,,,,,,,,,,,30,444,14.8,5,49
+4683153,Skyler Bell,WR,"5'11.5""",192 lbs,UConn,2023,wisconsin-badgers,receiving,True,,,,,,,,,,,,,,,,38,296,7.8,1,30
+4683153,Skyler Bell,WR,"5'11.5""",192 lbs,UConn,2024,uconn-huskies,receiving,True,,,,,,,,,,,,,,,,50,860,17.2,5,70
+4683153,Skyler Bell,WR,"5'11.5""",192 lbs,UConn,2025,uconn-huskies,receiving,True,,,,,,,,,,,,,,,,101,"1,278",12.7,13,80
+4683153,Skyler Bell,WR,"5'11.5""",192 lbs,UConn,2022,wisconsin-badgers,rushing,True,,,,,,,,,,,13,160,12.3,0,44,,,,,
+4683153,Skyler Bell,WR,"5'11.5""",192 lbs,UConn,2024,uconn-huskies,rushing,True,,,,,,,,,,,0,4,0.0,0,4,,,,,
+4683153,Skyler Bell,WR,"5'11.5""",192 lbs,UConn,2025,uconn-huskies,rushing,True,,,,,,,,,,,2,-2,-1.0,0,0,,,,,
+5088338,Elijah Sarratt,WR,"6'2.5""",210 lbs,Indiana,2022,st-francis-pa-red-flash,receiving,True,,,,,,,,,,,,,,,,42,700,16.7,13,65
+5088338,Elijah Sarratt,WR,"6'2.5""",210 lbs,Indiana,2023,james-madison-dukes,receiving,True,,,,,,,,,,,,,,,,82,"1,191",14.5,8,48
+5088338,Elijah Sarratt,WR,"6'2.5""",210 lbs,Indiana,2024,indiana-hoosiers,receiving,True,,,,,,,,,,,,,,,,53,957,18.1,8,84
+5088338,Elijah Sarratt,WR,"6'2.5""",210 lbs,Indiana,2025,indiana-hoosiers,receiving,True,,,,,,,,,,,,,,,,65,830,12.8,15,49
+5088338,Elijah Sarratt,WR,"6'2.5""",210 lbs,Indiana,2022,st-francis-pa-red-flash,rushing,True,,,,,,,,,,,7,47,6.7,0,13,,,,,
+5088338,Elijah Sarratt,WR,"6'2.5""",210 lbs,Indiana,2023,james-madison-dukes,rushing,True,,,,,,,,,,,1,1,1.0,1,1,,,,,
+4870847,Ja'Kobi Lane,WR,"6'4.5""",200 lbs,USC,2023,usc-trojans,receiving,True,,,,,,,,,,,,,,,,7,93,13.3,2,31
+4870847,Ja'Kobi Lane,WR,"6'4.5""",200 lbs,USC,2024,usc-trojans,receiving,True,,,,,,,,,,,,,,,,43,525,12.2,12,33
+4870847,Ja'Kobi Lane,WR,"6'4.5""",200 lbs,USC,2025,usc-trojans,receiving,True,,,,,,,,,,,,,,,,49,745,15.2,4,59
+4879194,Josh Cameron,WR,"6'1.5""",220 lbs,Baylor,2022,baylor-bears,receiving,True,,,,,,,,,,,,,,,,28,386,13.8,0,42
+4879194,Josh Cameron,WR,"6'1.5""",220 lbs,Baylor,2023,baylor-bears,receiving,True,,,,,,,,,,,,,,,,21,224,10.7,0,24
+4879194,Josh Cameron,WR,"6'1.5""",220 lbs,Baylor,2024,baylor-bears,receiving,True,,,,,,,,,,,,,,,,52,754,14.5,10,47
+4879194,Josh Cameron,WR,"6'1.5""",220 lbs,Baylor,2025,baylor-bears,receiving,True,,,,,,,,,,,,,,,,69,872,12.6,9,48
+4879194,Josh Cameron,WR,"6'1.5""",220 lbs,Baylor,2022,baylor-bears,rushing,True,,,,,,,,,,,1,1,1.0,0,1,,,,,
+4879194,Josh Cameron,WR,"6'1.5""",220 lbs,Baylor,2023,baylor-bears,rushing,True,,,,,,,,,,,2,1,0.5,0,2,,,,,
+4869132,Reggie Virgil,WR,"6'2.5""",187 lbs,Texas Tech,2022,miami-oh-redhawks,receiving,True,,,,,,,,,,,,,,,,1,28,28.0,0,28
+4869132,Reggie Virgil,WR,"6'2.5""",187 lbs,Texas Tech,2023,miami-oh-redhawks,receiving,True,,,,,,,,,,,,,,,,1,34,34.0,1,34
+4869132,Reggie Virgil,WR,"6'2.5""",187 lbs,Texas Tech,2024,miami-oh-redhawks,receiving,True,,,,,,,,,,,,,,,,41,816,19.9,9,75
+4869132,Reggie Virgil,WR,"6'2.5""",187 lbs,Texas Tech,2025,texas-tech-red-raiders,receiving,True,,,,,,,,,,,,,,,,57,705,12.4,6,42
+4869132,Reggie Virgil,WR,"6'2.5""",187 lbs,Texas Tech,2025,texas-tech-red-raiders,rushing,True,,,,,,,,,,,2,35,17.5,2,30,,,,,
+4685307,Kevin Coleman Jr.,WR,"5'10.5""",179 lbs,Missouri,2022,jackson-state-tigers,receiving,True,,,,,,,,,,,,,,,,33,510,15.5,3,85
+4685307,Kevin Coleman Jr.,WR,"5'10.5""",179 lbs,Missouri,2023,louisville-cardinals,receiving,True,,,,,,,,,,,,,,,,26,362,13.9,2,58
+4685307,Kevin Coleman Jr.,WR,"5'10.5""",179 lbs,Missouri,2024,mississippi-state-bulldogs,receiving,True,,,,,,,,,,,,,,,,74,932,12.6,6,80
+4685307,Kevin Coleman Jr.,WR,"5'10.5""",179 lbs,Missouri,2025,missouri-tigers,receiving,True,,,,,,,,,,,,,,,,66,732,11.1,1,50
+4685307,Kevin Coleman Jr.,WR,"5'10.5""",179 lbs,Missouri,2022,jackson-state-tigers,rushing,True,,,,,,,,,,,1,-1,-1.0,0,0,,,,,
+4685307,Kevin Coleman Jr.,WR,"5'10.5""",179 lbs,Missouri,2023,louisville-cardinals,rushing,True,,,,,,,,,,,6,25,4.2,0,11,,,,,
+4685307,Kevin Coleman Jr.,WR,"5'10.5""",179 lbs,Missouri,2024,mississippi-state-bulldogs,rushing,True,,,,,,,,,,,4,11,2.8,0,9,,,,,
+4685307,Kevin Coleman Jr.,WR,"5'10.5""",179 lbs,Missouri,2025,missouri-tigers,rushing,True,,,,,,,,,,,9,76,8.4,0,34,,,,,
+4710714,De'Zhaun Stribling,WR,"6'2""",207 lbs,Ole Miss,2021,washington-state-cougars,receiving,True,,,,,,,,,,,,,,,,44,471,10.7,5,26
+4710714,De'Zhaun Stribling,WR,"6'2""",207 lbs,Ole Miss,2022,washington-state-cougars,receiving,True,,,,,,,,,,,,,,,,51,602,11.8,5,38
+4710714,De'Zhaun Stribling,WR,"6'2""",207 lbs,Ole Miss,2023,oklahoma-state-cowboys,receiving,True,,,,,,,,,,,,,,,,14,198,14.1,1,30
+4710714,De'Zhaun Stribling,WR,"6'2""",207 lbs,Ole Miss,2024,oklahoma-state-cowboys,receiving,True,,,,,,,,,,,,,,,,52,882,17.0,6,77
+4710714,De'Zhaun Stribling,WR,"6'2""",207 lbs,Ole Miss,2025,ole-miss-rebels,receiving,True,,,,,,,,,,,,,,,,55,811,14.7,6,75
+4879276,Bryce Lance,WR,"6'3.5""",204 lbs,North Dakota State,2023,north-dakota-state-bison,receiving,True,,,,,,,,,,,,,,,,1,7,7.0,0,7
+4879276,Bryce Lance,WR,"6'3.5""",204 lbs,North Dakota State,2024,north-dakota-state-bison,receiving,True,,,,,,,,,,,,,,,,75,"1,053",14.0,17,74
+4879276,Bryce Lance,WR,"6'3.5""",204 lbs,North Dakota State,2025,north-dakota-state-bison,receiving,True,,,,,,,,,,,,,,,,51,"1,079",21.2,8,81
+4879276,Bryce Lance,WR,"6'3.5""",204 lbs,North Dakota State,2024,north-dakota-state-bison,rushing,True,,,,,,,,,,,5,29,5.8,1,18,,,,,
+4879276,Bryce Lance,WR,"6'3.5""",204 lbs,North Dakota State,2025,north-dakota-state-bison,rushing,True,,,,,,,,,,,4,92,23.0,1,75,,,,,
+4691138,Aaron Anderson,WR,"5'8""",191 lbs,LSU,2023,lsu-tigers,receiving,True,,,,,,,,,,,,,,,,12,59,4.9,0,14
+4691138,Aaron Anderson,WR,"5'8""",191 lbs,LSU,2024,lsu-tigers,receiving,True,,,,,,,,,,,,,,,,61,884,14.5,5,76
+4691138,Aaron Anderson,WR,"5'8""",191 lbs,LSU,2025,lsu-tigers,receiving,True,,,,,,,,,,,,,,,,33,398,12.1,0,39
+4691138,Aaron Anderson,WR,"5'8""",191 lbs,LSU,2025,lsu-tigers,rushing,True,,,,,,,,,,,1,2,2.0,0,2,,,,,
+4602185,Eric McAlister,WR,"6'3.5""",194 lbs,TCU,2022,boise-state-broncos,receiving,True,,,,,,,,,,,,,,,,11,259,23.5,4,44
+4602185,Eric McAlister,WR,"6'3.5""",194 lbs,TCU,2023,boise-state-broncos,receiving,True,,,,,,,,,,,,,,,,47,873,18.6,5,83
+4602185,Eric McAlister,WR,"6'3.5""",194 lbs,TCU,2024,tcu-horned-frogs,receiving,True,,,,,,,,,,,,,,,,39,762,19.5,5,84
+4602185,Eric McAlister,WR,"6'3.5""",194 lbs,TCU,2025,tcu-horned-frogs,receiving,True,,,,,,,,,,,,,,,,72,"1,190",16.5,10,85
+4713277,Eric Rivers,WR,"5'10""",176 lbs,Georgia Tech,2023,florida-international-panthers,receiving,True,,,,,,,,,,,,,,,,32,343,10.7,2,48
+4713277,Eric Rivers,WR,"5'10""",176 lbs,Georgia Tech,2024,florida-international-panthers,receiving,True,,,,,,,,,,,,,,,,62,"1,172",18.9,12,62
+4713277,Eric Rivers,WR,"5'10""",176 lbs,Georgia Tech,2025,georgia-tech-yellow-jackets,receiving,True,,,,,,,,,,,,,,,,46,658,14.3,2,68
+4713277,Eric Rivers,WR,"5'10""",176 lbs,Georgia Tech,2023,florida-international-panthers,rushing,True,,,,,,,,,,,1,3,3.0,0,3,,,,,
+4713277,Eric Rivers,WR,"5'10""",176 lbs,Georgia Tech,2024,florida-international-panthers,rushing,True,,,,,,,,,,,1,-3,-3.0,0,0,,,,,
+4713277,Eric Rivers,WR,"5'10""",176 lbs,Georgia Tech,2025,georgia-tech-yellow-jackets,rushing,True,,,,,,,,,,,7,56,8.0,0,27,,,,,
+4605951,CJ Daniels,WR,"6'2.5""",202 lbs,Miami,2020,liberty-flames,receiving,True,,,,,,,,,,,,,,,,11,220,20.0,3,56
+4605951,CJ Daniels,WR,"6'2.5""",202 lbs,Miami,2021,liberty-flames,receiving,True,,,,,,,,,,,,,,,,37,629,17.0,7,40
+4605951,CJ Daniels,WR,"6'2.5""",202 lbs,Miami,2022,liberty-flames,receiving,True,,,,,,,,,,,,,,,,3,38,12.7,1,25
+4605951,CJ Daniels,WR,"6'2.5""",202 lbs,Miami,2023,liberty-flames,receiving,True,,,,,,,,,,,,,,,,55,"1,067",19.4,10,75
+4605951,CJ Daniels,WR,"6'2.5""",202 lbs,Miami,2024,lsu-tigers,receiving,True,,,,,,,,,,,,,,,,42,480,11.4,0,34
+4605951,CJ Daniels,WR,"6'2.5""",202 lbs,Miami,2025,miami-hurricanes,receiving,True,,,,,,,,,,,,,,,,50,557,11.1,7,47
+4605951,CJ Daniels,WR,"6'2.5""",202 lbs,Miami,2021,liberty-flames,rushing,True,,,,,,,,,,,0,0,0.0,1,0,,,,,
+4605951,CJ Daniels,WR,"6'2.5""",202 lbs,Miami,2021,liberty-flames,passing,True,1,1,100.0,13,13.0,0,0,13,0,209.2,,,,,,,,,,
+4605951,CJ Daniels,WR,"6'2.5""",202 lbs,Miami,2022,liberty-flames,passing,True,1,1,100.0,67,67.0,1,0,67,0,992.8,,,,,,,,,,
+5081432,Antonio Williams,WR,"5'11.5""",187 lbs,Clemson,2022,clemson-tigers,receiving,True,,,,,,,,,,,,,,,,56,604,10.8,4,59
+5081432,Antonio Williams,WR,"5'11.5""",187 lbs,Clemson,2023,clemson-tigers,receiving,True,,,,,,,,,,,,,,,,21,208,9.9,2,33
+5081432,Antonio Williams,WR,"5'11.5""",187 lbs,Clemson,2024,clemson-tigers,receiving,True,,,,,,,,,,,,,,,,75,904,12.1,11,57
+5081432,Antonio Williams,WR,"5'11.5""",187 lbs,Clemson,2025,clemson-tigers,receiving,True,,,,,,,,,,,,,,,,55,604,11.0,4,64
+5081432,Antonio Williams,WR,"5'11.5""",187 lbs,Clemson,2022,clemson-tigers,rushing,True,,,,,,,,,,,5,8,1.6,0,4,,,,,
+5081432,Antonio Williams,WR,"5'11.5""",187 lbs,Clemson,2024,clemson-tigers,rushing,True,,,,,,,,,,,7,101,14.4,1,36,,,,,
+5081432,Antonio Williams,WR,"5'11.5""",187 lbs,Clemson,2025,clemson-tigers,rushing,True,,,,,,,,,,,13,78,6.0,1,24,,,,,
+5081432,Antonio Williams,WR,"5'11.5""",187 lbs,Clemson,2022,clemson-tigers,passing,True,1,1,100.0,6,6.0,0,0,6,0,150.4,,,,,,,,,,
+5081432,Antonio Williams,WR,"5'11.5""",187 lbs,Clemson,2024,clemson-tigers,passing,True,2,2,100.0,62,31.0,1,0,34,0,525.4,,,,,,,,,,
+5081432,Antonio Williams,WR,"5'11.5""",187 lbs,Clemson,2025,clemson-tigers,passing,True,1,1,100.0,75,75.0,1,0,75,0,1060.0,,,,,,,,,,
+5083315,Kenyon Sadiq,TE,"6'3""",241 lbs,Oregon,2023,oregon-ducks,receiving,True,,,,,,,,,,,,,,,,5,24,4.8,1,9
+5083315,Kenyon Sadiq,TE,"6'3""",241 lbs,Oregon,2024,oregon-ducks,receiving,True,,,,,,,,,,,,,,,,24,308,12.8,2,39
+5083315,Kenyon Sadiq,TE,"6'3""",241 lbs,Oregon,2025,oregon-ducks,receiving,True,,,,,,,,,,,,,,,,51,560,11.0,8,30
+5083315,Kenyon Sadiq,TE,"6'3""",241 lbs,Oregon,2023,oregon-ducks,rushing,True,,,,,,,,,,,1,12,12.0,0,12,,,,,
+5083315,Kenyon Sadiq,TE,"6'3""",241 lbs,Oregon,2024,oregon-ducks,rushing,True,,,,,,,,,,,5,24,4.8,0,16,,,,,
+5083315,Kenyon Sadiq,TE,"6'3""",241 lbs,Oregon,2025,oregon-ducks,rushing,True,,,,,,,,,,,3,6,2.0,0,3,,,,,
+4431574,Eli Stowers,TE,"6'4""",239 lbs,Vanderbilt,2023,new-mexico-state-aggies,receiving,True,,,,,,,,,,,,,,,,35,366,10.5,2,32
+4431574,Eli Stowers,TE,"6'4""",239 lbs,Vanderbilt,2024,vanderbilt-commodores,receiving,True,,,,,,,,,,,,,,,,49,638,13.0,5,41
+4431574,Eli Stowers,TE,"6'4""",239 lbs,Vanderbilt,2025,vanderbilt-commodores,receiving,True,,,,,,,,,,,,,,,,62,769,12.4,4,67
+4431574,Eli Stowers,TE,"6'4""",239 lbs,Vanderbilt,2023,new-mexico-state-aggies,rushing,True,,,,,,,,,,,29,125,4.3,2,26,,,,,
+4431574,Eli Stowers,TE,"6'4""",239 lbs,Vanderbilt,2024,vanderbilt-commodores,rushing,True,,,,,,,,,,,6,7,1.2,0,9,,,,,
+4431574,Eli Stowers,TE,"6'4""",239 lbs,Vanderbilt,2025,vanderbilt-commodores,rushing,True,,,,,,,,,,,2,2,1.0,0,4,,,,,
+4431574,Eli Stowers,TE,"6'4""",239 lbs,Vanderbilt,2023,new-mexico-state-aggies,passing,True,4,8,50.0,99,12.4,1,0,63,0,195.2,,,,,,,,,,
+4431574,Eli Stowers,TE,"6'4""",239 lbs,Vanderbilt,2024,vanderbilt-commodores,passing,True,1,2,50.0,17,8.5,1,0,17,0,286.4,,,,,,,,,,
+4833029,Max Klare,TE,"6'4.5""",246 lbs,Ohio State,2023,purdue-boilermakers,receiving,True,,,,,,,,,,,,,,,,22,196,8.9,0,27
+4833029,Max Klare,TE,"6'4.5""",246 lbs,Ohio State,2024,purdue-boilermakers,receiving,True,,,,,,,,,,,,,,,,51,685,13.4,4,62
+4833029,Max Klare,TE,"6'4.5""",246 lbs,Ohio State,2025,ohio-state-buckeyes,receiving,True,,,,,,,,,,,,,,,,43,448,10.4,2,39
+4594749,Michael Trigg,TE,"6'4""",240 lbs,Baylor,2021,usc-trojans,receiving,True,,,,,,,,,,,,,,,,7,109,15.6,1,46
+4594749,Michael Trigg,TE,"6'4""",240 lbs,Baylor,2022,ole-miss-rebels,receiving,True,,,,,,,,,,,,,,,,17,156,9.2,3,28
+4594749,Michael Trigg,TE,"6'4""",240 lbs,Baylor,2023,ole-miss-rebels,receiving,True,,,,,,,,,,,,,,,,4,65,16.3,1,21
+4594749,Michael Trigg,TE,"6'4""",240 lbs,Baylor,2024,baylor-bears,receiving,True,,,,,,,,,,,,,,,,30,395,13.2,3,42
+4594749,Michael Trigg,TE,"6'4""",240 lbs,Baylor,2025,baylor-bears,receiving,True,,,,,,,,,,,,,,,,50,694,13.9,6,42
+5085189,Jack Endries,TE,"6'4.5""",245 lbs,Texas,2023,california-golden-bears,receiving,True,,,,,,,,,,,,,,,,35,408,11.7,2,32
+5085189,Jack Endries,TE,"6'4.5""",245 lbs,Texas,2024,california-golden-bears,receiving,True,,,,,,,,,,,,,,,,56,623,11.1,2,57
+5085189,Jack Endries,TE,"6'4.5""",245 lbs,Texas,2025,texas-longhorns,receiving,True,,,,,,,,,,,,,,,,33,346,10.5,3,54
+4912052,Justin Joly,TE,"6'3.5""",241 lbs,NC State,2022,uconn-huskies,receiving,True,,,,,,,,,,,,,,,,18,250,13.9,2,62
+4912052,Justin Joly,TE,"6'3.5""",241 lbs,NC State,2023,uconn-huskies,receiving,True,,,,,,,,,,,,,,,,56,578,10.3,2,59
+4912052,Justin Joly,TE,"6'3.5""",241 lbs,NC State,2024,nc-state-wolfpack,receiving,True,,,,,,,,,,,,,,,,43,661,15.4,4,40
+4912052,Justin Joly,TE,"6'3.5""",241 lbs,NC State,2025,nc-state-wolfpack,receiving,True,,,,,,,,,,,,,,,,49,489,10.0,7,59
+4912052,Justin Joly,TE,"6'3.5""",241 lbs,NC State,2022,uconn-huskies,rushing,True,,,,,,,,,,,1,12,12.0,0,12,,,,,
+4685504,Sam Roush,TE,"6'6""",267 lbs,Stanford,2022,stanford-cardinal,receiving,True,,,,,,,,,,,,,,,,2,34,17.0,0,23
+4685504,Sam Roush,TE,"6'6""",267 lbs,Stanford,2023,stanford-cardinal,receiving,True,,,,,,,,,,,,,,,,28,288,10.3,0,31
+4685504,Sam Roush,TE,"6'6""",267 lbs,Stanford,2024,stanford-cardinal,receiving,True,,,,,,,,,,,,,,,,40,334,8.4,2,28
+4685504,Sam Roush,TE,"6'6""",267 lbs,Stanford,2025,stanford-cardinal,receiving,True,,,,,,,,,,,,,,,,49,545,11.1,2,69
+4685504,Sam Roush,TE,"6'6""",267 lbs,Stanford,2023,stanford-cardinal,rushing,True,,,,,,,,,,,1,1,1.0,0,1,,,,,
+4831959,Eli Raridon,TE,"6'6""",245 lbs,Notre Dame,2023,notre-dame-fighting-irish,receiving,True,,,,,,,,,,,,,,,,5,51,10.2,1,19
+4831959,Eli Raridon,TE,"6'6""",245 lbs,Notre Dame,2024,notre-dame-fighting-irish,receiving,True,,,,,,,,,,,,,,,,11,90,8.2,2,14
+4831959,Eli Raridon,TE,"6'6""",245 lbs,Notre Dame,2025,notre-dame-fighting-irish,receiving,True,,,,,,,,,,,,,,,,32,482,15.1,0,65
+4565859,Joe Royer,TE,"6'5""",247 lbs,Cincinnati,2021,ohio-state-buckeyes,receiving,True,,,,,,,,,,,,,,,,1,9,9.0,0,9
+4565859,Joe Royer,TE,"6'5""",247 lbs,Cincinnati,2022,ohio-state-buckeyes,receiving,True,,,,,,,,,,,,,,,,2,10,5.0,0,9
+4565859,Joe Royer,TE,"6'5""",247 lbs,Cincinnati,2023,ohio-state-buckeyes,receiving,True,,,,,,,,,,,,,,,,1,5,5.0,0,5
+4565859,Joe Royer,TE,"6'5""",247 lbs,Cincinnati,2024,cincinnati-bearcats,receiving,True,,,,,,,,,,,,,,,,50,522,10.4,3,38
+4565859,Joe Royer,TE,"6'5""",247 lbs,Cincinnati,2025,cincinnati-bearcats,receiving,True,,,,,,,,,,,,,,,,29,416,14.3,4,73
+4702559,Oscar Delp,TE,"6'5""",245 lbs,Georgia,2022,georgia-bulldogs,receiving,True,,,,,,,,,,,,,,,,5,61,12.2,1,28
+4702559,Oscar Delp,TE,"6'5""",245 lbs,Georgia,2023,georgia-bulldogs,receiving,True,,,,,,,,,,,,,,,,24,284,11.8,3,41
+4702559,Oscar Delp,TE,"6'5""",245 lbs,Georgia,2024,georgia-bulldogs,receiving,True,,,,,,,,,,,,,,,,21,248,11.8,4,43
+4702559,Oscar Delp,TE,"6'5""",245 lbs,Georgia,2025,georgia-bulldogs,receiving,True,,,,,,,,,,,,,,,,20,261,13.1,1,36
+5159802,Dallen Bentley,TE,"6'4""",253 lbs,Utah,2023,utah-utes,receiving,True,,,,,,,,,,,,,,,,1,5,5.0,0,5
+5159802,Dallen Bentley,TE,"6'4""",253 lbs,Utah,2024,utah-utes,receiving,True,,,,,,,,,,,,,,,,2,15,7.5,0,12
+5159802,Dallen Bentley,TE,"6'4""",253 lbs,Utah,2025,utah-utes,receiving,True,,,,,,,,,,,,,,,,48,620,12.9,6,45
+4686248,Nate Boerkircher,TE,"6'5.5""",245 lbs,Texas A&M,2021,nebraska-cornhuskers,receiving,True,,,,,,,,,,,,,,,,2,14,7.0,0,7
+4686248,Nate Boerkircher,TE,"6'5.5""",245 lbs,Texas A&M,2022,nebraska-cornhuskers,receiving,True,,,,,,,,,,,,,,,,6,52,8.7,1,19
+4686248,Nate Boerkircher,TE,"6'5.5""",245 lbs,Texas A&M,2023,nebraska-cornhuskers,receiving,True,,,,,,,,,,,,,,,,5,51,10.2,0,17
+4686248,Nate Boerkircher,TE,"6'5.5""",245 lbs,Texas A&M,2024,nebraska-cornhuskers,receiving,True,,,,,,,,,,,,,,,,6,102,17.0,0,25
+4686248,Nate Boerkircher,TE,"6'5.5""",245 lbs,Texas A&M,2025,texas-am-aggies,receiving,True,,,,,,,,,,,,,,,,19,198,10.4,3,28
+4686248,Nate Boerkircher,TE,"6'5.5""",245 lbs,Texas A&M,2023,nebraska-cornhuskers,rushing,True,,,,,,,,,,,1,11,11.0,0,11,,,,,
+4686248,Nate Boerkircher,TE,"6'5.5""",245 lbs,Texas A&M,2025,texas-am-aggies,rushing,True,,,,,,,,,,,3,5,1.7,1,3,,,,,
+4695705,Marlin Klein,TE,"6'6""",248 lbs,Michigan,2023,michigan-wolverines,receiving,True,,,,,,,,,,,,,,,,1,8,8.0,0,8
+4695705,Marlin Klein,TE,"6'6""",248 lbs,Michigan,2024,michigan-wolverines,receiving,True,,,,,,,,,,,,,,,,13,108,8.3,0,33
+4695705,Marlin Klein,TE,"6'6""",248 lbs,Michigan,2025,michigan-wolverines,receiving,True,,,,,,,,,,,,,,,,24,248,10.3,1,27

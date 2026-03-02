@@ -1,0 +1,755 @@
+espn_id,name,position,height,weight,dob,age,birth_place,college,college_id,draft_year,draft_round,draft_pick,draft_team,experience,hand,college_athlete_id
+2578570,Jacoby Brissett,QB,"6' 4""",235 lbs,11/12/1992,33,"West Palm Beach, FL",NC State,152,2016,3,91,NE,10th Season,,512191
+4692835,Jalen Brooks,WR,"6' 2""",205 lbs,7/5/2000,25,"Harrisburg, NC",South Carolina,2579,2023,7,244,DAL,3rd Season,,4692835
+2971281,Pharaoh Brown,TE,"6' 5""",246 lbs,4/5/1994,31,"Lyndhurst, OH",Oregon,2483,,,,,8th Season,,530869
+4240657,Michael Carter,RB,"5' 8""",201 lbs,7/5/1999,26,"Navarre, FL",North Carolina,153,2021,4,107,NYJ,4th Season,,4240657
+3914151,Josiah Deguara,TE,"6' 2""",240 lbs,14/2/1997,29,"Folsom, CA",Cincinnati,2132,2020,3,94,GB,5th Season,,3914151
+4362478,Emari Demercado,RB,"5' 9""",215 lbs,20/1/1999,27,"Inglewood, CA",TCU,2628,,,,,3rd Season,,4362478
+4605858,Rivaldo Fairweather,TE,"6' 3""",249 lbs,19/7/2002,23,"Lauderhill, FL",Auburn,2,,,,,Rookie,,4605858
+4432705,Bryson Green,WR,"6' 1""",210 lbs,30/12/2002,23,"Allen, TX",Wisconsin,275,,,,,Rookie,,4432705
+4426844,Elijah Higgins,TE,"6' 3""",245 lbs,27/10/2000,25,"Austin, TX",Stanford,24,2023,6,197,MIA,3rd Season,,4426844
+4431431,Corey Kiner,RB,"5' 9""",210 lbs,21/1/2002,24,"Cincinnati, OH",Cincinnati,2132,,,,,Rookie,,4431431
+4361307,Trey McBride,TE,"6' 4""",246 lbs,22/11/1999,26,"Fort Morgan, CO",Colorado State,36,2022,2,55,ARI,4th Season,,4361307
+4875912,Tejhaun Palmer,WR,"6' 1""",210 lbs,19/5/2000,25,"Milwaukee, WI",UAB,5,2024,6,191,ARI,1st Season,,4875912
+4428512,Kedon Slovis,QB,"6' 2""",223 lbs,11/4/2001,24,"Scottsdale, AZ",BYU,252,,,,,1st Season,,4428512
+4240573,Ihmir Smith-Marsette,WR,"6' 1""",185 lbs,29/8/1999,26,"Newark, NJ",Iowa,2294,2021,5,157,MIN,5th Season,,4240573
+4428811,Xavier Weaver,WR,"6' 1""",185 lbs,12/10/2000,25,"Orlando, FL",Colorado,38,,,,,2nd Season,,4428811
+4360761,Michael Wilson,WR,"6' 2""",213 lbs,23/2/2000,26,"Simi Valley, CA",Stanford,24,2023,3,94,ARI,3rd Season,,4360761
+3886809,Andre Baccellia,WR,"5' 10""",180 lbs,7/1/1997,29,"Thousand Oaks, CA",Washington,264,,,,,2nd Season,,3886809
+4429275,Trey Benson,RB,"6' 0""",220 lbs,23/7/2002,23,"Greenville, MS",Florida State,52,2024,3,66,ARI,2nd Season,,4429275
+3045147,James Conner,RB,"6' 1""",233 lbs,5/5/1995,30,"Erie, PA",Pittsburgh,221,2017,3,105,PIT,9th Season,,546653
+4037235,Greg Dortch,WR,"5' 7""",180 lbs,29/5/1998,27,"Richmond, VA",Wake Forest,154,,,,,5th Season,,4037235
+4360739,Simi Fehoko,WR,"6' 4""",225 lbs,5/11/1997,28,"Sandy, UT",Stanford,24,2021,5,179,DAL,5th Season,,4360739
+4432708,Marvin Harrison Jr.,WR,"6' 3""",220 lbs,11/8/2002,23,"Philadelphia, PA",Ohio State,194,2024,1,4,ARI,2nd Season,,4432708
+3059722,Zay Jones,WR,"6' 2""",200 lbs,30/3/1995,30,"Austin, TX",East Carolina,151,2017,2,37,BUF,9th Season,,552940
+4427728,Bam Knight,RB,"5' 11""",210 lbs,11/4/2001,24,"Bailey, NC",NC State,152,,,,,3rd Season,,4427728
+3917315,Kyler Murray,QB,"5' 10""",207 lbs,7/8/1997,28,"Allen, TX",Oklahoma,201,2019,1,1,ARI,7th Season,L,3917315
+4696700,Tip Reiman,TE,"6' 5""",271 lbs,17/9/2001,24,"Rapid City, SD",Illinois,356,2024,3,82,ARI,2nd Season,,4696700
+4259324,Travis Vokolek,TE,"6' 6""",260 lbs,4/6/1998,27,"Springfield, MO",Nebraska,158,,,,,2nd Season,,4259324
+4373626,Tyler Allgeier,RB,"5' 10""",225 lbs,15/4/2000,25,"Fontana, CA",BYU,252,2022,5,151,ATL,4th Season,,4373626
+4369886,Chris Blair,WR,"6' 2""",215 lbs,6/10/1997,28,"Louisville, MS",Alcorn State,2016,,,,,2nd Season,,4369886
+4605841,Nathan Carter,RB,"5' 10""",202 lbs,22/5/2002,23,"Rochester, NY",Michigan State,127,,,,,Rookie,,4605841
+14880,Kirk Cousins,QB,"6' 3""",205 lbs,19/8/1988,37,"Holland, MI",Michigan State,127,2012,4,102,WSH,14th Season,,238910
+4363551,Dylan Drummond,WR,"6' 0""",190 lbs,17/1/2000,26,"Cleveland, OH",Eastern Michigan,2199,,,,,1st Season,,4363551
+4034948,Feleipe Franks,TE,"6' 6""",241 lbs,22/12/1997,28,"Crawfordville, FL",Arkansas,8,,,,,3rd Season,,4034948
+4689334,Malik Heath,WR,"6' 2""",213 lbs,31/3/2000,25,"Jackson, MS",Ole Miss,145,,,,,3rd Season,,4689334
+4426502,Drake London,WR,"6' 4""",215 lbs,24/7/2001,24,"Moorpark, CA",USC,30,2022,1,8,ATL,4th Season,,4426502
+4040655,Darnell Mooney,WR,"5' 11""",180 lbs,29/10/1997,28,"Gadsden, AL",Tulane,2655,2020,5,173,CHI,6th Season,L,4040655
+4360248,Kyle Pitts Sr.,TE,"6' 6""",250 lbs,6/10/2000,25,"Philadelphia, PA",Florida,57,2021,1,4,ATL,5th Season,,4360248
+4374045,Teagan Quitoriano,TE,"6' 6""",259 lbs,15/3/2000,25,"Salem, OR",Oregon State,204,2022,5,170,HOU,4th Season,,4374045
+4430807,Bijan Robinson,RB,"5' 11""",215 lbs,30/1/2002,24,"Tucson, AZ",Texas,251,2023,1,8,ATL,3rd Season,,4430807
+3871102,David Sills V,WR,"6' 3""",211 lbs,29/5/1996,29,"Wilmington, DE",West Virginia,277,,,,,3rd Season,,3871102
+4430482,Joshua Simon,TE,"6' 4""",240 lbs,27/11/2000,25,"Dalzell, SC",South Carolina,2579,,,,,Rookie,,4430482
+3120590,Easton Stick,QB,"6' 1""",224 lbs,15/9/1995,30,"Omaha, NE",North Dakota State,2449,2019,5,166,LAC,6th Season,,3120590
+4374187,Deven Thompkins,WR,"5' 8""",155 lbs,23/12/1999,26,"Fort Myers, FL",Utah State,328,,,,,4th Season,,4374187
+4428796,Casey Washington,WR,"6' 0""",205 lbs,6/3/2001,24,"Round Rock, TX",Illinois,356,2024,6,187,ATL,2nd Season,,4428796
+4248425,Carlos Washington Jr.,RB,"5' 11""",210 lbs,26/12/1998,27,"Clinton, MD",SE Louisiana,2545,,,,,1st Season,,4248425
+4035020,Charlie Woerner,TE,"6' 5""",250 lbs,16/10/1997,28,"Tiger, GA",Georgia,61,2020,6,190,SF,6th Season,,4035020
+4360423,Michael Penix Jr.,QB,"6' 3""",220 lbs,8/5/2000,25,"Tampa, FL",Washington,264,2024,1,8,ATL,2nd Season,,4360423
+4690013,Rasheen Ali,RB,"5' 11""",210 lbs,16/2/2001,25,"Cleveland, OH",Marshall,276,2024,5,165,BAL,2nd Season,,4690013
+3116365,Mark Andrews,TE,"6' 5""",250 lbs,6/9/1995,30,"Scottsdale, AZ",Oklahoma,201,2018,3,86,BAL,8th Season,,3116365
+4360939,Rashod Bateman,WR,"6' 1""",193 lbs,29/11/1999,26,"Tifton, GA",Minnesota,135,2021,1,27,BAL,5th Season,,4360939
+4429615,Zay Flowers,WR,"5' 9""",183 lbs,11/9/2000,25,"Fort Lauderdale, FL",Boston College,103,2023,1,22,BAL,3rd Season,,4429615
+3043078,Derrick Henry,RB,"6' 2""",252 lbs,4/1/1994,32,"Yulee, FL",Alabama,333,2016,2,45,TEN,10th Season,,546368
+15795,DeAndre Hopkins,WR,"6' 1""",210 lbs,6/6/1992,33,"Central, SC",Clemson,228,2013,1,27,HOU,13th Season,,501689
+4035671,Tyler Huntley,QB,"6' 1""",204 lbs,3/2/1998,28,"Dania, FL",Utah,254,,,,,6th Season,,4035671
+3916387,Lamar Jackson,QB,"6' 2""",205 lbs,7/1/1997,29,"Pompano Beach, FL",Louisville,97,2018,1,32,BAL,8th Season,,3916387
+4426479,Cornelius Johnson,WR,"6' 3""",212 lbs,29/11/2000,25,"Greenwich, CT",Michigan,130,2024,7,253,LAC,1st Season,,4426479
+4241263,Charlie Kolar,TE,"6' 6""",265 lbs,10/2/1999,27,"Norman, OK",Iowa State,66,2022,4,128,BAL,4th Season,,4241263
+4361050,Isaiah Likely,TE,"6' 4""",245 lbs,18/4/2000,25,"Cambridge, MA",Coastal Carolina,324,2022,4,139,BAL,4th Season,,4361050
+4596334,Keaton Mitchell,RB,"5' 8""",190 lbs,17/1/2002,24,"Mcdonough, GA",East Carolina,151,,,,,3rd Season,,4596334
+2972515,Cooper Rush,QB,"6' 3""",225 lbs,21/11/1993,32,"Charlotte, MI",Central Michigan,2117,,,,,8th Season,,531455
+4696882,Devontez Walker,WR,"6' 1""",198 lbs,19/6/2001,24,"Charlotte, NC",North Carolina,153,2024,4,113,BAL,2nd Season,,4696882
+4241424,Tylan Wallace,WR,"5' 11""",200 lbs,13/5/1999,26,"Fort Worth, TX",Oklahoma State,197,2021,4,131,BAL,5th Season,,4241424
+4690143,LaJohntay Wester,WR,"5' 9""",170 lbs,29/3/2002,23,"Palmetto, FL",Colorado,38,2025,6,203,BAL,Rookie,,4690143
+4038441,Justice Hill,RB,"5' 10""",205 lbs,14/11/1997,28,"Tulsa, OK",Oklahoma State,197,2019,4,113,BAL,7th Season,,4038441
+4428763,Dayton Wade,WR,"5' 9""",184 lbs,8/9/2000,25,"Atlanta, GA",Ole Miss,145,,,,,1st Season,,4428763
+3918298,Josh Allen,QB,"6' 5""",237 lbs,21/5/1996,29,"Firebaugh, CA",Wyoming,2751,2018,1,7,BUF,8th Season,,3918298
+4039034,Shane Buechele,QB,"6' 0""",210 lbs,8/1/1998,28,"Arlington, TX",SMU,2567,,,,,4th Season,,4039034
+4635008,Keon Coleman,WR,"6' 4""",215 lbs,17/5/2003,22,"Opelousas, LA",Florida State,52,2024,2,33,BUF,2nd Season,,4635008
+4379399,James Cook III,RB,"5' 11""",190 lbs,25/9/1999,26,"Miami, FL",Georgia,61,2022,2,63,BUF,4th Season,,4379399
+16731,Brandin Cooks,WR,"5' 10""",189 lbs,25/9/1993,32,"Stockton, CA",Oregon State,204,2014,1,20,NO,12th Season,,511476
+4429501,Ray Davis,RB,"5' 8""",220 lbs,11/11/1999,26,"San Francisco, CA",Kentucky,96,2024,4,128,BUF,2nd Season,,4429501
+4429805,Frank Gore Jr.,RB,"5' 8""",195 lbs,13/3/2002,23,"Miami, FL",Southern Miss,2572,,,,,1st Season,,4429805
+4432215,Stephen Gosnell,WR,"6' 2""",198 lbs,22/10/2001,24,"Pilot Mountain, NC",Virginia Tech,259,,,,,Rookie,,4432215
+4035004,Mecole Hardman Jr.,WR,"5' 10""",187 lbs,12/3/1998,27,"Bowman, GA",Georgia,61,2019,2,56,KC,7th Season,,4035004
+4573699,Jackson Hawes,TE,"6' 4""",253 lbs,6/12/2000,25,"Salt Lake City, UT",Georgia Tech,59,2025,5,173,BUF,Rookie,,4573699
+3915411,Ty Johnson,RB,"5' 10""",210 lbs,17/9/1997,28,"Cumberland, MD",Maryland,120,2019,6,186,DET,7th Season,,3915411
+4385690,Dalton Kincaid,TE,"6' 4""",240 lbs,18/10/1999,26,"Las Vegas, NV",Utah,254,2023,1,25,BUF,3rd Season,,4385690
+3930086,Dawson Knox,TE,"6' 4""",254 lbs,14/11/1996,29,"Brentwood, TN",Ole Miss,145,2019,3,96,BUF,7th Season,,3930086
+4688552,Keleki Latu,TE,"6' 7""",244 lbs,13/8/2002,23,"Sacramento, CA",Washington,264,,,,,Rookie,,4688552
+3121427,Curtis Samuel,WR,"5' 11""",195 lbs,11/8/1996,29,"Brooklyn, NY",Ohio State,194,2017,2,40,CAR,9th Season,L,3121427
+4373678,Khalil Shakir,WR,"6' 0""",190 lbs,3/2/2000,26,"Murrieta, CA",Boise State,68,2022,5,148,BUF,4th Season,,4373678
+3039707,Mitchell Trubisky,QB,"6' 3""",222 lbs,20/8/1994,31,"Mentor, OH",North Carolina,153,2017,1,2,CHI,9th Season,,545238
+4036448,Jalen Virgil,WR,"6' 1""",210 lbs,13/7/1998,27,"Lawrenceville, GA",App State,2026,,,,,4th Season,,4036448
+4243537,Gabe Davis,WR,"6' 2""",225 lbs,1/4/1999,26,"Sanford, FL",UCF,2116,2020,4,128,BUF,6th Season,,4243537
+4242433,Joshua Palmer,WR,"6' 1""",210 lbs,22/9/1999,26,"Brampton, ON",Tennessee,2633,2021,3,77,LAC,5th Season,,4242433
+4241476,Tyrell Shavers,WR,"6' 4""",211 lbs,18/8/1999,26,"Lewisville, TX",San Diego State,21,,,,,1st Season,,4241476
+3929637,Dan Chisena,WR,"6' 3""",202 lbs,25/2/1997,29,"Downingtown, PA",Penn State,213,,,,,5th Season,,3929637
+4695883,Jalen Coker,WR,"6' 3""",213 lbs,30/10/2001,24,"Sterling, VA",Holy Cross,107,,,,,2nd Season,,4695883
+14012,Andy Dalton,QB,"6' 2""",220 lbs,29/10/1987,38,"Katy, TX",TCU,2628,2011,2,35,CIN,15th Season,,183253
+4038815,Rico Dowdle,RB,"5' 11""",215 lbs,14/6/1998,27,"Asheville, NC",South Carolina,2579,,,,,6th Season,,4038815
+4685350,Trevor Etienne,RB,"5' 8""",198 lbs,9/7/2004,21,"Jennings, LA",Georgia,61,2025,4,114,CAR,Rookie,,4685350
+4683243,Mitchell Evans,TE,"6' 5""",258 lbs,18/3/2003,22,"Wadsworth, OH",Notre Dame,87,2025,5,163,CAR,Rookie,,4683243
+4708486,Jimmy Horn Jr.,WR,"5' 8""",174 lbs,12/9/2002,23,"Sanford, FL",Colorado,38,2025,6,208,CAR,Rookie,,4708486
+4241416,Chuba Hubbard,RB,"6' 1""",210 lbs,11/6/1999,26,"Sherwood Park, AB",Oklahoma State,197,2021,4,126,CAR,5th Season,,4241416
+4684625,Montrell Johnson Jr.,RB,"5' 11""",212 lbs,13/10/2002,23,"New Orleans, LA",Florida,57,,,,,Rookie,,4684625
+4430034,Xavier Legette,WR,"6' 3""",227 lbs,29/1/2001,25,"Mullins, SC",South Carolina,2579,2024,1,32,CAR,2nd Season,,4430034
+4685472,Tetairoa McMillan,WR,"6' 5""",212 lbs,5/4/2003,22,"Waimanalo, HI",Arizona,12,2025,1,8,CAR,Rookie,,4685472
+4361988,James Mitchell,TE,"6' 4""",249 lbs,11/8/1999,26,"Big Stone Gap, VA",Virginia Tech,259,2022,5,177,DET,3rd Season,,4361988
+4212909,David Moore,WR,"6' 0""",220 lbs,15/1/1995,31,"Gainesville, TX",East Central (OK),2191,2017,7,226,SEA,7th Season,,4212909
+5082648,Bryce Pierre,TE,"6' 5""",255 lbs,25/1/2001,25,"Rancho Cucamonga, CA",UCLA,26,,,,,Rookie,,5082648
+4876995,Ja'seem Reed,WR,"6' 2""",195 lbs,21/3/2003,22,"Thousand Oaks, CA",San Diego,301,,,,,Rookie,,4876995
+4428532,Ainias Smith,WR,"5' 9""",176 lbs,31/5/2001,24,"Missouri City, TX",Texas A&M,245,2024,5,152,PHI,2nd Season,,4428532
+4360763,Brycen Tremayne,WR,"6' 4""",212 lbs,18/11/1999,26,"Los Angeles, CA",Stanford,24,,,,,1st Season,,4360763
+4372780,Tommy Tremble,TE,"6' 4""",250 lbs,2/6/2000,25,"Johns Creek, GA",Notre Dame,87,2021,3,83,CAR,5th Season,,4372780
+4709392,Anthony Tyus III,RB,"6' 1""",226 lbs,20/3/2003,22,"Portage, MI",Ohio,195,,,,,Rookie,,4709392
+4685720,Bryce Young,QB,"5' 10""",204 lbs,25/7/2001,24,"Pasadena, CA",Alabama,333,2023,1,1,CAR,3rd Season,,4685720
+4678008,Jonathon Brooks,RB,"6' 0""",207 lbs,21/7/2003,22,"Hallettsville, TX",Texas,251,2024,2,46,CAR,2nd Season,,4678008
+4431588,Ja'Tavion Sanders,TE,"6' 4""",252 lbs,27/3/2003,22,"Denton, TX",Texas,251,2024,4,101,CAR,2nd Season,,4431588
+3914307,Maurice Alexander,WR,"5' 10""",173 lbs,10/1/1997,29,"Florida City, FL",Florida International,2229,,,,,1st Season,,3914307
+4434153,Tyson Bagent,QB,"6' 3""",212 lbs,8/6/2000,25,"Martinsburg, WV",Shepherd,2974,,,,,3rd Season,,4434153
+4036032,Brittain Brown,RB,"6' 1""",205 lbs,10/10/1997,28,"Canton, GA",UCLA,26,2022,7,250,LV,3rd Season,,4036032
+4685278,Luther Burden III,WR,"6' 0""",210 lbs,12/12/2003,22,"St. Louis, MO",Missouri,142,2025,2,39,CHI,Rookie,,4685278
+3948283,Stephen Carlson,TE,"6' 4""",248 lbs,12/12/1996,29,"Jamestown, NY",Princeton,163,,,,,4th Season,,3948283
+4039050,Devin Duvernay,WR,"5' 11""",202 lbs,12/9/1997,28,"Sachse, TX",Texas,251,2020,3,92,BAL,6th Season,,4039050
+4037457,Travis Homer,RB,"5' 10""",211 lbs,7/8/1998,27,"West Palm Beach, FL",Miami,2390,2019,6,204,SEA,7th Season,,4037457
+4379769,Qadir Ismail,TE,"6' 6""",232 lbs,17/2/2000,26,"Bel Air, MD",Samford,2535,,,,,1st Season,,4379769
+4916349,Nikola Kalinic,TE,"6' 4""",245 lbs,21/1/1997,29,"Toronto, ON",,,,,,,2nd Season,,
+15168,Case Keenum,QB,"6' 1""",220 lbs,17/2/1988,38,"Abilene, TX",Houston,248,,,,,13th Season,,191981
+4258595,Cole Kmet,TE,"6' 6""",257 lbs,10/3/1999,26,"Lake Barrington, IL",Notre Dame,87,2020,2,43,CHI,6th Season,,4258595
+4723086,Colston Loveland,TE,"6' 6""",241 lbs,9/4/2004,21,"Gooding, ID",Michigan,130,2025,1,10,CHI,Rookie,,4723086
+4608686,Kyle Monangai,RB,"5' 8""",207 lbs,6/6/2002,23,"Roseland, NJ",Rutgers,164,2025,7,233,CHI,Rookie,,4608686
+3915416,DJ Moore,WR,"6' 0""",213 lbs,14/4/1997,28,"Philadelphia, PA",Maryland,120,2018,1,24,CAR,8th Season,R,3915416
+4431299,Rome Odunze,WR,"6' 3""",214 lbs,3/6/2002,23,"Las Vegas, NV",Washington,264,2024,1,9,CHI,2nd Season,,4431299
+4685183,JP Richardson,WR,"5' 11""",192 lbs,23/3/2002,23,"Missouri City, TX",TCU,2628,,,,,Rookie,,4685183
+3052897,Durham Smythe,TE,"6' 5""",248 lbs,9/8/1995,30,"Belton, TX",Notre Dame,87,2018,4,123,MIA,8th Season,,550966
+4259545,D'Andre Swift,RB,"5' 8""",204 lbs,14/1/1999,27,"Philadelphia, PA",Georgia,61,2020,2,35,DET,6th Season,,4259545
+5160110,Jahdae Walker,WR,"6' 3""",206 lbs,5/7/2002,23,"Cleveland, OH",Texas A&M,245,,,,,Rookie,,5160110
+4431611,Caleb Williams,QB,"6' 1""",226 lbs,18/11/2001,24,"Washington, DC",USC,30,2024,1,1,CHI,2nd Season,,4431611
+3917914,Olamide Zaccheaus,WR,"5' 8""",199 lbs,23/7/1997,28,"Plainfield, NJ",Virginia,258,,,,,7th Season,,3917914
+4575667,Deion Hankins,RB,"5' 11""",226 lbs,13/9/2000,25,"El Paso, TX",Texas State,326,,,,,Rookie,,4575667
+4426386,Roschon Johnson,RB,"6' 0""",227 lbs,31/1/2001,25,"Port Neches, TX",Texas,251,2023,4,115,CHI,3rd Season,,4426386
+4245645,Gary Brightwell,RB,"6' 1""",218 lbs,28/2/1998,28,"Chester, PA",Arizona,12,2021,6,196,NYG,4th Season,,4245645
+4429299,Tahj Brooks,RB,"5' 9""",220 lbs,13/5/2002,23,"Manor, TX",Texas Tech,2641,2025,6,193,CIN,Rookie,,4429299
+4362238,Chase Brown,RB,"5' 10""",210 lbs,21/3/2000,25,"London, ON",Illinois,356,2023,5,163,CIN,3rd Season,,4362238
+3886812,Jake Browning,QB,"6' 2""",209 lbs,11/4/1996,29,"Folsom, CA",Washington,264,,,,,3rd Season,,3886812
+3915511,Joe Burrow,QB,"6' 4""",215 lbs,10/12/1996,29,"Athens, OH",LSU,99,2020,1,1,CIN,6th Season,,3915511
+4362628,Ja'Marr Chase,WR,"6' 0""",205 lbs,1/3/2000,25,"Harvey, LA",LSU,99,2021,1,5,CIN,5th Season,L,4362628
+4259592,Sean Clifford,QB,"6' 2""",212 lbs,14/7/1998,27,"Cincinnati, OH",Penn State,213,2023,5,149,GB,2nd Season,,4259592
+4036131,Noah Fant,TE,"6' 4""",249 lbs,20/11/1997,28,"Omaha, NE",Iowa,2294,2019,1,20,DEN,7th Season,,4036131
+11252,Joe Flacco,QB,"6' 6""",245 lbs,16/1/1985,41,"Audubon, NJ",Delaware,48,2008,1,18,BAL,18th Season,,146278
+3116164,Mike Gesicki,TE,"6' 6""",245 lbs,3/10/1995,30,"Manahawkin, NJ",Penn State,213,2018,2,42,MIA,8th Season,,3116164
+4700712,Cam Grandy,TE,"6' 5""",253 lbs,19/11/1999,26,"Benson, IL",Illinois State,2287,,,,,2nd Season,,4700712
+4239993,Tee Higgins,WR,"6' 4""",220 lbs,18/1/1999,27,"Oak Ridge, TN",Clemson,228,2020,2,33,CIN,6th Season,,4239993
+3050481,Tanner Hudson,TE,"6' 5""",241 lbs,12/11/1994,31,"Big Sandy, TN",Southern Arkansas,2568,,,,,6th Season,,549516
+4368003,Andrei Iosivas,WR,"6' 3""",210 lbs,15/10/1999,26,"Honolulu, HI",Princeton,163,2023,6,206,CIN,3rd Season,,4368003
+4385430,Xavier Johnson,WR,"6' 1""",204 lbs,11/5/1999,26,"Cincinnati, OH",Ohio State,194,,,,,1st Season,,4385430
+4257188,Charlie Jones,WR,"6' 0""",190 lbs,29/10/1998,27,"Deerfield, IL",Purdue,2509,2023,4,131,CIN,3rd Season,,4257188
+4384852,Dohnte Meyers,WR,"5' 11""",186 lbs,,,"Duluth, GA",Delta State,2170,,,,,Rookie,,4384852
+4429012,Kendall Milton,RB,"6' 1""",230 lbs,10/2/2002,24,"Fresno, CA",Georgia,61,,,,,1st Season,,4429012
+4594444,Jordan Moore,WR,"6' 0""",191 lbs,18/4/2002,23,"Sykesville, MD",Duke,150,,,,,Rookie,,4594444
+3116389,Samaje Perine,RB,"5' 11""",240 lbs,16/9/1995,30,"Pflugerville, TX",Oklahoma,201,2017,4,114,WSH,9th Season,,3116389
+4035776,Kendric Pryor,WR,"5' 11""",189 lbs,6/1/1998,28,"Hazel Crest, IL",Wisconsin,275,,,,,2nd Season,,4035776
+3127310,Drew Sample,TE,"6' 5""",260 lbs,16/4/1996,29,"Bellevue, WA",Washington,264,2019,2,52,CIN,7th Season,,3127310
+4690070,Mitchell Tinsley,WR,"6' 1""",205 lbs,15/9/1999,26,"Lee's Summit, MO",Penn State,213,,,,,2nd Season,,4690070
+4570738,Ke'Shawn Williams,WR,"5' 9""",189 lbs,27/12/2001,24,"Philadelphia, PA",Indiana,84,,,,,Rookie,,4570738
+4427834,Erick All Jr.,TE,"6' 5""",255 lbs,13/9/2000,25,"Fairfield, OH",Iowa,2294,2024,4,115,CIN,2nd Season,,4427834
+4362603,Brenden Bates,TE,"6' 5""",255 lbs,16/10/1999,26,"Cincinnati, OH",Kentucky,96,,,,,2nd Season,,4362603
+4808839,Isaiah Bond,WR,"5' 11""",180 lbs,15/3/2004,21,"Buford, GA",Texas,251,,,,,Rookie,,4808839
+4242536,Sal Cannella,TE,"6' 5""",242 lbs,2/12/1996,29,"Schaumburg, IL",Auburn,2,,,,,1st Season,,4242536
+4613104,Malachi Corley,WR,"5' 11""",215 lbs,21/3/2002,23,"Orange City, FL",Western Kentucky,98,2024,3,65,NYJ,2nd Season,,4613104
+5083076,Harold Fannin Jr.,TE,"6' 4""",241 lbs,20/7/2004,21,"Canton, OH",Bowling Green,189,2025,3,67,CLE,Rookie,,5083076
+4566157,Luke Floriea,WR,"5' 8""",179 lbs,23/10/2001,24,"Mentor, OH",Kent State,2309,,,,,Rookie,,4566157
+4427238,Dillon Gabriel,QB,"5' 11""",205 lbs,28/12/2000,25,"Mililani, HI",Oregon,2483,2025,3,94,CLE,Rookie,,4427238
+4241463,Jerry Jeudy,WR,"6' 1""",195 lbs,24/4/1999,26,"Deerfield Beach, FL",Alabama,333,2020,1,15,DEN,6th Season,B,4241463
+4877203,Gage Larvadain,WR,"5' 8""",171 lbs,3/1/2003,23,"Donaldsonville, LA",South Carolina,2579,,,,,Rookie,,4877203
+4432374,Ahmani Marshall,RB,"6' 1""",225 lbs,21/3/2002,23,"Winston-Salem, NC",App State,2026,,,,,Rookie,,4432374
+3123076,David Njoku,TE,"6' 4""",246 lbs,10/7/1996,29,"Cedar Grove, NJ",Miami,2390,2017,1,29,CLE,9th Season,,3123076
+4687509,Caden Prieskorn,TE,"6' 5""",255 lbs,21/9/1999,26,"Lake Orion, MI",Ole Miss,145,,,,,Rookie,,4687509
+5081397,Dylan Sampson,RB,"5' 8""",200 lbs,14/9/2004,21,"Baton Rouge, LA",Tennessee,2633,2025,4,126,CLE,Rookie,,5081397
+4601080,Raheim Sanders,RB,"6' 0""",230 lbs,8/6/2002,23,"Rockledge, FL",South Carolina,2579,,,,,Rookie,,4601080
+4432762,Shedeur Sanders,QB,"6' 2""",212 lbs,7/2/2002,24,"Dallas, TX",Colorado,38,2025,5,144,CLE,Rookie,,4432762
+4428678,Jamari Thrash,WR,"6' 0""",190 lbs,19/12/2000,25,"LaGrange, GA",Louisville,97,2024,5,156,CLE,2nd Season,,4428678
+4369863,Cedric Tillman,WR,"6' 3""",215 lbs,19/4/2000,25,"Las Vegas, NV",Tennessee,2633,2023,3,74,CLE,3rd Season,,4369863
+4362018,Blake Whiteheart,TE,"6' 4""",250 lbs,22/3/2000,25,"Winston-Salem, NC",Wake Forest,154,,,,,3rd Season,,4362018
+4035222,Trayveon Williams,RB,"5' 8""",206 lbs,18/10/1997,28,"Houston, TX",Texas A&M,245,2019,6,182,CIN,7th Season,,4035222
+4576845,Isaiah Wooden,WR,"5' 9""",170 lbs,3/2/2000,26,"San Diego, CA",Southern Utah,253,,,,,Rookie,,4576845
+2580216,DeAndre Carter,WR,"5' 8""",190 lbs,10/4/1993,32,"San Jose, CA",Sacramento State,16,,,,,8th Season,R,517708
+4372019,Jerome Ford,RB,"5' 10""",210 lbs,12/9/1999,26,"Tampa, FL",Cincinnati,2132,2022,5,156,CLE,4th Season,,4372019
+4685702,Quinshon Judkins,RB,"5' 11""",221 lbs,29/10/2003,22,"Pike Road, AL",Ohio State,194,2025,2,36,CLE,Rookie,,4685702
+3122840,Deshaun Watson,QB,"6' 3""",223 lbs,14/9/1995,30,"Gainesville, GA",Clemson,228,2017,1,12,HOU,9th Season,,3122840
+4429202,Israel Abanikanda,RB,"5' 10""",217 lbs,5/10/2002,23,"Brooklyn, NY",Pittsburgh,221,2023,5,143,NYJ,3rd Season,,4429202
+4685279,Jaydon Blue,RB,"5' 9""",196 lbs,8/1/2004,22,"Houston, TX",Texas,251,2025,5,149,DAL,Rookie,,4685279
+3121410,Parris Campbell,WR,"6' 0""",208 lbs,16/7/1997,28,"Akron, OH",Ohio State,194,2019,2,59,IND,7th Season,,3121410
+4242355,Jake Ferguson,TE,"6' 5""",244 lbs,18/1/1999,27,"Madison, WI",Wisconsin,275,2022,4,129,DAL,4th Season,,4242355
+5083754,Ryan Flournoy,WR,"6' 1""",200 lbs,27/10/1999,26,"Hazel Crest, IL",Southeast Missouri State,2546,2024,6,216,DAL,2nd Season,,5083754
+3115252,Will Grier,QB,"6' 1""",220 lbs,3/4/1995,30,"Charlotte, NC",West Virginia,277,2019,3,100,CAR,6th Season,,559556
+4429172,Traeshon Holden,WR,"6' 3""",205 lbs,12/9/2001,24,"Kissimmee, FL",Oregon,2483,,,,,Rookie,,4429172
+4241389,CeeDee Lamb,WR,"6' 2""",200 lbs,8/4/1999,26,"Richmond, TX",Oklahoma,201,2020,1,17,DAL,6th Season,,4241389
+4383396,Hunter Luepke,RB,"6' 1""",238 lbs,28/2/2000,26,"Spencer, WI",North Dakota State,2449,,,,,3rd Season,,4383396
+4431562,Phil Mafah,RB,"6' 0""",234 lbs,24/10/2002,23,"Loganville, GA",Clemson,228,2025,7,239,DAL,Rookie,,4431562
+4360698,Joe Milton III,QB,"6' 5""",246 lbs,6/3/2000,25,"Pahokee, FL",Tennessee,2633,2024,6,193,NE,2nd Season,,4360698
+4426485,Jonathan Mingo,WR,"6' 2""",220 lbs,20/4/2001,24,"Brandon, MS",Ole Miss,145,2023,2,39,CAR,3rd Season,,4426485
+4426354,George Pickens,WR,"6' 3""",200 lbs,4/3/2001,24,"Hoover, AL",Georgia,61,2022,2,52,PIT,4th Season,B,4426354
+2577417,Dak Prescott,QB,"6' 2""",238 lbs,29/7/1993,32,"Haughton, LA",Mississippi State,344,2016,4,135,DAL,10th Season,,512030
+4372096,Luke Schoonmaker,TE,"6' 5""",250 lbs,28/9/1998,27,"Hamden, CT",Michigan,130,2023,2,58,DAL,3rd Season,,4372096
+4360967,Brevyn Spann-Ford,TE,"6' 7""",270 lbs,27/12/1999,26,"Saint Cloud, MN",Minnesota,135,,,,,2nd Season,,4360967
+4249417,Jalen Tolbert,WR,"6' 1""",195 lbs,27/2/1999,27,"Mobile, AL",South Alabama,6,2022,3,88,DAL,4th Season,L,4249417
+3676833,KaVontae Turpin,WR,"5' 9""",153 lbs,2/8/1996,29,"Monroe, LA",TCU,2628,,,,,4th Season,,3676833
+4361579,Javonte Williams,RB,"5' 10""",220 lbs,25/4/2000,25,"Wallace, NC",North Carolina,153,2021,2,35,DEN,5th Season,,4361579
+4240603,Malik Davis,RB,"5' 11""",202 lbs,26/11/1998,27,"Tampa, FL",Florida,57,,,,,2nd Season,,4240603
+4045163,Miles Sanders,RB,"5' 11""",211 lbs,1/5/1997,28,"Pittsburgh, PA",Penn State,213,2019,2,53,PHI,7th Season,,4045163
+4383440,Nate Adkins,TE,"6' 3""",252 lbs,9/7/1999,26,"Knoxville, TN",South Carolina,2579,,,,,3rd Season,,4383440
+4362748,Tyler Badie,RB,"5' 8""",197 lbs,7/2/2000,26,"Memphis, TN",Missouri,142,2022,6,196,BAL,2nd Season,,4362748
+4034704,Michael Bandy,WR,"5' 10""",190 lbs,5/12/1997,28,"La Mirada, CA",San Diego,301,,,,,3rd Season,,4034704
+4600981,Pat Bryant,WR,"6' 2""",204 lbs,10/12/2002,23,"Jacksonville, FL",Illinois,356,2025,3,74,DEN,Rookie,,4600981
+4241820,Sam Ehlinger,QB,"6' 1""",222 lbs,30/9/1998,27,"Austin, TX",Texas,251,2021,6,218,IND,5th Season,,4241820
+3051876,Evan Engram,TE,"6' 3""",240 lbs,2/9/1994,31,"Powder Springs, GA",Ole Miss,145,2017,1,23,NYG,9th Season,L,550117
+4431280,Troy Franklin,WR,"6' 3""",180 lbs,6/2/2003,23,"East Palo Alto, CA",Oregon,2483,2024,4,102,DEN,2nd Season,,4431280
+4568490,RJ Harvey,RB,"5' 8""",205 lbs,4/2/2001,25,"Orlando, FL",UCF,2116,2025,2,60,DEN,Rookie,,4568490
+4039057,Lil'Jordan Humphrey,WR,"6' 4""",225 lbs,19/4/1998,27,"Southlake, TX",Texas,251,,,,,6th Season,,4039057
+4432208,Caleb Lohner,TE,"6' 7""",250 lbs,1/10/2001,24,"Flower Mound, TX",Utah,254,2025,7,241,DEN,Rookie,,4432208
+4722893,Jaleel McLaughlin,RB,"5' 7""",187 lbs,13/9/2000,25,"Marshville, NC",Youngstown State,2754,,,,,3rd Season,,4722893
+4686472,Marvin Mims Jr.,WR,"5' 11""",182 lbs,19/3/2002,23,"Frisco, TX",Oklahoma,201,2023,2,63,DEN,3rd Season,,4686472
+4391845,Cody Schrader,RB,"5' 9""",214 lbs,8/9/1999,26,"St. Louis, MO",Missouri,142,,,,,2nd Season,,4391845
+3892775,Jarrett Stidham,QB,"6' 3""",215 lbs,8/8/1996,29,"Stephenville, TX",Auburn,2,2019,4,133,NE,6th Season,,3892775
+3128429,Courtland Sutton,WR,"6' 4""",216 lbs,10/10/1995,30,"Brenham, TX",SMU,2567,2018,2,40,DEN,8th Season,,3128429
+3911853,Adam Trautman,TE,"6' 5""",253 lbs,5/2/1997,29,"Williamsburg, MI",Dayton,2168,2020,3,105,NO,6th Season,,3911853
+4431453,Deuce Vaughn,RB,"5' 6""",176 lbs,2/11/2001,24,"Round Rock, TX",Kansas State,2306,2023,6,212,DAL,3rd Season,,4431453
+4241985,J.K. Dobbins,RB,"5' 10""",212 lbs,17/12/1998,27,"La Grange, TX",Ohio State,194,2020,2,55,BAL,6th Season,,4241985
+4360231,Lucas Krull,TE,"6' 6""",260 lbs,11/7/1998,27,"Shawnee, KS",Pittsburgh,221,,,,,3rd Season,,4360231
+4426338,Bo Nix,QB,"6' 2""",217 lbs,25/2/2000,26,"Pinson, AL",Oregon,2483,2024,1,12,DEN,2nd Season,,4426338
+3115293,Kyle Allen,QB,"6' 3""",210 lbs,8/3/1996,29,"Scottsdale, AZ",Houston,248,,,,,7th Season,,559681
+4240069,Malik Cunningham,WR,"6' 1""",198 lbs,6/10/1998,27,"Montgomery, AL",Louisville,97,,,,,2nd Season,,4240069
+3049698,Anthony Firkser,TE,"6' 2""",245 lbs,19/2/1995,31,"Manalapan, NJ",Harvard,108,,,,,7th Season,,548308
+4429795,Jahmyr Gibbs,RB,"5' 9""",202 lbs,20/3/2002,23,"Dalton, GA",Alabama,333,2023,1,12,DET,3rd Season,,4429795
+3046779,Jared Goff,QB,"6' 4""",217 lbs,14/10/1994,31,"Novato, CA",California,25,2016,1,1,LAR,10th Season,,547401
+4569615,Thomas Gordon,TE,"6' 5""",250 lbs,5/9/2000,25,"Houston, TX",Northwestern,77,,,,,Rookie,,4569615
+4877824,Zach Horton,TE,"6' 4""",252 lbs,2/12/2002,23,"Roanoke, VA",Indiana,84,,,,,Rookie,,4877824
+3116136,Justin Jackson,RB,"6' 0""",199 lbs,22/4/1996,29,"Carol Stream, IL",Northwestern,77,2018,7,251,LAC,6th Season,,3116136
+3126997,Tom Kennedy,WR,"5' 10""",195 lbs,29/7/1996,29,"Farmingdale, NY",Bryant,2803,,,,,3rd Season,,3126997
+4596439,Dominic Lovett,WR,"5' 10""",185 lbs,8/11/2002,23,"Belleville, IL",Georgia,61,2025,7,244,DET,Rookie,,4596439
+4602788,Jackson Meeks,WR,"6' 2""",218 lbs,24/3/2003,22,"Phenix City, AL",Syracuse,183,,,,,Rookie,,4602788
+4035538,David Montgomery,RB,"5' 11""",230 lbs,7/6/1997,28,"Cincinnati, OH",Iowa State,66,2019,3,73,CHI,7th Season,,4035538
+2973405,Kalif Raymond,WR,"5' 8""",180 lbs,8/8/1994,31,"Lawrenceville, GA",Holy Cross,107,,,,,9th Season,,532719
+4383429,Jacob Saylors,RB,"5' 11""",195 lbs,8/3/2000,25,"Jasper, TN",East Tennessee State,2193,,,,,1st Season,,4383429
+4432545,Jabari Small,RB,"5' 11""",213 lbs,31/1/2001,25,"Memphis, TN",Tennessee,2633,,,,,1st Season,,4432545
+4374302,Amon-Ra St. Brown,WR,"6' 0""",202 lbs,24/10/1999,26,"Anaheim Hills, CA",USC,30,2021,4,112,DET,5th Season,,4374302
+5123663,Isaac TeSlaa,WR,"6' 4""",214 lbs,20/2/2002,24,"Hudsonville, MI",Arkansas,8,2025,3,70,DET,Rookie,,5123663
+4912274,Sione Vaki,RB,"5' 11""",216 lbs,30/7/2001,24,"Antioch, CA",Utah,254,2024,4,132,DET,2nd Season,,4912274
+4426388,Jameson Williams,WR,"6' 1""",182 lbs,26/3/2001,24,"St. Louis, MO",Alabama,333,2022,1,12,DET,4th Season,L,4426388
+4608362,Shane Zylstra,TE,"6' 4""",244 lbs,16/11/1996,29,"Spicer, MN",Minnesota State,2364,,,,,4th Season,,4608362
+4430027,Sam LaPorta,TE,"6' 3""",245 lbs,12/1/2001,25,"Highland, IL",Iowa,2294,2023,2,34,DET,3rd Season,,4430027
+4880638,Kye Robichaux,RB,"6' 0""",213 lbs,6/10/2002,23,"Columbus, GA",Boston College,103,,,,,Rookie,,4880638
+4242392,Brock Wright,TE,"6' 5""",254 lbs,27/11/1998,27,"Cypress, TX",Notre Dame,87,,,,,5th Season,,4242392
+3149687,Chris Brooks,RB,"6' 1""",219 lbs,11/1/2000,26,"Oceanside, CA",BYU,252,,,,,3rd Season,,3149687
+4372741,McCallan Castles,TE,"6' 4""",250 lbs,3/12/1999,26,"South Lake Tahoe, CA",Tennessee,2633,,,,,1st Season,,4372741
+4429466,Drake Dabney,TE,"6' 5""",246 lbs,14/5/2002,23,"Cypress, TX",TCU,2628,,,,,Rookie,,4429466
+4361432,Romeo Doubs,WR,"6' 2""",204 lbs,13/4/2000,25,"Los Angeles, CA",Nevada,2440,2022,4,132,GB,4th Season,,4361432
+4701936,Matthew Golden,WR,"5' 11""",191 lbs,1/8/2003,22,"Houston, TX",Texas,251,2025,1,23,GB,Rookie,,4701936
+4047365,Josh Jacobs,RB,"5' 10""",223 lbs,11/2/1998,28,"Tulsa, OK",Alabama,333,2019,1,24,OAK,7th Season,,4047365
+5178972,Jakobie Keeney-James,WR,"6' 0""",190 lbs,26/9/2000,25,"Redlands, CA",Massachusetts,113,,,,,Rookie,,5178972
+4036378,Jordan Love,QB,"6' 4""",219 lbs,2/11/1998,27,"Bakersfield, CA",Utah State,328,2020,1,26,GB,6th Season,,4036378
+4808830,Damien Martinez,RB,"6' 0""",217 lbs,31/1/2004,22,"Lewisville, TX",Miami,2390,2025,7,223,SEA,Rookie,,4808830
+4433971,Kyle McCord,QB,"6' 3""",218 lbs,19/9/2002,23,"Mount Laurel, NJ",Syracuse,183,2025,6,181,PHI,Rookie,,4433971
+4428085,Luke Musgrave,TE,"6' 6""",253 lbs,2/9/2000,25,"Bend, OR",Oregon State,204,2023,2,42,GB,3rd Season,,4428085
+4428116,Isaiah Neyor,WR,"6' 4""",218 lbs,7/6/2001,24,"Fort Worth, TX",Nebraska,158,,,,,Rookie,,4428116
+4362249,Jayden Reed,WR,"5' 11""",187 lbs,28/4/2000,25,"Naperville, IL",Michigan State,127,2023,2,50,GB,3rd Season,,4362249
+4239086,Desmond Ridder,QB,"6' 3""",211 lbs,31/8/1999,26,"Louisville, KY",Cincinnati,2132,2022,3,74,ATL,4th Season,,4239086
+4608679,Will Sheppard,WR,"6' 3""",196 lbs,11/2/2002,24,"Madisonville, LA",Colorado,38,,,,,Rookie,,4608679
+4249836,Pierre Strong Jr.,RB,"5' 11""",207 lbs,10/12/1998,27,"Little Rock, AR",South Dakota State,2571,2022,4,127,NE,4th Season,,4249836
+4362770,Messiah Swinson,TE,"6' 7""",259 lbs,20/4/2000,25,"Bay Shore, NY",Arizona State,9,,,,,1st Season,,4362770
+4248528,Christian Watson,WR,"6' 4""",208 lbs,12/5/1999,26,"Tampa, FL",North Dakota State,2449,2022,2,34,GB,4th Season,,4248528
+4360086,Josh Whyle,TE,"6' 7""",248 lbs,8/9/1999,26,"Cincinnati, OH",Cincinnati,2132,2023,5,147,TEN,3rd Season,,4360086
+4428850,Dontayvion Wicks,WR,"6' 1""",206 lbs,16/6/2001,24,"Plaquemine, LA",Virginia,258,2023,5,159,GB,3rd Season,,4428850
+4242512,Malik Willis,QB,"6' 1""",225 lbs,25/5/1999,26,"Atlanta, GA",Liberty,2335,2022,3,86,TEN,4th Season,R,4242512
+4887558,Emanuel Wilson,RB,"5' 10""",226 lbs,8/5/1999,26,"Charlotte, NC",Fort Valley State,2232,,,,,3rd Season,,4887558
+4379401,John FitzPatrick,TE,"6' 7""",262 lbs,9/3/2000,25,"Atlanta, GA",Georgia,61,2022,6,213,ATL,4th Season,,4379401
+4572680,Tucker Kraft,TE,"6' 5""",259 lbs,3/11/2000,25,"Timber Lake, SD",South Dakota State,2571,2023,3,78,GB,3rd Season,,4572680
+4429023,MarShawn Lloyd,RB,"5' 9""",220 lbs,5/1/2001,25,"Wilmington, DE",USC,30,2024,3,88,GB,2nd Season,,4429023
+4431487,Savion Williams,WR,"6' 4""",222 lbs,22/11/2001,24,"Marshall, TX",TCU,2628,2025,3,87,GB,Rookie,,4431487
+3123075,Braxton Berrios,WR,"5' 9""",185 lbs,6/10/1995,30,"Raleigh, NC",Miami,2390,2018,6,210,NE,8th Season,,3123075
+4373273,British Brooks,RB,"5' 11""",225 lbs,18/11/1999,26,"Gastonia, NC",North Carolina,153,,,,,2nd Season,,4373273
+4040774,Harrison Bryant,TE,"6' 5""",243 lbs,23/4/1998,27,"Gray, GA",Florida Atlantic,2226,2020,4,115,CLE,6th Season,,4040774
+3128720,Nick Chubb,RB,"5' 11""",227 lbs,27/12/1995,30,"Cedartown, GA",Georgia,61,2018,2,35,CLE,8th Season,,3128720
+4258173,Nico Collins,WR,"6' 4""",222 lbs,19/3/1999,26,"Birmingham, AL",Michigan,130,2021,3,89,HOU,5th Season,,4258173
+4877706,Jayden Higgins,WR,"6' 4""",215 lbs,15/12/2002,23,"South Miami, FL",Iowa State,66,2025,2,34,HOU,Rookie,,4877706
+4686422,Xavier Hutchinson,WR,"6' 3""",210 lbs,1/6/2000,25,"Jacksonville, FL",Iowa State,66,2023,6,205,HOU,3rd Season,,4686422
+4429939,Jawhar Jordan,RB,"5' 10""",186 lbs,18/8/1999,26,"Long Island, NY",Louisville,97,2024,6,205,HOU,1st Season,,4429939
+4575558,Josh Kelly,WR,"6' 1""",195 lbs,1/7/2001,24,"Fresno, CA",Texas Tech,2641,,,,,Rookie,,4575558
+3895856,Christian Kirk,WR,"5' 11""",200 lbs,18/11/1996,29,"Scottsdale, AZ",Texas A&M,245,2018,2,47,ARI,8th Season,,3895856
+4432338,Luke Lachey,TE,"6' 6""",247 lbs,29/6/2001,24,"Columbus, OH",Iowa,2294,2025,7,255,HOU,Rookie,,4432338
+4429059,Woody Marks,RB,"5' 10""",208 lbs,29/12/2000,25,"Atlanta, GA",USC,30,2025,4,116,HOU,Rookie,,4429059
+4426335,Graham Mertz,QB,"6' 2""",216 lbs,6/12/2000,25,"Overland Park, KS",Florida,57,2025,6,197,HOU,Rookie,,4426335
+4242546,Davis Mills,QB,"6' 4""",225 lbs,21/10/1998,27,"Duluth, GA",Stanford,24,2021,3,67,HOU,5th Season,,4242546
+4586312,Jaylin Noel,WR,"5' 11""",201 lbs,4/9/2002,23,"Kansas City, MO",Iowa State,66,2025,3,79,HOU,Rookie,,4586312
+2983509,Dare Ogunbowale,RB,"5' 10""",205 lbs,4/5/1994,31,"Milwaukee, WI",Wisconsin,275,,,,,7th Season,,537577
+4878842,Layne Pryor,TE,"6' 3""",251 lbs,,,"Woodbine, IA",Northern Iowa,2460,,,,,Rookie,,4878842
+3117256,Dalton Schultz,TE,"6' 5""",242 lbs,11/7/1996,29,"South Jordan, UT",Stanford,24,2018,4,137,DAL,8th Season,,3117256
+4426496,Cade Stover,TE,"6' 4""",251 lbs,12/6/2000,25,"Mansfield, OH",Ohio State,194,2024,4,123,HOU,2nd Season,,4426496
+4432577,C.J. Stroud,QB,"6' 3""",218 lbs,3/10/2001,24,"Inland Empire, CA",Ohio State,194,2023,1,2,HOU,3rd Season,,4432577
+3118892,Justin Watson,WR,"6' 2""",215 lbs,4/4/1996,29,"Bridgeville, PA",Pennsylvania,219,2018,5,144,TB,8th Season,,3118892
+4430681,Jared Wayne,WR,"6' 3""",210 lbs,7/10/2000,25,"Peterborough, ON",Pittsburgh,221,,,,,1st Season,,4430681
+4366031,Tank Dell,WR,"5' 10""",165 lbs,29/10/1999,26,"Daytona Beach, FL",Houston,248,2023,3,69,HOU,3rd Season,B,4366031
+4362504,Brevin Jordan,TE,"6' 3""",245 lbs,16/7/2000,25,"Las Vegas, NV",Miami,2390,2021,5,147,HOU,5th Season,,4362504
+3116385,Joe Mixon,RB,"6' 1""",220 lbs,24/7/1996,29,"Oakley, CA",Oklahoma,201,2017,2,48,CIN,9th Season,,3116385
+2576336,Ameer Abdullah,RB,"5' 9""",203 lbs,13/6/1993,32,"Homewood, AL",Nebraska,158,2015,2,54,DET,11th Season,,514508
+2998565,Mo Alie-Cox,TE,"6' 5""",267 lbs,19/9/1993,32,"Alexandria, VA",VCU,2670,,,,,8th Season,,
+4426689,Ulysses Bentley IV,RB,"5' 10""",200 lbs,30/12/2000,25,"Houston, TX",Ole Miss,145,,,,,Rookie,,4426689
+4688813,Josh Downs,WR,"5' 9""",171 lbs,12/8/2001,24,"Suwanee, GA",North Carolina,153,2023,3,79,IND,3rd Season,R,4688813
+4061956,Ashton Dulin,WR,"6' 2""",215 lbs,15/5/1997,28,"Reynoldsburg, OH",Malone,556,,,,,7th Season,,4061956
+4874509,DJ Giddens,RB,"6' 0""",212 lbs,26/8/2003,22,"Junction City, KS",Kansas State,2306,2025,5,151,IND,Rookie,,4874509
+4429676,Tyler Goodson,RB,"5' 9""",197 lbs,10/11/2000,25,"Suwanee, GA",Iowa,2294,,,,,3rd Season,,4429676
+4606194,Seth Henigan,QB,"6' 3""",215 lbs,10/3/2003,22,"Denton, TX",Memphis,235,,,,,Rookie,,4606194
+4683423,Riley Leonard,QB,"6' 4""",213 lbs,13/9/2002,23,"Fairhope, AL",Notre Dame,87,2025,6,189,IND,Rookie,,4683423
+4362523,Will Mallory,TE,"6' 4""",239 lbs,22/6/1999,26,"Jacksonville, FL",Miami,2390,2023,5,162,IND,3rd Season,,4362523
+4036275,Sean McKeon,TE,"6' 5""",255 lbs,28/12/1997,28,"Dudley, MA",Michigan,130,,,,,5th Season,,4036275
+4578436,Coleman Owen,WR,"5' 10""",181 lbs,23/3/2001,24,"Gilbert, AZ",Ohio,195,,,,,Rookie,,4578436
+4430288,Eli Pancol,WR,"6' 3""",205 lbs,7/7/2000,25,"Pendleton, IN",Duke,150,,,,,Rookie,,4430288
+4360078,Alec Pierce,WR,"6' 3""",211 lbs,2/5/2000,25,"Glen Ellyn, IL",Cincinnati,2132,2022,2,53,IND,4th Season,,4360078
+4035687,Michael Pittman Jr.,WR,"6' 4""",223 lbs,5/10/1997,28,"Woodland Hills, CA",USC,30,2020,2,34,IND,6th Season,,4035687
+5529,Philip Rivers,QB,"6' 5""",228 lbs,8/12/1981,44,"Athens, AL",NC State,152,2004,1,4,NYG,18th Season,,105812
+4242335,Jonathan Taylor,RB,"5' 10""",226 lbs,19/1/1999,27,"Salem, NJ",Wisconsin,275,2020,2,41,IND,6th Season,,4242335
+3051889,Laquon Treadwell,WR,"6' 2""",215 lbs,14/6/1995,30,"Crete, IL",Ole Miss,145,2016,1,23,MIN,9th Season,,550014
+4431459,Tyler Warren,TE,"6' 6""",256 lbs,24/5/2002,23,"Mechanicsville, VA",Penn State,213,2025,1,14,IND,Rookie,,4431459
+4243315,Salvon Ahmed,RB,"5' 11""",196 lbs,30/12/1998,27,"Kirkland, WA",Washington,264,,,,,5th Season,,4243315
+4429684,Anthony Gould,WR,"5' 8""",174 lbs,6/4/2001,24,"Leavenworth, KS",Oregon State,204,2024,5,142,IND,2nd Season,,4429684
+3917792,Daniel Jones,QB,"6' 5""",230 lbs,27/5/1997,28,"Charlotte, NC",Duke,150,2019,1,6,NYG,7th Season,,3917792
+4249030,D.J. Montgomery,WR,"6' 1""",201 lbs,17/11/1996,29,"Durant, MS",Austin Peay,2046,,,,,4th Season,R,4249030
+4722908,Drew Ogletree,TE,"6' 5""",260 lbs,28/7/1998,27,"Dayton, OH",Youngstown State,2754,2022,6,192,IND,4th Season,,4722908
+4429084,Anthony Richardson Sr.,QB,"6' 4""",244 lbs,22/5/2002,23,"Gainesville, FL",Florida,57,2023,1,4,IND,3rd Season,,4429084
+4911851,LeQuint Allen Jr.,RB,"6' 0""",201 lbs,5/8/2004,21,"Millville, NJ",Syracuse,183,2025,7,236,JAX,Rookie,,4911851
+4362260,Carter Bradley,QB,"6' 3""",213 lbs,9/3/2000,25,"Jacksonville, FL",South Alabama,6,,,,,1st Season,,4362260
+4573243,Chandler Brayboy,WR,"6' 1""",199 lbs,20/8/2001,24,"Pembroke, NC",Elon,2210,,,,,Rookie,,4573243
+4361577,Dyami Brown,WR,"6' 0""",195 lbs,1/11/1999,26,"Charlotte, NC",North Carolina,153,2021,3,82,WSH,5th Season,,4361577
+4240631,DeeJay Dallas,RB,"5' 10""",217 lbs,16/9/1998,27,"Brunswick, GA",Miami,2390,2020,4,144,SEA,6th Season,,4240631
+4239996,Travis Etienne Jr.,RB,"5' 10""",215 lbs,26/1/1999,27,"Jennings, LA",Clemson,228,2021,1,25,JAX,5th Season,L,4239996
+4429811,Patrick Herbert,TE,"6' 5""",255 lbs,18/10/2000,25,"Eugene, OR",Oregon,2483,,,,,Rookie,,4429811
+4690972,Ja'Quinden Jackson,RB,"6' 2""",233 lbs,12/9/2001,24,"Dallas, TX",Arkansas,8,,,,,Rookie,,4690972
+4245131,Tim Jones,WR,"6' 1""",200 lbs,15/5/1998,27,"Biloxi, MS",Southern Miss,2572,,,,,4th Season,,4245131
+4360310,Trevor Lawrence,QB,"6' 6""",220 lbs,6/10/1999,26,"Cartersville, GA",Clemson,228,2021,1,1,JAX,5th Season,,4360310
+4239944,Hunter Long,TE,"6' 5""",243 lbs,19/8/1998,27,"Exeter, NH",Boston College,103,2021,3,81,MIA,5th Season,,4239944
+3916433,Jakobi Meyers,WR,"6' 2""",200 lbs,9/11/1996,29,"Lithonia, GA",NC State,152,,,,,7th Season,B,3916433
+4244049,Quintin Morris,TE,"6' 2""",243 lbs,21/1/1999,27,"Richmond, TX",Bowling Green,189,,,,,4th Season,,4244049
+3059989,Nick Mullens,QB,"6' 0""",210 lbs,21/3/1995,30,"Hoover, AL",Southern Miss,2572,,,,,7th Season,,552880
+3052096,Johnny Mundt,TE,"6' 4""",243 lbs,23/11/1994,31,"Modesto, CA",Oregon,2483,,,,,8th Season,,550664
+3134353,Tim Patrick,WR,"6' 5""",210 lbs,23/11/1993,32,"San Diego, CA",Utah,254,,,,,8th Season,,3134353
+4430539,Brenton Strange,TE,"6' 4""",253 lbs,27/12/2000,25,"Parkersburg, WV",Penn State,213,2023,2,61,JAX,3rd Season,,4430539
+4432773,Brian Thomas Jr.,WR,"6' 2""",209 lbs,8/10/2002,23,"Walker, LA",LSU,99,2024,1,23,JAX,2nd Season,,4432773
+4244856,Austin Trammell,WR,"5' 10""",185 lbs,4/7/1998,27,"Spring, TX",Rice,242,,,,,3rd Season,,4244856
+4882093,Bhayshul Tuten,RB,"5' 9""",209 lbs,14/2/2003,23,"Paulsboro, NJ",Virginia Tech,259,2025,4,104,JAX,Rookie,,4882093
+4432620,Parker Washington,WR,"5' 10""",204 lbs,21/3/2002,23,"Sugar Land, TX",Penn State,213,2023,6,185,JAX,3rd Season,,4432620
+4426893,Joshua Cephus,WR,"6' 2""",193 lbs,5/3/2001,24,"Houston, TX",UTSA,2636,,,,,1st Season,,4426893
+4685415,Travis Hunter,WR,"6' 1""",185 lbs,18/5/2003,22,"Suwanee, GA",Colorado,38,2025,1,2,JAX,Rookie,,4685415
+5093923,Andrew Armstrong,WR,"6' 4""",210 lbs,31/10/2000,25,"Dallas, TX",Arkansas,8,,,,,Rookie,,5093923
+4241372,Hollywood Brown,WR,"5' 9""",180 lbs,4/6/1997,28,"Hollywood, FL",Oklahoma,201,2019,1,25,BAL,7th Season,,4241372
+4689988,Jason Brownlee,WR,"6' 3""",202 lbs,30/1/1999,27,"West Point, MS",Southern Miss,2572,,,,,2nd Season,,4689988
+4240472,Noah Gray,TE,"6' 3""",240 lbs,30/4/1999,26,"Leominster, MA",Duke,150,2021,5,162,KC,5th Season,,4240472
+4243322,Jake Haener,QB,"6' 1""",200 lbs,10/3/1999,26,"Danville, CA",Fresno State,278,2023,4,127,NO,4th Season,,4243322
+4431142,Jimmy Holiday,WR,"6' 1""",211 lbs,16/12/2001,24,"Flora, MS",Louisiana Tech,2348,,,,,Rookie,,4431142
+3059915,Kareem Hunt,RB,"5' 11""",216 lbs,6/8/1995,30,"Willoughby, OH",Toledo,2649,2017,3,86,KC,9th Season,,552745
+15847,Travis Kelce,TE,"6' 5""",250 lbs,5/10/1989,36,"Cleveland Heights, OH",Cincinnati,2132,2013,3,63,KC,13th Season,,377964
+4044111,Chris Oladokun,QB,"6' 1""",213 lbs,3/9/1997,28,"Tampa, FL",South Dakota State,2571,2022,7,241,PIT,1st Season,,4044111
+4361529,Isiah Pacheco,RB,"5' 10""",216 lbs,2/3/1999,26,"Vineland, NJ",Rutgers,164,2022,7,251,KC,4th Season,,4361529
+4360238,Dameon Pierce,RB,"5' 10""",215 lbs,19/2/2000,26,"Bainbridge, GA",Florida,57,2022,4,107,HOU,4th Season,,4360238
+4876907,ShunDerrick Powell,RB,"5' 7""",183 lbs,16/5/2002,23,"Hoxie, AR",Central Arkansas,2110,,,,,Rookie,,4876907
+5082630,Jalen Royals,WR,"6' 0""",195 lbs,18/2/2003,23,"Powder Springs, GA",Utah State,328,2025,4,133,KC,Rookie,,5082630
+4596602,Brashard Smith,RB,"5' 10""",196 lbs,11/4/2003,22,"Richmond Heights, FL",SMU,2567,2025,7,228,KC,Rookie,,4596602
+3120348,JuJu Smith-Schuster,WR,"6' 1""",215 lbs,22/11/1996,29,"Long Beach, CA",USC,30,2017,2,62,PIT,9th Season,,3120348
+2975674,Robert Tonyan,TE,"6' 5""",240 lbs,30/4/1994,31,"Mchenry, IL",Indiana State,282,,,,,7th Season,,534158
+4685784,Tre Watson,TE,"6' 5""",250 lbs,12/10/2002,23,"Rio Rancho, NM",Texas A&M,245,,,,,Rookie,,4685784
+4430723,Jared Wiley,TE,"6' 6""",249 lbs,2/11/2000,25,"Temple, TX",TCU,2628,2024,4,131,KC,2nd Season,,4430723
+4683062,Xavier Worthy,WR,"5' 11""",165 lbs,27/4/2003,22,"Fresno, CA",Texas,251,2024,1,28,KC,2nd Season,L,4683062
+4431196,Jake Briningstool,TE,"6' 6""",240 lbs,9/12/2002,23,"Brentwood, TN",Clemson,228,,,,,Rookie,,4431196
+4362087,Keaontay Ingram,RB,"6' 0""",220 lbs,26/10/1999,26,"Carthage, TX",USC,30,2022,6,201,ARI,3rd Season,,4362087
+3139477,Patrick Mahomes,QB,"6' 2""",225 lbs,17/9/1995,30,"Whitehouse, TX",Texas Tech,2641,2017,1,10,KC,9th Season,,3139477
+4038524,Gardner Minshew,QB,"6' 1""",225 lbs,16/5/1996,29,"Brandon, MS",Washington State,265,2019,6,178,JAX,7th Season,,4038524
+4372716,Nikko Remigio,WR,"5' 9""",187 lbs,4/11/1999,26,"Orange, CA",Fresno State,278,,,,,1st Season,,4372716
+4428331,Rashee Rice,WR,"6' 1""",204 lbs,22/4/2000,25,"North Richland Hills, TX",SMU,2567,2023,2,55,KC,3rd Season,,4428331
+4362921,Tyquan Thornton,WR,"6' 2""",185 lbs,7/8/2000,25,"Miami, FL",Baylor,239,2022,2,50,NE,4th Season,,4362921
+3919510,Alex Bachman,WR,"6' 0""",190 lbs,29/5/1996,29,"Westlake Village, CA",Wake Forest,154,,,,,2nd Season,,3919510
+4603186,Jack Bech,WR,"6' 1""",214 lbs,18/12/2002,23,"Lafayette, LA",TCU,2628,2025,2,58,LV,Rookie,,4603186
+4698191,Chris Collier,RB,"5' 10""",203 lbs,24/3/2000,25,"Lawrence, NY",Lock Haven University,209,,,,,2nd Season,,4698191
+2579604,Phillip Dorsett II,WR,"5' 10""",185 lbs,5/1/1993,33,"Fort Lauderdale, FL",Miami,2390,2015,1,29,IND,9th Season,,517570
+4361332,Shedrick Jackson,WR,"6' 1""",198 lbs,20/10/1999,26,"Hoover, AL",Auburn,2,,,,,1st Season,,4361332
+4890973,Ashton Jeanty,RB,"5' 8""",208 lbs,2/12/2003,22,"Jacksonville, FL",Boise State,68,2025,1,6,LV,Rookie,R,4890973
+4366963,Dylan Laube,RB,"5' 9""",204 lbs,14/12/1999,26,"Westhampton, NY",New Hampshire,160,2024,6,208,LV,2nd Season,,4366963
+2577327,Tyler Lockett,WR,"5' 10""",182 lbs,28/9/1992,33,"Tulsa, OK",Kansas State,2306,2015,3,69,SEA,11th Season,,515181
+4429086,Michael Mayer,TE,"6' 4""",256 lbs,6/7/2001,24,"Independence, KY",Notre Dame,87,2023,2,35,LV,3rd Season,,4429086
+2576414,Raheem Mostert,RB,"5' 10""",212 lbs,9/4/1992,33,"New Smyrna Beach, FL",Purdue,2509,,,,,11th Season,,514200
+4260394,Aidan O'Connell,QB,"6' 3""",206 lbs,1/9/1998,27,"Long Grove, IL",Purdue,2509,2023,4,135,LV,3rd Season,,4260394
+4035115,Albert Okwuegbunam Jr.,TE,"6' 5""",258 lbs,25/4/1998,27,"Springfield, IL",Missouri,142,2020,4,118,DEN,5th Season,,4035115
+4240703,Kenny Pickett,QB,"6' 3""",220 lbs,6/6/1998,27,"Oakhurst, NJ",Pittsburgh,221,2022,1,20,PIT,4th Season,,4240703
+4686781,Brenden Rice,WR,"6' 3""",210 lbs,18/3/2002,23,"Chandler, AZ",USC,30,2024,7,225,LAC,2nd Season,,4686781
+5155825,Carter Runyon,TE,"6' 4""",243 lbs,23/7/2001,24,"Fairfax, VA",Towson,119,,,,,Rookie,,5155825
+4361426,Justin Shorter,WR,"6' 4""",227 lbs,17/4/2000,25,"Monmouth Junction, NJ",Florida,57,2023,5,150,BUF,3rd Season,,4361426
+15864,Geno Smith,QB,"6' 3""",221 lbs,10/10/1990,35,"Miami, FL",West Virginia,277,2013,2,39,NYJ,13th Season,,488025
+4045305,Ian Thomas,TE,"6' 3""",253 lbs,6/6/1996,29,"Baltimore, MD",Indiana,84,2018,4,101,CAR,8th Season,,4045305
+4432775,Dont'e Thornton Jr.,WR,"6' 5""",205 lbs,30/11/2002,23,"Baltimore, MD",Tennessee,2633,2025,4,108,LV,Rookie,,4432775
+4428718,Tre Tucker,WR,"5' 8""",182 lbs,8/3/2001,24,"Akron, OH",Cincinnati,2132,2023,3,100,LV,3rd Season,L,4428718
+4361777,Zamir White,RB,"5' 11""",227 lbs,18/9/1999,26,"Laurinburg, NC",Georgia,61,2022,4,122,LV,4th Season,B,4361777
+4432665,Brock Bowers,TE,"6' 4""",235 lbs,13/12/2002,23,"Napa, CA",Georgia,61,2024,1,13,LV,2nd Season,,4432665
+15818,Keenan Allen,WR,"6' 2""",211 lbs,27/4/1992,33,"Greensboro, NC",California,25,2013,3,76,SD,13th Season,,501550
+4569372,Dalevon Campbell,WR,"6' 4""",220 lbs,5/12/2001,24,"Missouri City, TX",South Carolina,2579,,,,,Rookie,,4569372
+3915486,Tyler Conklin,TE,"6' 3""",248 lbs,30/7/1995,30,"Chesterfield, MI",Central Michigan,2117,2018,5,157,MIN,8th Season,,3915486
+4362477,Derius Davis,WR,"5' 8""",165 lbs,11/9/2000,25,"Saint Francisville, LA",TCU,2628,2023,4,125,LAC,3rd Season,,4362477
+3127292,Will Dissly,TE,"6' 4""",265 lbs,8/7/1996,29,"Bozeman, MT",Washington,264,2018,4,120,SEA,8th Season,,3127292
+4242558,Tucker Fisk,TE,"6' 4""",285 lbs,19/1/1999,27,"Davis, CA",Stanford,24,,,,,2nd Season,,4242558
+4595342,Oronde Gadsden,TE,"6' 5""",236 lbs,25/6/2003,22,"Fort Lauderdale, FL",Syracuse,183,2025,5,165,LAC,Rookie,,4595342
+4433830,Luke Grimm,WR,"6' 0""",190 lbs,8/8/2001,24,"Raymore, MO",Kansas,2305,,,,,Rookie,,4433830
+4685382,Omarion Hampton,RB,"6' 0""",220 lbs,16/3/2003,22,"Clayton, NC",North Carolina,153,2025,1,22,LAC,Rookie,,4685382
+4686612,Tre' Harris,WR,"6' 3""",210 lbs,28/2/2002,24,"Lafayette, LA",Ole Miss,145,2025,2,55,LAC,Rookie,,4686612
+4372071,Hassan Haskins,RB,"6' 2""",228 lbs,26/11/1999,26,"St. Louis, MO",Michigan,130,2022,4,131,TEN,4th Season,,4372071
+4038941,Justin Herbert,QB,"6' 6""",236 lbs,10/3/1998,27,"Eugene, OR",Oregon,2483,2020,1,6,LAC,6th Season,,4038941
+5160748,JaQuae Jackson,WR,"6' 1""",184 lbs,30/1/2000,26,"Pittsburgh, PA",Rutgers,164,,,,,2nd Season,,5160748
+4878878,Amar Johnson,RB,"5' 10""",205 lbs,31/1/2003,23,"O' Fallon, MO",South Dakota State,2571,,,,,Rookie,,4878878
+4429025,Quentin Johnston,WR,"6' 2""",208 lbs,6/9/2001,24,"Temple, TX",TCU,2628,2023,1,21,LAC,3rd Season,L,4429025
+4383351,Trey Lance,QB,"6' 4""",226 lbs,9/5/2000,25,"Marshall, MN",North Dakota State,2449,2021,1,3,SF,5th Season,,4383351
+4612826,Ladd McConkey,WR,"6' 0""",185 lbs,11/11/2001,24,"Chatsworth, GA",Georgia,61,2024,2,34,LAC,2nd Season,,4612826
+4384171,Tanner McLachlan,TE,"6' 5""",244 lbs,15/3/1999,26,"Lethbridge, AB",Arizona,12,2024,6,194,CIN,2nd Season,,4384171
+4362452,Jaret Patterson,RB,"5' 8""",195 lbs,23/12/1999,26,"Glendale, MO",Buffalo,2084,,,,,2nd Season,,4362452
+4429020,DJ Uiagalelei,QB,"6' 4""",252 lbs,17/4/2001,24,"Inland Empire, CA",Florida State,52,,,,,Rookie,,4429020
+4430968,Kimani Vidal,RB,"5' 8""",215 lbs,28/8/2001,24,"Marietta, GA",Troy,2653,2024,6,181,LAC,2nd Season,,4430968
+4361027,Thomas Yassmin,TE,"6' 5""",251 lbs,21/10/1999,26,"Sydney, NSW",Utah,254,,,,,1st Season,,4361027
+4241457,Najee Harris,RB,"6' 1""",242 lbs,9/3/1998,27,"Antioch, CA",Alabama,333,2021,1,24,PIT,5th Season,,4241457
+4430870,KeAndre Lambert-Smith,WR,"6' 1""",182 lbs,29/7/2002,23,"Norfolk, VA",Auburn,2,2025,5,158,LAC,Rookie,,4430870
+16800,Davante Adams,WR,"6' 1""",215 lbs,24/12/1992,33,"Palo Alto, CA",Fresno State,278,2014,2,53,GB,12th Season,,520581
+4426553,Davis Allen,TE,"6' 6""",251 lbs,3/2/2001,25,"Calhoun, GA",Clemson,228,2023,5,175,LAR,3rd Season,,4426553
+4360797,Tutu Atwell,WR,"5' 9""",165 lbs,7/10/1999,26,"Miami, FL",Louisville,97,2021,2,57,LAR,5th Season,,4360797
+4259553,Stetson Bennett IV,QB,"5' 11""",190 lbs,28/10/1997,28,"Blackshear, GA",Georgia,61,2023,4,128,LAR,2nd Season,,4259553
+4429096,Blake Corum,RB,"5' 8""",210 lbs,25/11/2000,25,"Marshall, VA",Michigan,130,2024,3,83,LAR,2nd Season,,4429096
+4875786,Tru Edwards,WR,"6' 3""",201 lbs,9/6/2001,24,"Shreveport, LA",Louisiana Tech,2348,,,,,Rookie,,4875786
+4570037,Terrance Ferguson,TE,"6' 5""",255 lbs,7/3/2003,22,"Littleton, CO",Oregon,2483,2025,2,46,LAR,Rookie,,4570037
+16760,Jimmy Garoppolo,QB,"6' 2""",225 lbs,2/11/1991,34,"Arlington Heights, IL",Eastern Illinois,2197,2014,2,62,NE,12th Season,,499514
+2573401,Tyler Higbee,TE,"6' 6""",253 lbs,1/1/1993,33,"Clearwater, FL",Western Kentucky,98,2016,4,110,LAR,10th Season,,515708
+4710341,Jarquez Hunter,RB,"5' 10""",209 lbs,29/12/2002,23,"Philadelphia, MS",Auburn,2,2025,4,117,LAR,Rookie,,4710341
+4710855,Konata Mumpfield,WR,"6' 1""",185 lbs,24/10/2002,23,"Hoschton, GA",Pittsburgh,221,2025,7,242,LAR,Rookie,,4710855
+4426515,Puka Nacua,WR,"6' 2""",212 lbs,29/5/2001,24,"Provo, UT",BYU,252,2023,5,177,LAR,3rd Season,,4426515
+4242557,Colby Parkinson,TE,"6' 7""",265 lbs,8/1/1999,27,"Simi Valley, CA",Stanford,24,2020,4,133,SEA,6th Season,,4242557
+4431342,Brennan Presley,WR,"5' 8""",174 lbs,2/2/2002,24,"Tulsa, OK",Oklahoma State,197,,,,,Rookie,,4431342
+4431346,Mark Redman,TE,"6' 5""",255 lbs,20/1/2002,24,"Newport Beach, CA",Louisville,97,,,,,Rookie,,4431346
+4243003,Ronnie Rivers,RB,"5' 9""",198 lbs,31/1/1999,27,"Brentwood, CA",Fresno State,278,,,,,4th Season,,4243003
+4565908,Tyler Scott,WR,"5' 10""",182 lbs,12/10/2001,24,"Norton, OH",Cincinnati,2132,2023,4,133,CHI,3rd Season,,4565908
+4386544,Xavier Smith,WR,"5' 9""",176 lbs,21/9/1997,28,"Haines City, FL",Florida A&M,50,,,,,2nd Season,,4386544
+12483,Matthew Stafford,QB,"6' 3""",214 lbs,7/2/1988,38,"Dallas, TX",Georgia,61,2009,1,1,DET,17th Season,,183518
+2576399,Nick Vannett,TE,"6' 5""",266 lbs,6/3/1993,32,"Westerville, OH",Ohio State,194,2016,3,94,SEA,10th Season,,514185
+4428803,Jordan Waters,RB,"6' 0""",225 lbs,18/12/2000,25,"Fairmont, NC",NC State,152,,,,,Rookie,,4428803
+4569382,Jordan Whittington,WR,"6' 1""",202 lbs,1/10/2000,25,"Cuero, TX",Texas,251,2024,6,213,LAR,2nd Season,,4569382
+4430737,Kyren Williams,RB,"5' 9""",202 lbs,26/8/2000,25,"St. Louis, MO",Notre Dame,87,2022,5,164,LAR,4th Season,,4430737
+4431618,Mario Williams,WR,"5' 9""",178 lbs,21/1/2003,23,"Tampa, FL",Tulane,2655,,,,,Rookie,,4431618
+4429160,De'Von Achane,RB,"5' 9""",191 lbs,13/10/2001,24,"Missouri City, TX",Texas A&M,245,2023,3,84,MIA,3rd Season,,4429160
+4367209,Greg Dulcich,TE,"6' 4""",245 lbs,26/3/2000,25,"Glendale, CA",UCLA,26,2022,3,80,DEN,4th Season,,4367209
+4431536,Donovan Edwards,RB,"6' 1""",212 lbs,25/2/2003,23,"West Bloomfield, MI",Michigan,130,,,,,Rookie,,4431536
+4889929,Quinn Ewers,QB,"6' 2""",209 lbs,15/3/2003,22,"Southlake, TX",Texas,251,2025,7,231,MIA,Rookie,,4889929
+4711533,Ollie Gordon II,RB,"6' 2""",225 lbs,15/1/2004,22,"Fort Worth, TX",Oklahoma State,197,2025,6,179,MIA,Rookie,,4711533
+4429053,AJ Henning,WR,"5' 10""",192 lbs,9/9/2001,24,"Frankfort, IL",Northwestern,77,,,,,Rookie,,4429053
+4365395,Julian Hill,TE,"6' 4""",251 lbs,9/7/2000,25,"Fayetteville, NC",Campbell,2097,,,,,3rd Season,,4365395
+4361417,Zack Kuntz,TE,"6' 8""",251 lbs,6/6/1999,26,"Camp Hill, PA",Old Dominion,295,2023,7,220,NYJ,1st Season,,4361417
+4362630,Terrace Marshall Jr.,WR,"6' 2""",200 lbs,9/6/2000,25,"Bossier City, LA",LSU,99,2021,2,59,CAR,5th Season,,4362630
+4693331,Cam Miller,QB,"6' 0""",211 lbs,18/6/2001,24,"Solon, IA",North Dakota State,2449,2025,6,215,LV,Rookie,,4693331
+4241479,Tua Tagovailoa,QB,"6' 1""",225 lbs,2/3/1998,27,"Ewa Beach, HI",Alabama,333,2020,1,5,MIA,6th Season,L,4241479
+4361438,Cole Turner,TE,"6' 6""",240 lbs,16/3/2000,25,"Clackamas, OR",Nevada,2440,2022,5,149,WSH,3rd Season,,4361438
+4372016,Jaylen Waddle,WR,"5' 10""",185 lbs,25/11/1998,27,"Houston, TX",Alabama,333,2021,1,6,MIA,5th Season,,4372016
+4569603,Malik Washington,WR,"5' 8""",195 lbs,4/1/2001,25,"Lawrenceville, GA",Virginia,258,2024,6,184,MIA,2nd Season,,4569603
+4567506,Tahj Washington,WR,"5' 10""",174 lbs,16/5/2001,24,"Marshall, TX",USC,30,2024,7,241,MIA,2nd Season,,4567506
+4426535,Theo Wease Jr.,WR,"6' 2""",210 lbs,25/6/2001,24,"Allen, TX",Missouri,142,,,,,Rookie,,4426535
+4361259,Zach Wilson,QB,"6' 2""",214 lbs,3/8/1999,26,"Draper, UT",BYU,252,2021,1,2,NYJ,5th Season,,4361259
+4036335,Cedrick Wilson Jr.,WR,"6' 2""",197 lbs,10/3/1995,30,"Memphis, TN",Boise State,68,2018,6,208,DAL,8th Season,,4036335
+4682745,Jaylen Wright,RB,"5' 10""",208 lbs,1/4/2003,22,"Durham, NC",Tennessee,2633,2024,4,120,MIA,2nd Season,,4682745
+4431044,Jalin Conyers,TE,"6' 4""",265 lbs,25/7/2001,24,"Gruver, TX",Texas Tech,2641,,,,,Rookie,,4431044
+4043016,Dee Eskridge,WR,"5' 9""",190 lbs,23/3/1997,28,"Bluffton, IN",Western Michigan,2711,2021,2,56,SEA,5th Season,,4043016
+4048244,Alexander Mattison,RB,"5' 11""",220 lbs,19/6/1998,27,"San Bernardino, CA",Boise State,68,2019,3,102,MIN,7th Season,,4048244
+2576925,Darren Waller,TE,"6' 6""",238 lbs,13/9/1992,33,"Acworth, GA",Georgia Tech,59,2015,6,204,BAL,8th Season,,513727
+4429205,Jordan Addison,WR,"5' 11""",175 lbs,27/1/2002,24,"Frederick, MD",USC,30,2023,1,23,MIN,3rd Season,B,4429205
+4573398,Max Brosmer,QB,"6' 2""",217 lbs,28/3/2001,24,"Roswell, GA",Minnesota,135,,,,,Rookie,,4573398
+4242431,Ty Chandler,RB,"5' 11""",204 lbs,12/5/1998,27,"Nashville, TN",North Carolina,153,2022,5,169,MIN,4th Season,,4242431
+4696907,Joaquin Davis,WR,"6' 4""",195 lbs,18/8/2002,23,"Durham, NC",North Carolina Central,2428,,,,,Rookie,,4696907
+4565185,Tai Felton,WR,"6' 1""",183 lbs,15/3/2003,22,"Ashburn, VA",Maryland,120,2025,3,102,MIN,Rookie,,4565185
+4565297,Dontae Fleming,WR,"6' 2""",180 lbs,28/11/2001,24,"Laplace, LA",Tulane,2655,,,,,Rookie,,4565297
+4036133,T.J. Hockenson,TE,"6' 5""",248 lbs,3/7/1997,28,"Chariton, IA",Iowa,2294,2019,1,8,DET,7th Season,,4036133
+4262921,Justin Jefferson,WR,"6' 1""",195 lbs,16/6/1999,26,"Saint Rose, LA",LSU,99,2020,1,22,MIN,6th Season,,4262921
+4360637,Jeshaun Jones,WR,"6' 1""",188 lbs,22/12/1999,26,"Fort Myers, FL",Maryland,120,,,,,1st Season,,4360637
+3042519,Aaron Jones Sr.,RB,"5' 10""",208 lbs,2/12/1994,31,"El Paso, TX",UTEP,2638,2017,5,182,GB,9th Season,,545833
+4360569,Jordan Mason,RB,"5' 11""",223 lbs,24/5/1999,26,"Gallatin, TN",Georgia Tech,59,,,,,4th Season,,4360569
+4433970,J.J. McCarthy,QB,"6' 3""",219 lbs,20/1/2003,23,"La Grange Park, IL",Michigan,130,2024,1,10,MIN,2nd Season,,4433970
+4382466,Jalen Nailor,WR,"5' 11""",190 lbs,2/3/1999,26,"Palmdale, CA",Michigan State,127,2022,6,191,MIN,4th Season,L,4382466
+4602969,Bryson Nesbit,TE,"6' 5""",238 lbs,25/9/2002,23,"Charlotte, NC",North Carolina,153,,,,,Rookie,,4602969
+3921690,Josh Oliver,TE,"6' 5""",259 lbs,21/3/1997,28,"Paso Robles, CA",San José State,23,2019,3,69,JAX,7th Season,,3921690
+4430656,Myles Price,WR,"5' 9""",183 lbs,16/12/2001,24,"Dallas, TX",Indiana,84,,,,,Rookie,,4430656
+3722362,Brett Rypien,QB,"6' 2""",210 lbs,9/7/1996,29,"Spokane, WA",Boise State,68,,,,,7th Season,,3722362
+4257364,Zavier Scott,RB,"6' 1""",219 lbs,17/7/1999,26,"Fort Hood, TX",Maine,311,,,,,1st Season,,4257364
+4373030,Ben Sims,TE,"6' 5""",250 lbs,16/5/2000,25,"San Antonio, TX",Baylor,239,,,,,3rd Season,,4373030
+3124092,John Wolford,QB,"6' 1""",218 lbs,16/10/1995,30,"Jacksonville, FL",Wake Forest,154,,,,,5th Season,,3124092
+4433959,Ben Yurosek,TE,"6' 4""",245 lbs,17/3/2002,23,"Bakersfield, CA",Georgia,61,,,,,Rookie,,4433959
+4708049,Gavin Bartholomew,TE,"6' 5""",246 lbs,30/4/2003,22,"Schuylkill Haven, PA",Pittsburgh,221,2025,6,202,MIN,Rookie,,4708049
+2573079,Carson Wentz,QB,"6' 5""",237 lbs,30/12/1992,33,"Bismarck, ND",North Dakota State,2449,2016,1,2,PHI,10th Season,,515607
+4429022,Kayshon Boutte,WR,"5' 11""",197 lbs,7/5/2002,23,"New Iberia, LA",LSU,99,2023,6,187,NE,3rd Season,,4429022
+4695193,Efton Chism III,WR,"5' 10""",198 lbs,26/10/2001,24,"Monroe, WA",Eastern Washington,331,,,,,Rookie,,4695193
+4240391,Tommy DeVito,QB,"6' 2""",210 lbs,7/8/1998,27,"Cedar Grove, NJ",Illinois,356,,,,,3rd Season,,4240391
+2976212,Stefon Diggs,WR,"6' 0""",191 lbs,29/11/1993,32,"Gaithersburg, MD",Maryland,120,2015,5,146,MIN,11th Season,,534249
+4596545,CJ Dippre,TE,"6' 5""",256 lbs,29/4/2002,23,"Scranton, PA",Alabama,333,,,,,Rookie,,4596545
+3044720,Joshua Dobbs,QB,"6' 3""",220 lbs,26/1/1995,31,"Alpharetta, GA",Tennessee,2633,2017,4,135,PIT,9th Season,,546540
+4427095,DeMario Douglas,WR,"5' 8""",192 lbs,8/12/2000,25,"Jacksonville, FL",Liberty,2335,2023,6,210,NE,3rd Season,B,4427095
+4432710,TreVeyon Henderson,RB,"5' 10""",202 lbs,22/10/2002,23,"Hopewell, VA",Ohio State,194,2025,2,38,NE,Rookie,,4432710
+3046439,Hunter Henry,TE,"6' 5""",249 lbs,7/12/1994,31,"Little Rock, AR",Arkansas,8,2016,2,35,SD,10th Season,,547233
+2991662,Mack Hollins,WR,"6' 4""",221 lbs,16/9/1993,32,"Rockville, MD",North Carolina,153,2017,4,118,PHI,9th Season,,540210
+3043275,Austin Hooper,TE,"6' 4""",254 lbs,4/11/1994,31,"San Ramon, CA",Stanford,24,2016,3,81,ATL,10th Season,,546471
+3115328,Jalen Hurd,WR,"6' 5""",230 lbs,23/1/1996,30,"Hendersonville, TN",Baylor,239,2019,3,67,SF,4th Season,,559716
+4887705,John Jiles,WR,"6' 3""",220 lbs,8/7/2000,25,"Wake Forest, NC",West Florida,2697,,,,,1st Season,,4887705
+4566195,Marshall Lang,TE,"6' 4""",249 lbs,15/10/2001,24,"Cincinnati, OH",Northwestern,77,,,,,Rookie,,4566195
+4431452,Drake Maye,QB,"6' 4""",225 lbs,30/8/2002,23,"Huntersville, NC",North Carolina,153,2024,1,3,NE,2nd Season,,4431452
+4241555,Elijah Mitchell,RB,"5' 10""",200 lbs,2/5/1998,27,"Erath, LA",Louisiana,309,2021,6,194,SF,5th Season,,4241555
+4569173,Rhamondre Stevenson,RB,"6' 0""",227 lbs,23/2/1998,28,"Las Vegas, NV",Oklahoma,201,2021,4,120,NE,5th Season,,4569173
+4572655,Jeremiah Webb,WR,"5' 11""",198 lbs,17/5/2001,24,"Chicago, IL",South Alabama,6,,,,,Rookie,,4572655
+4361100,Jack Westover,TE,"6' 2""",245 lbs,9/6/1999,26,"Bellevue, WA",Washington,264,,,,,1st Season,,4361100
+4613202,Kyle Williams,WR,"5' 11""",190 lbs,13/11/2002,23,"Inglewood, CA",Washington State,265,2025,3,69,NE,Rookie,,4613202
+4427600,Terrell Jennings,RB,"6' 0""",217 lbs,1/3/2001,24,"Jacksonville, FL",Florida A&M,50,,,,,1st Season,,4427600
+4698253,Lan Larison,RB,"5' 11""",209 lbs,11/10/2001,24,"Caldwell, ID",UC Davis,302,,,,,Rookie,,4698253
+4372526,Deneric Prince,RB,"6' 0""",211 lbs,11/4/2000,25,"Manvel, TX",Tulsa,202,,,,,1st Season,,4372526
+4605489,Damien Alford,WR,"6' 6""",210 lbs,,,"Montreal, PQ",Utah,254,,,,,Rookie,,4605489
+4372758,Kevin Austin Jr.,WR,"6' 2""",200 lbs,30/3/2000,25,"Fort Lauderdale, FL",Notre Dame,87,,,,,2nd Season,,4372758
+4372063,Ronnie Bell,WR,"6' 0""",192 lbs,28/1/2000,26,"Kansas City, MO",Michigan,130,2023,7,253,SF,3rd Season,,4372063
+4241588,Elijah Cooks,WR,"6' 4""",215 lbs,13/10/1998,27,"Atascadero, CA",San José State,23,,,,,2nd Season,,4241588
+4569682,Audric Estime,RB,"5' 11""",227 lbs,6/9/2003,22,"Nyack, NY",Notre Dame,87,2024,5,147,DEN,2nd Season,,4569682
+2468609,Taysom Hill,QB,"6' 2""",221 lbs,23/8/1990,35,"Pocatello, ID",BYU,252,,,,,9th Season,,482594
+4569609,Evan Hull,RB,"5' 10""",209 lbs,26/10/2000,25,"Maple Grove, MN",Northwestern,77,2023,5,176,IND,2nd Season,,4569609
+3929645,Juwan Johnson,TE,"6' 4""",231 lbs,13/9/1996,29,"Glassboro, NJ",Oregon,2483,,,,,6th Season,,3929645
+3054850,Alvin Kamara,RB,"5' 10""",215 lbs,25/7/1995,30,"Norcross, GA",Tennessee,2633,2017,3,67,NO,9th Season,,551298
+4432731,Moliki Matavao,TE,"6' 6""",263 lbs,17/3/2003,22,"Henderson, NV",UCLA,26,2025,7,248,NO,Rookie,,4432731
+4361370,Chris Olave,WR,"6' 0""",187 lbs,27/6/2000,25,"San Ysidro, CA",Ohio State,194,2022,1,11,NO,4th Season,,4361370
+3127306,Dante Pettis,WR,"6' 1""",195 lbs,23/10/1995,30,"San Clemente, CA",Washington,264,2018,2,44,SF,7th Season,,3127306
+4426339,Spencer Rattler,QB,"6' 0""",211 lbs,28/9/2000,25,"Phoenix, AZ",South Carolina,2579,2024,5,150,NO,2nd Season,R,4426339
+4360689,Tyler Shough,QB,"6' 5""",219 lbs,28/9/1999,26,"Chandler, AZ",Louisville,97,2025,2,40,NO,Rookie,,4360689
+4027873,Samori Toure,WR,"6' 1""",196 lbs,24/3/1998,27,"Portland, OR",Nebraska,158,2022,7,258,GB,3rd Season,,4027873
+4430684,Treyton Welch,TE,"6' 4""",240 lbs,10/1/2001,25,"Buffalo, MN",Wyoming,2751,,,,,1st Season,,4430684
+4427985,Bub Means,WR,"6' 2""",215 lbs,10/1/2001,25,"Lovejoy, GA",Pittsburgh,221,2024,5,170,NO,2nd Season,,4427985
+4599739,Kendre Miller,RB,"6' 0""",220 lbs,11/6/2002,23,"Mount Enterprise, TX",TCU,2628,2023,3,71,NO,3rd Season,,4599739
+4876006,Zaire Mitchell-Paden,TE,"6' 5""",257 lbs,20/8/1999,26,"Rockville, MD",Florida Atlantic,2226,,,,,1st Season,,4876006
+3843945,Foster Moreau,TE,"6' 4""",250 lbs,6/5/1997,28,"New Orleans, LA",LSU,99,2019,4,137,OAK,7th Season,,3843945
+4682652,Devin Neal,RB,"5' 11""",213 lbs,12/8/2003,22,"Lawrence, KS",Kansas,2305,2025,6,184,NO,Rookie,,4682652
+4426407,Trey Palmer,WR,"6' 1""",190 lbs,2/4/2001,24,"Kentwood, LA",Nebraska,158,2023,6,191,TB,3rd Season,,4426407
+4911517,Mason Pline,TE,"6' 7""",260 lbs,5/2/2000,26,"Fowler, MI",Furman,231,,,,,1st Season,,4911517
+4430637,Ja'Lynn Polk,WR,"6' 1""",203 lbs,11/4/2002,23,"Lufkin, TX",Washington,264,2024,2,37,NE,2nd Season,,4430637
+4034862,Jack Stoll,TE,"6' 4""",247 lbs,28/1/1998,28,"Lone Tree, CO",Nebraska,158,,,,,5th Season,,4034862
+4573697,Mason Tipton,WR,"5' 11""",187 lbs,27/9/2000,25,"Akron, OH",Yale,43,,,,,2nd Season,,4573697
+4569559,Devaughn Vele,WR,"6' 5""",210 lbs,12/12/1997,28,"San Diego, CA",Utah,254,2024,7,235,DEN,2nd Season,,4569559
+4361516,Daniel Bellinger,TE,"6' 6""",255 lbs,22/9/2000,25,"Las Vegas, NV",San Diego State,21,2022,4,112,NYG,4th Season,,4361516
+4570296,Dalen Cambre,WR,"6' 0""",192 lbs,10/4/2001,24,"Lafayette, LA",Louisiana,309,,,,,Rookie,,4570296
+4047422,Tanner Conner,TE,"6' 3""",232 lbs,20/3/1998,27,"Kent, WA",Idaho State,304,,,,,3rd Season,,4047422
+4689114,Jaxson Dart,QB,"6' 2""",223 lbs,13/5/2003,22,"Kaysville, UT",Ole Miss,145,2025,1,25,NYG,Rookie,,4689114
+4427278,Xavier Gipson,WR,"5' 9""",189 lbs,8/3/2001,24,"Dallas, TX",Stephen F. Austin,2617,,,,,3rd Season,,4427278
+4570561,Eric Gray,RB,"5' 10""",211 lbs,4/11/1999,26,"Memphis, TN",Oklahoma,201,2023,5,172,NYG,3rd Season,,4570561
+4242540,Isaiah Hodgins,WR,"6' 3""",200 lbs,21/10/1998,27,"Oakley, CA",Oregon State,204,2020,6,207,BUF,4th Season,,4242540
+4692590,Jalin Hyatt,WR,"6' 0""",185 lbs,25/9/2001,24,"Irmo, SC",Tennessee,2633,2023,3,73,NYG,3rd Season,,4692590
+4565172,Courtney Jackson,WR,"5' 11""",179 lbs,13/3/2001,24,"Monroeville, PA",Arkansas State,2032,,,,,Rookie,,4565172
+4429148,Theo Johnson,TE,"6' 6""",264 lbs,26/2/2001,25,"Windsor, ON",Penn State,213,2024,4,107,NYG,2nd Season,,4429148
+2531358,Chris Manhertz,TE,"6' 6""",235 lbs,10/4/1992,33,"Bronx, NY",Canisius,2099,,,,,10th Season,,
+4367510,Dante Miller,RB,"5' 9""",200 lbs,14/5/1999,26,"Rockingham, NC",South Carolina,2579,,,,,1st Season,,4367510
+4369466,Ryan Miller,WR,"6' 2""",221 lbs,20/2/2000,26,"Jackson, TN",Furman,231,,,,,2nd Season,,4369466
+4424106,Gunner Olszewski,WR,"6' 0""",190 lbs,26/11/1996,29,"Alvin, TX",Bemidji State,132,,,,,7th Season,,
+4040761,Devin Singletary,RB,"5' 7""",203 lbs,3/9/1997,28,"Deerfield Beach, FL",Florida Atlantic,2226,2019,3,74,BUF,7th Season,,4040761
+3916945,Darius Slayton,WR,"6' 1""",198 lbs,12/1/1997,29,"Norcross, GA",Auburn,2,2019,5,171,NYG,7th Season,,3916945
+4360516,Tyrone Tracy Jr.,RB,"5' 11""",210 lbs,23/11/1999,26,"Indianapolis, IN",Purdue,2509,2024,5,166,NYG,2nd Season,,4360516
+14881,Russell Wilson,QB,"5' 11""",206 lbs,29/11/1988,37,"Richmond, VA",Wisconsin,275,2012,3,75,SEA,14th Season,B,238093
+2969939,Jameis Winston,QB,"6' 4""",231 lbs,6/1/1994,32,"Bessemer, AL",Florida State,52,2015,1,1,TB,11th Season,,530308
+4431210,Beaux Collins,WR,"6' 3""",206 lbs,16/12/2002,23,"Los Angeles, CA",Notre Dame,87,,,,,Rookie,,4431210
+4575348,Da'Quan Felton,WR,"6' 5""",216 lbs,13/1/2001,25,"Portsmouth, VA",Virginia Tech,259,,,,,Rookie,,4575348
+4590292,Thomas Fidone II,TE,"6' 6""",255 lbs,20/9/2002,23,"Council Bluffs, IA",Nebraska,158,2025,7,219,NYG,Rookie,,4590292
+4362227,Bryce Ford-Wheaton,WR,"6' 3""",220 lbs,9/3/2000,25,"Fuquay-Varina, NC",West Virginia,277,,,,,3rd Season,,4362227
+4595348,Malik Nabers,WR,"6' 0""",200 lbs,28/7/2003,22,"Youngsville, LA",LSU,99,2024,1,6,NYG,2nd Season,L,4595348
+4569587,Wan'Dale Robinson,WR,"5' 8""",185 lbs,5/1/2001,25,"Frankfort, KY",Kentucky,96,2022,2,43,NYG,4th Season,,4569587
+4696981,Cam Skattebo,RB,"5' 11""",215 lbs,5/2/2002,24,"Rio Linda, CA",Arizona State,9,2025,4,105,NYG,Rookie,,4696981
+4429435,Brady Cook,QB,"6' 2""",215 lbs,12/10/2001,24,"St. Louis, MO",Missouri,142,,,,,Rookie,,4429435
+4431053,Mac Dalena,WR,"5' 11""",180 lbs,4/10/2001,24,"Fresno, CA",Fresno State,278,,,,,Rookie,,4431053
+4427366,Breece Hall,RB,"5' 11""",217 lbs,31/5/2001,24,"Wichita, KS",Iowa State,66,2022,2,36,NYJ,4th Season,,4427366
+4035886,Khalil Herbert,RB,"5' 9""",212 lbs,21/4/1998,27,"Fort Lauderdale, FL",Virginia Tech,259,2021,6,217,CHI,5th Season,,4035886
+4240858,Hendon Hooker,QB,"6' 3""",221 lbs,13/1/1998,28,"Greensboro, NC",Tennessee,2633,2023,3,68,DET,3rd Season,L,4240858
+2310331,Tyler Johnson,WR,"6' 1""",208 lbs,25/8/1998,27,"Minneapolis, MN",Minnesota,135,2020,5,161,TB,5th Season,,246044
+4567096,John Metchie III,WR,"5' 11""",187 lbs,18/7/2000,25,"Brampton, ON",Alabama,333,2022,2,44,HOU,3rd Season,B,4567096
+4597500,Adonai Mitchell,WR,"6' 2""",205 lbs,8/10/2002,23,"Missouri City, TX",Texas,251,2024,2,52,IND,2nd Season,,4597500
+4035537,Kene Nwangwu,RB,"6' 1""",210 lbs,9/2/1998,28,"Frisco, TX",Iowa State,66,2021,4,119,MIN,5th Season,,4035537
+4892576,Jamaal Pritchett,WR,"5' 8""",175 lbs,10/6/2003,22,"Jackson, AL",South Alabama,6,,,,,Rookie,,4892576
+4361372,Jeremy Ruckert,TE,"6' 5""",250 lbs,11/8/2000,25,"Lindenhurst, NY",Ohio State,194,2022,3,101,NYJ,4th Season,,4361372
+4613050,Quentin Skinner,WR,"6' 5""",195 lbs,24/12/2001,24,"Claremore, OK",Kansas,2305,,,,,Rookie,,4613050
+4250764,Stone Smartt,TE,"6' 4""",226 lbs,4/10/1998,27,"Sacramento, CA",Old Dominion,295,,,,,4th Season,,4250764
+4429105,Arian Smith,WR,"6' 0""",179 lbs,11/10/2001,24,"Bradley, FL",Georgia,61,2025,4,110,NYJ,Rookie,,4429105
+14163,Tyrod Taylor,QB,"6' 1""",217 lbs,3/8/1989,36,"Hampton, VA",Virginia Tech,259,2011,6,180,BAL,15th Season,R,236838
+4569371,Isaiah Williams,WR,"5' 10""",185 lbs,29/1/2001,25,"St. Louis, MO",Illinois,356,,,,,2nd Season,,4569371
+4241410,Jelani Woods,TE,"6' 7""",253 lbs,9/10/1998,27,"Ellenwood, GA",Virginia,258,2022,3,73,IND,4th Season,,4241410
+4250360,Bailey Zappe,QB,"6' 1""",215 lbs,26/4/1999,26,"Victoria, TX",Western Kentucky,98,2022,4,137,NE,4th Season,,4250360
+4685247,Braelon Allen,RB,"6' 1""",235 lbs,20/1/2004,22,"Fond Du Lac, WI",Wisconsin,275,2024,4,134,NYJ,2nd Season,,4685247
+3929636,Irvin Charles,WR,"6' 4""",219 lbs,13/4/1997,28,"Sicklerville, NJ",Indiana-Pennsylvania,2291,,,,,3rd Season,,3929636
+4695404,Isaiah Davis,RB,"6' 1""",220 lbs,21/2/2002,24,"Joplin, MO",South Dakota State,2571,2024,5,173,NYJ,2nd Season,,4695404
+4362887,Justin Fields,QB,"6' 3""",227 lbs,5/3/1999,26,"Kennesaw, GA",Ohio State,194,2021,1,11,CHI,5th Season,,4362887
+3115306,Josh Reynolds,WR,"6' 3""",192 lbs,16/2/1995,31,"San Antonio, TX",Texas A&M,245,2017,4,117,LAR,9th Season,,559694
+4808766,Mason Taylor,TE,"6' 5""",251 lbs,8/5/2004,21,"Plantation, FL",LSU,99,2025,2,42,NYJ,Rookie,,4808766
+4569618,Garrett Wilson,WR,"6' 0""",183 lbs,22/7/2000,25,"Austin, TX",Ohio State,194,2022,1,10,NYJ,4th Season,,4569618
+3929630,Saquon Barkley,RB,"6' 0""",233 lbs,9/2/1997,29,"Coplay, PA",Penn State,213,2018,1,2,NYG,8th Season,,3929630
+4429262,Jaheim Bell,TE,"6' 2""",241 lbs,14/6/2001,24,"Lake City, FL",Florida State,52,2024,7,231,NE,2nd Season,,4429262
+4429013,Tank Bigsby,RB,"5' 11""",215 lbs,30/8/2002,23,"LaGrange, GA",Auburn,2,2023,3,88,JAX,3rd Season,,4429013
+4047646,A.J. Brown,WR,"6' 1""",226 lbs,30/6/1997,28,"Starkville, MS",Ole Miss,145,2019,2,51,TEN,7th Season,,4047646
+4241374,Grant Calcaterra,TE,"6' 4""",240 lbs,4/12/1998,27,"Rancho Santa Margarita, CA",SMU,2567,2022,6,198,PHI,4th Season,,4241374
+4715355,Darius Cooper,WR,"5' 11""",210 lbs,22/11/2001,24,"St. Louis, MO",Tarleton State,2627,,,,,Rookie,,4715355
+3926231,Britain Covey,WR,"5' 8""",173 lbs,18/3/1997,28,"Provo, UT",Utah,254,,,,,4th Season,,3926231
+4239934,AJ Dillon,RB,"6' 0""",247 lbs,2/5/1998,27,"New London, CT",Boston College,103,2020,2,62,GB,6th Season,,4239934
+4361409,Jahan Dotson,WR,"5' 11""",184 lbs,22/3/2000,25,"Nazareth, PA",Penn State,213,2022,1,16,WSH,4th Season,R,4361409
+3121023,Dallas Goedert,TE,"6' 5""",256 lbs,3/1/1995,31,"Britton, SD",South Dakota State,2571,2018,2,49,PHI,8th Season,,3121023
+4039160,Kylen Granson,TE,"6' 3""",242 lbs,27/3/1998,27,"Austin, TX",SMU,2567,2021,4,127,IND,5th Season,,4039160
+4689546,Danny Gray,WR,"6' 0""",200 lbs,1/4/1999,26,"Dallas, TX",SMU,2567,2022,3,105,SF,3rd Season,,4689546
+4426875,Sam Howell,QB,"6' 1""",220 lbs,16/9/2000,25,"Indian Trail, NC",North Carolina,153,2022,5,144,WSH,4th Season,,4426875
+4040715,Jalen Hurts,QB,"6' 1""",223 lbs,7/8/1998,27,"Houston, TX",Oklahoma,201,2020,2,53,PHI,6th Season,L,4040715
+4248557,E.J. Jenkins,TE,"6' 6""",245 lbs,3/11/1998,27,"Fredericksburg, VA",Georgia Tech,59,,,,,2nd Season,,4248557
+4372026,Cameron Latu,TE,"6' 5""",244 lbs,24/2/2000,26,"Salt Lake City, UT",Alabama,333,2023,3,101,SF,2nd Season,,4372026
+4685201,Tanner McKee,QB,"6' 6""",231 lbs,27/4/2000,25,"Corona, CA",Stanford,24,2023,6,188,PHI,3rd Season,,4685201
+4431545,Will Shipley,RB,"5' 11""",209 lbs,29/8/2002,23,"Weddington, NC",Clemson,228,2024,4,127,PHI,2nd Season,,4431545
+4241478,DeVonta Smith,WR,"6' 0""",170 lbs,14/11/1998,27,"Amite, LA",Alabama,333,2021,1,10,PHI,5th Season,,4241478
+4714365,Carson Steele,RB,"6' 0""",228 lbs,21/10/2002,23,"Greenwood, IN",UCLA,26,,,,,2nd Season,,4714365
+4050373,Quez Watkins,WR,"6' 0""",193 lbs,9/6/1998,27,"Athens, AL",Southern Miss,2572,2020,6,200,PHI,5th Season,,4050373
+4686104,Johnny Wilson,WR,"6' 6""",228 lbs,3/4/2001,24,"Pacoima, CA",Florida State,52,2024,6,185,PHI,2nd Season,,4686104
+4243389,Calvin Austin III,WR,"5' 9""",162 lbs,24/3/1999,26,"Memphis, TN",Memphis,235,2022,4,138,PIT,4th Season,,4243389
+5192448,Cole Burgess,WR,"6' 1""",198 lbs,11/2/2000,26,"Cold Brook, NY",Cortland,2782,,,,,1st Season,,5192448
+4361411,Pat Freiermuth,TE,"6' 5""",258 lbs,25/10/1998,27,"Merrimac, MA",Penn State,213,2021,2,55,PIT,5th Season,,4361411
+4371733,Kenneth Gainwell,RB,"5' 9""",200 lbs,14/3/1999,26,"Yazoo City, MS",Memphis,235,2021,5,150,PHI,5th Season,,4371733
+4695800,JJ Galbreath,TE,"6' 4""",240 lbs,5/8/2001,24,"Arvada, CO",South Dakota,233,,,,,Rookie,,4695800
+4241961,Connor Heyward,TE,"6' 0""",230 lbs,22/1/1999,27,"Duluth, GA",Michigan State,127,2022,6,208,PIT,4th Season,,4241961
+4429955,Will Howard,QB,"6' 4""",236 lbs,24/9/2001,24,"Downingtown, PA",Ohio State,194,2025,6,185,PIT,Rookie,,4429955
+4694237,Max Hurleman,RB,"5' 11""",200 lbs,19/10/2001,24,"Wyomissing, PA",Notre Dame,87,,,,,Rookie,,4694237
+4819231,Kaleb Johnson,RB,"6' 1""",224 lbs,14/8/2003,22,"Hamilton, OH",Iowa,2294,2025,3,83,PIT,Rookie,,4819231
+4047650,DK Metcalf,WR,"6' 4""",229 lbs,14/12/1997,28,"Oxford, MS",Ole Miss,145,2019,2,64,SEA,7th Season,,4047650
+3914397,Scotty Miller,WR,"5' 9""",174 lbs,31/7/1997,28,"Barrington, IL",Bowling Green,189,2019,6,208,TB,7th Season,,3914397
+4428119,Lew Nichols,RB,"5' 10""",220 lbs,16/8/2001,24,"Detroit, MI",Central Michigan,2117,2023,7,235,GB,1st Season,,4428119
+4362019,A.T. Perry,WR,"6' 5""",205 lbs,26/10/1999,26,"Lake Worth, FL",Wake Forest,154,2023,6,195,NO,2nd Season,,4362019
+4426494,John Rhys Plumlee,WR,"6' 0""",200 lbs,2/1/2001,25,"Hattiesburg, MS",UCF,2116,,,,,Rookie,,4426494
+8439,Aaron Rodgers,QB,"6' 2""",223 lbs,2/12/1983,42,"Chico, CA",California,25,2005,1,24,GB,21st Season,,144994
+3116407,Mason Rudolph,QB,"6' 5""",235 lbs,17/7/1995,30,"Rock Hill, SC",Oklahoma State,197,2018,3,76,PIT,8th Season,R,3116407
+4035656,Ben Skowronek,WR,"6' 3""",224 lbs,27/6/1997,28,"Fort Wayne, IN",Notre Dame,87,2021,7,249,LAR,5th Season,,4035656
+4240577,Brandon Smith,WR,"6' 1""",218 lbs,10/12/1998,27,"Lake Cormorant, MS",Iowa,2294,,,,,1st Season,,4240577
+3054212,Jonnu Smith,TE,"6' 3""",248 lbs,22/8/1995,30,"Ocala, FL",Florida International,2229,2017,3,100,TEN,9th Season,,551279
+16460,Adam Thielen,WR,"6' 2""",195 lbs,22/8/1990,35,"Detroit Lakes, MN",Minnesota State,2364,,,,,12th Season,,
+3051738,Marquez Valdes-Scantling,WR,"6' 4""",206 lbs,10/10/1994,31,"St. Petersburg, FL",South Florida,58,2018,5,174,GB,8th Season,,549962
+4569987,Jaylen Warren,RB,"5' 8""",215 lbs,1/11/1998,27,"Salt Lake City, UT",Oklahoma State,197,,,,,4th Season,,4569987
+4431492,Roman Wilson,WR,"5' 10""",186 lbs,19/6/2001,24,"Honolulu, HI",Michigan,130,2024,3,84,PIT,2nd Season,,4431492
+3912092,Donald Parham Jr.,TE,"6' 8""",237 lbs,16/8/1997,28,"Lakeland, FL",Stetson,56,,,,,5th Season,,3912092
+4036419,Skylar Thompson,QB,"6' 2""",219 lbs,4/6/1997,28,"Independence, MO",Kansas State,2306,2022,7,247,MIA,4th Season,,4036419
+4430802,Darnell Washington,TE,"6' 7""",264 lbs,17/8/2001,24,"Las Vegas, NV",Georgia,61,2023,3,93,PIT,3rd Season,,4430802
+4887918,Junior Bergen,WR,"5' 9""",184 lbs,23/10/2002,23,"Billings, MT",Montana,149,2025,7,252,SF,Rookie,,4887918
+3045523,Kendrick Bourne,WR,"6' 1""",205 lbs,4/8/1995,30,"Portland, OR",Eastern Washington,331,,,,,9th Season,,547051
+4250945,Colton Dowell,WR,"6' 3""",212 lbs,19/4/1999,26,"Lebanon, TN",UT Martin,2630,2023,7,228,TEN,3rd Season,,4250945
+4040612,Luke Farrell,TE,"6' 5""",250 lbs,14/10/1997,28,"Perry, OH",Ohio State,194,2021,5,145,JAX,5th Season,,4040612
+4372561,Isaac Guerendo,RB,"6' 0""",221 lbs,28/6/2000,25,"Clayton, IN",Louisville,97,2024,4,129,SF,2nd Season,,4372561
+4685397,Jordan James,RB,"5' 9""",208 lbs,29/3/2004,21,"Nashville, TN",Oregon,2483,2025,5,147,SF,Rookie,,4685397
+3886598,Jauan Jennings,WR,"6' 3""",212 lbs,10/7/1997,28,"Murfreesboro, TN",Tennessee,2633,2020,7,217,SF,5th Season,,3886598
+4241464,Mac Jones,QB,"6' 3""",220 lbs,5/9/1998,27,"Jacksonville, FL",Alabama,333,2021,1,15,NE,5th Season,,4241464
+4361182,Adrian Martinez,QB,"6' 2""",220 lbs,7/1/2000,26,"Fresno, CA",Kansas State,2306,,,,,1st Season,,4361182
+3117251,Christian McCaffrey,RB,"5' 11""",210 lbs,7/6/1996,29,"Castle Rock, CO",Stanford,24,2017,1,8,CAR,9th Season,,3117251
+4430191,Skyy Moore,WR,"5' 10""",195 lbs,10/9/2000,25,"New Kensington, PA",Western Michigan,2711,2022,2,54,KC,4th Season,,4430191
+4428209,Ricky Pearsall,WR,"6' 1""",189 lbs,9/9/2000,25,"Chandler, AZ",Florida,57,2024,1,31,SF,2nd Season,L,4428209
+4361741,Brock Purdy,QB,"6' 1""",220 lbs,27/12/1999,26,"Gilbert, AZ",Iowa State,66,2022,7,262,SF,4th Season,,4361741
+3043116,Demarcus Robinson,WR,"6' 1""",202 lbs,21/9/1994,31,"Fort Valley, GA",Florida,57,2016,4,126,KC,10th Season,,546314
+4241474,Brian Robinson Jr.,RB,"6' 1""",225 lbs,22/3/1999,26,"Tuscaloosa, AL",Alabama,333,2022,3,98,WSH,4th Season,B,4241474
+4428396,Hayden Rucci,TE,"6' 5""",247 lbs,27/1/2001,25,"Lititz, PA",Wisconsin,275,,,,,1st Season,,4428396
+4259147,Jake Tonges,TE,"6' 4""",240 lbs,8/7/1999,26,"Los Gatos, CA",California,25,,,,,3rd Season,,4259147
+3115928,Malik Turner,WR,"6' 2""",202 lbs,30/1/1996,30,"Springfield, IL",Illinois,356,,,,,5th Season,,3115928
+4431466,Jordan Watkins,WR,"5' 11""",196 lbs,15/2/2002,24,"Louisville, KY",Ole Miss,145,2025,4,138,SF,Rookie,,4431466
+4360290,Brayden Willis,TE,"6' 4""",240 lbs,11/11/1999,26,"Arlington, TX",Oklahoma,201,2023,7,247,SF,3rd Season,,4360290
+4360438,Brandon Aiyuk,WR,"6' 0""",200 lbs,17/3/1998,27,"Rocklin, CA",Arizona State,9,2020,1,25,SF,6th Season,,4360438
+4575665,Jacob Cowing,WR,"5' 9""",171 lbs,4/2/2001,25,"Maricopa, AZ",Arizona,12,2024,4,135,SF,2nd Season,,4575665
+3040151,George Kittle,TE,"6' 4""",250 lbs,9/10/1993,32,"Norman, OK",Iowa,2294,2017,5,146,SF,9th Season,,545428
+4430431,Kurtis Rourke,QB,"6' 4""",220 lbs,25/10/2000,25,"Oakville, ON",Indiana,84,2025,7,227,SF,Rookie,,4430431
+3040569,Trent Taylor,WR,"5' 8""",180 lbs,30/4/1994,31,"Shreveport, LA",Louisiana Tech,2348,2017,5,177,SF,7th Season,,545677
+4039358,Patrick Taylor Jr.,RB,"6' 2""",217 lbs,29/4/1998,27,"Humble, TX",Memphis,235,,,,,5th Season,,4039358
+4240021,Cam Akers,RB,"5' 10""",217 lbs,22/6/1999,26,"Clinton, MS",Florida State,52,2020,2,52,LAR,5th Season,,4240021
+4678006,Elijah Arroyo,TE,"6' 5""",254 lbs,5/4/2003,22,"Frisco, TX",Miami,2390,2025,2,50,SEA,Rookie,,4678006
+4576297,AJ Barner,TE,"6' 6""",251 lbs,3/5/2002,23,"Aurora, OH",Michigan,130,2024,4,121,SEA,2nd Season,,4576297
+4360405,Jake Bobo,WR,"6' 4""",207 lbs,4/8/1998,27,"North Andover, MA",UCLA,26,,,,,3rd Season,,4360405
+4429313,Tyrone Broden,WR,"6' 5""",194 lbs,26/2/2001,25,"Detroit, MI",Arkansas,8,,,,,Rookie,,4429313
+3912547,Sam Darnold,QB,"6' 3""",225 lbs,5/6/1997,28,"Capistrano Beach, CA",USC,30,2018,1,3,NYJ,8th Season,,3912547
+4600597,Montorie Foster Jr.,WR,"5' 11""",188 lbs,3/8/2001,24,"Cleveland, OH",Michigan State,127,,,,,Rookie,,4600597
+4429835,George Holani,RB,"5' 11""",210 lbs,16/12/1999,26,"Bellflower, CA",Boise State,68,,,,,2nd Season,,4429835
+4035693,Velus Jones Jr.,RB,"6' 0""",204 lbs,11/5/1997,28,"Saraland, AL",Tennessee,2633,2022,3,71,CHI,5th Season,,4035693
+4569547,Nick Kallerup,TE,"6' 5""",266 lbs,27/3/2001,24,"Wayzata, MN",Minnesota,135,,,,,Rookie,,4569547
+2977187,Cooper Kupp,WR,"6' 1""",205 lbs,15/6/1993,32,"Yakima, WA",Eastern Washington,331,2017,3,69,LAR,9th Season,,534695
+3924327,Drew Lock,QB,"6' 4""",228 lbs,10/11/1996,29,"Lee's Summit, MO",Missouri,142,2019,2,42,DEN,7th Season,R,3924327
+4432734,Jalen Milroe,QB,"6' 2""",216 lbs,13/12/2002,23,"Katy, TX",Alabama,333,2025,3,92,SEA,Rookie,,4432734
+2975863,Eric Saubert,TE,"6' 5""",253 lbs,9/5/1994,31,"Hoffman Estates, IL",Drake,2181,2017,5,174,ATL,8th Season,,534096
+4032473,Rashid Shaheed,WR,"6' 0""",180 lbs,31/8/1998,27,"San Diego, CA",Weber State,2692,,,,,4th Season,,4032473
+4430878,Jaxon Smith-Njigba,WR,"6' 0""",197 lbs,14/2/2002,24,"Rockwall, TX",Ohio State,194,2023,1,20,SEA,3rd Season,,4430878
+4567048,Kenneth Walker III,RB,"5' 9""",211 lbs,20/10/2000,25,"Arlington, TN",Michigan State,127,2022,2,41,SEA,4th Season,,4567048
+4431479,Ricky White III,WR,"6' 1""",184 lbs,6/2/2002,24,"Marietta, GA",UNLV,2439,2025,7,238,SEA,Rookie,,4431479
+4428943,Jacardia Wright,RB,"6' 0""",218 lbs,26/9/2000,25,"Decatur, IL",Missouri State,2623,,,,,Rookie,,4428943
+4401805,Dareke Young,WR,"6' 2""",224 lbs,4/6/1999,26,"Raleigh, NC",Lenoir Rhyne,2331,2022,7,233,SEA,4th Season,,4401805
+4426385,Zach Charbonnet,RB,"6' 1""",214 lbs,8/1/2001,25,"Camarillo, CA",UCLA,26,2023,2,52,SEA,3rd Season,,4426385
+4597703,Tory Horton,WR,"6' 2""",196 lbs,29/11/2002,23,"Fresno, CA",Colorado State,36,2025,5,166,SEA,Rookie,,4597703
+4427391,Kenny McIntosh,RB,"6' 0""",204 lbs,3/3/2000,25,"Fort Lauderdale, FL",Georgia,61,2023,7,237,SEA,3rd Season,,4427391
+4241983,Cody White,WR,"6' 3""",227 lbs,28/11/1998,27,"Novi, MI",Michigan State,127,,,,,4th Season,,4241983
+4426444,Connor Bazelak,QB,"6' 3""",225 lbs,22/9/2000,25,"Dayton, OH",Bowling Green,189,,,,,Rookie,,4426444
+16728,Teddy Bridgewater,QB,"6' 2""",210 lbs,10/11/1992,33,"Miami, FL",Louisville,97,2014,1,32,MIN,11th Season,,511614
+4361112,Devin Culp,TE,"6' 4""",237 lbs,2/2/2000,26,"Spokane, WA",Washington,264,2024,7,246,TB,2nd Season,,4361112
+4372505,Payne Durham,TE,"6' 5""",255 lbs,15/6/2000,25,"Suwanee, GA",Purdue,2509,2023,5,171,TB,3rd Season,,4372505
+4567750,Emeka Egbuka,WR,"6' 1""",205 lbs,14/10/2002,23,"Steilacoom, WA",Ohio State,194,2025,1,19,TB,Rookie,R,4567750
+16737,Mike Evans,WR,"6' 5""",231 lbs,21/8/1993,32,"Galveston, TX",Texas A&M,245,2014,1,7,TB,12th Season,,517502
+3116165,Chris Godwin Jr.,WR,"6' 1""",209 lbs,27/2/1996,30,"Middletown, DE",Penn State,213,2017,3,84,TB,9th Season,,3116165
+4429847,Garrett Greene,WR,"5' 11""",201 lbs,1/10/2001,24,"Tallahassee, FL",West Virginia,277,,,,,Rookie,,4429847
+4572786,Dennis Houston,WR,"6' 1""",190 lbs,24/4/1999,26,"San Antonio, TX",Western Illinois,2710,,,,,1st Season,,4572786
+4596448,Bucky Irving,RB,"5' 10""",195 lbs,19/8/2002,23,"Chicago, IL",Oregon,2483,2024,4,125,TB,2nd Season,,4596448
+5097554,Kameron Johnson,WR,"5' 10""",170 lbs,17/3/2002,23,"Rocky Mount, NC",Barton College,2054,,,,,2nd Season,,5097554
+4608810,Tez Johnson,WR,"5' 10""",165 lbs,18/5/2002,23,"Pinson, AL",Oregon,2483,2025,7,235,TB,Rookie,,4608810
+3052587,Baker Mayfield,QB,"6' 1""",215 lbs,14/4/1995,30,"Austin, TX",Oklahoma,201,2018,1,1,CLE,8th Season,,550373
+4430834,Jalen McMillan,WR,"6' 1""",192 lbs,7/12/2001,24,"Fresno, CA",Washington,264,2024,3,92,TB,2nd Season,,4430834
+4243331,Cade Otton,TE,"6' 5""",247 lbs,15/4/1999,26,"Tumwater, WA",Washington,264,2022,4,106,TB,4th Season,,4243331
+2976592,Sterling Shepard,WR,"5' 10""",194 lbs,10/2/1993,33,"Oklahoma City, OK",Oklahoma,201,2016,2,40,NYG,10th Season,,534448
+4430871,Sean Tucker,RB,"5' 10""",205 lbs,25/10/2001,24,"Owings Mills, MD",Syracuse,183,,,,,3rd Season,,4430871
+4697815,Rachaad White,RB,"6' 0""",214 lbs,12/1/1999,27,"Kansas City, MO",Arizona State,9,2022,3,91,TB,4th Season,L,4697815
+4569156,Michael Wiley,RB,"5' 10""",209 lbs,10/11/2001,24,"Houston, TX",Arizona,12,,,,,1st Season,,4569156
+4568024,Josh Williams,RB,"5' 9""",210 lbs,9/6/2001,24,"Houston, TX",LSU,99,,,,,Rookie,,4568024
+4249616,Owen Wright,RB,"5' 9""",217 lbs,28/2/1999,27,"Bethesda, MD",Monmouth,2405,,,,,2nd Season,,4249616
+4034779,Ko Kieft,TE,"6' 5""",265 lbs,20/1/1998,28,"Sioux Center, IA",Minnesota,135,2022,6,218,TB,4th Season,,4034779
+4581750,Jaden Smith,WR,"6' 6""",210 lbs,13/12/2001,24,"Fort Worth, TX",Tarleton State,2627,,,,,Rookie,,4581750
+2574511,Brandon Allen,QB,"6' 2""",209 lbs,5/9/1992,33,"Fayetteville, AR",Arkansas,8,2016,6,201,JAX,9th Season,,515915
+4883647,Elic Ayomanor,WR,"6' 2""",206 lbs,3/6/2003,22,"Medicine Hat, AB",Stanford,24,2025,4,136,TEN,Rookie,,4883647
+4367567,Julius Chestnut,RB,"5' 11""",228 lbs,26/10/2000,25,"Bowie, MD",Sacred Heart,2529,,,,,4th Season,,4367567
+4431268,Chimere Dike,WR,"6' 1""",196 lbs,14/12/2002,23,"Waukesha, WI",Florida,57,2025,4,103,TEN,Rookie,,4431268
+4686728,Gunnar Helm,TE,"6' 5""",241 lbs,6/9/2002,23,"Englewood, CO",Texas,251,2025,4,120,TEN,Rookie,,4686728
+4057082,Mason Kinsey,WR,"5' 11""",200 lbs,29/8/1998,27,"Demorest, GA",Berry College,2757,,,,,3rd Season,,4057082
+4360978,David Martin-Robinson,TE,"6' 3""",247 lbs,26/12/1999,26,"Landisville, PA",Temple,218,,,,,2nd Season,,4360978
+4429121,Kalel Mullings,RB,"6' 2""",226 lbs,4/10/2002,23,"West Roxbury, MA",Michigan,130,2025,6,188,TEN,Rookie,,4429121
+4360635,Chig Okonkwo,TE,"6' 3""",238 lbs,8/9/1999,26,"Powder Springs, GA",Maryland,120,2022,4,143,TEN,4th Season,,4360635
+4362617,Bryce Oliver,WR,"6' 1""",214 lbs,19/5/2000,25,"Fort Lauderdale, FL",Youngstown State,2754,,,,,2nd Season,,4362617
+3916148,Tony Pollard,RB,"6' 0""",209 lbs,30/4/1997,28,"Memphis, TN",Memphis,235,2019,4,128,DAL,7th Season,,3916148
+4879189,Hal Presley,WR,"6' 3""",210 lbs,22/1/2002,24,"Mansfield, TX",Baylor,239,,,,,Rookie,,4879189
+3916204,James Proche II,WR,"5' 11""",193 lbs,21/9/1996,29,"Dallas, TX",SMU,2567,2020,6,201,BAL,7th Season,,3916204
+4431353,Xavier Restrepo,WR,"5' 10""",202 lbs,22/4/2002,23,"Coconut Creek, FL",Miami,2390,,,,,Rookie,,4431353
+4428557,Tyjae Spears,RB,"5' 11""",195 lbs,15/6/2001,24,"Ponchatoula, LA",Tulane,2655,2023,3,81,TEN,3rd Season,R,4428557
+4688380,Cam Ward,QB,"6' 2""",219 lbs,25/5/2002,23,"West Columbia, TX",Miami,2390,2025,1,1,TEN,Rookie,L,4688380
+4361604,Blake Watson,RB,"5' 9""",195 lbs,14/10/1999,26,"Queens, NY",Memphis,235,,,,,2nd Season,,4361604
+4362570,Joel Wilson,TE,"6' 4""",245 lbs,21/6/2000,25,"Petoskey, MI",Central Michigan,2117,,,,,1st Season,,4362570
+3930066,Van Jefferson,WR,"6' 1""",200 lbs,26/7/1996,29,"Brentwood, TN",Florida,57,2020,2,57,LAR,6th Season,,3930066
+4361418,Will Levis,QB,"6' 4""",229 lbs,27/6/1999,26,"Madison, CT",Kentucky,96,2023,2,33,TEN,3rd Season,,4361418
+3925357,Calvin Ridley,WR,"6' 1""",190 lbs,20/12/1994,31,"Fort Lauderdale, FL",Alabama,333,2018,1,26,ATL,7th Season,,3925357
+4048228,John Bates,TE,"6' 6""",256 lbs,6/11/1997,28,"Lebanon, OR",Boise State,68,2021,4,124,WSH,5th Season,,4048228
+4431506,Ja'Corey Brooks,WR,"6' 3""",195 lbs,31/10/2001,24,"Bradenton, FL",Louisville,97,,,,,Rookie,,4431506
+4567156,Treylon Burks,WR,"6' 2""",225 lbs,23/3/2000,25,"Warren, AR",Arkansas,8,2022,1,18,TEN,4th Season,,4567156
+3917849,Lawrence Cager,TE,"6' 5""",220 lbs,20/8/1997,28,"Baltimore, MD",Georgia,61,,,,,4th Season,,3917849
+4575131,Jacory Croskey-Merritt,RB,"5' 11""",208 lbs,12/4/2001,24,"Montgomery, AL",Arizona,12,2025,7,245,WSH,Rookie,,4575131
+4426348,Jayden Daniels,QB,"6' 4""",210 lbs,18/12/2000,25,"San Bernardino, CA",LSU,99,2024,1,2,WSH,2nd Season,,4426348
+2574630,Jeff Driskel,QB,"6' 4""",231 lbs,23/4/1993,32,"Oviedo, FL",Louisiana Tech,2348,2016,6,207,SF,8th Season,R,511889
+3119195,Chase Edmonds,RB,"5' 9""",205 lbs,13/4/1996,29,"Harrisburg, PA",Fordham,2230,2018,4,134,ARI,8th Season,,3119195
+4361994,Sam Hartman,QB,"6' 1""",209 lbs,29/7/1999,26,"Charlotte, NC",Notre Dame,87,,,,,1st Season,,4361994
+11394,Josh Johnson,QB,"6' 3""",214 lbs,15/5/1986,39,"Oakland, CA",San Diego,301,2008,5,160,TB,11th Season,,166992
+5083297,Jacoby Jones,WR,"6' 3""",228 lbs,18/7/2001,24,"Tunica, MS",UCF,2116,,,,,Rookie,,5083297
+2576980,Marcus Mariota,QB,"6' 4""",222 lbs,30/10/1993,32,"Honolulu, HI",Oregon,2483,2015,1,2,TEN,11th Season,,511459
+3121422,Terry McLaurin,WR,"6' 0""",210 lbs,15/9/1995,30,"Indianapolis, IN",Ohio State,194,2019,3,76,WSH,7th Season,,3121422
+3127586,Jeremy McNichols,RB,"5' 9""",205 lbs,26/12/1995,30,"Long Beach, CA",Boise State,68,2017,5,162,TB,5th Season,,3127586
+2576581,Chris Moore,WR,"6' 1""",200 lbs,16/6/1993,32,"Tampa, FL",Cincinnati,2132,2016,4,107,BAL,9th Season,,512073
+4570242,Nick Nash,WR,"6' 3""",195 lbs,8/7/1999,26,"Irvine, CA",San José State,23,,,,,Rookie,,4570242
+4362619,Chris Rodriguez Jr.,RB,"5' 11""",224 lbs,26/9/1999,26,"Mcdonough, GA",Kentucky,96,2023,6,193,WSH,3rd Season,,4362619
+3126486,Deebo Samuel,WR,"6' 0""",215 lbs,15/1/1996,30,"Inman, SC",South Carolina,2579,2019,2,36,SF,7th Season,L,3126486
+4690923,Ben Sinnott,TE,"6' 4""",245 lbs,14/6/2002,23,"Waterloo, IA",Kansas State,2306,2024,2,53,WSH,2nd Season,,4690923
+4361088,Colson Yankoff,TE,"6' 4""",225 lbs,1/3/2000,25,"Coeur d'Alene, ID",UCLA,26,,,,,2nd Season,,4361088
+3121409,Noah Brown,WR,"6' 2""",225 lbs,6/1/1996,30,"Flanders, NJ",Ohio State,194,2017,7,239,DAL,9th Season,,3121409
+3068267,Austin Ekeler,RB,"5' 10""",200 lbs,17/5/1995,30,"Eaton, CO",Western Colorado,2714,,,,,9th Season,,555082
+15835,Zach Ertz,TE,"6' 5""",250 lbs,10/11/1990,35,"Alamo, CA",Stanford,24,2013,2,35,PHI,13th Season,,482590
+3916564,Tyree Jackson,TE,"6' 7""",249 lbs,7/11/1997,28,"Norton Shores, MI",Buffalo,2084,,,,,3rd Season,,3916564
+4602667,Jaylin Lane,WR,"5' 10""",196 lbs,1/5/2002,23,"Clover, SC",Virginia Tech,259,2025,4,128,WSH,Rookie,,4602667
+4426948,Luke McCaffrey,WR,"6' 2""",195 lbs,2/4/2001,24,"Highlands Ranch, CO",Rice,242,2024,3,100,WSH,2nd Season,,4426948

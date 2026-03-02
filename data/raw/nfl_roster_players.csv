@@ -1,0 +1,755 @@
+espn_id,name,position,height,weight,age,dob,college_name,college_id,experience_years,team_id
+2578570,Jacoby Brissett,QB,"6' 4""",235 lbs,33,1992-12-11T08:00Z,NC State,152,10,22
+4692835,Jalen Brooks,WR,"6' 2""",205 lbs,25,2000-05-07T07:00Z,South Carolina,2579,3,22
+2971281,Pharaoh Brown,TE,"6' 5""",246 lbs,31,1994-05-04T07:00Z,Oregon,2483,8,22
+4240657,Michael Carter,RB,"5' 8""",201 lbs,26,1999-05-07T07:00Z,North Carolina,153,4,22
+3914151,Josiah Deguara,TE,"6' 2""",240 lbs,29,1997-02-14T08:00Z,Cincinnati,2132,5,22
+4362478,Emari Demercado,RB,"5' 9""",215 lbs,27,1999-01-20T08:00Z,TCU,2628,3,22
+4605858,Rivaldo Fairweather,TE,"6' 3""",249 lbs,23,2002-07-19T07:00Z,Auburn,2,0,22
+4432705,Bryson Green,WR,"6' 1""",210 lbs,23,2002-12-30T08:00Z,Wisconsin,275,0,22
+4426844,Elijah Higgins,TE,"6' 3""",245 lbs,25,2000-10-27T07:00Z,Stanford,24,3,22
+4431431,Corey Kiner,RB,"5' 9""",210 lbs,24,2002-01-21T08:00Z,Cincinnati,2132,0,22
+4361307,Trey McBride,TE,"6' 4""",246 lbs,26,1999-11-22T08:00Z,Colorado State,36,4,22
+4875912,Tejhaun Palmer,WR,"6' 1""",210 lbs,25,2000-05-19T07:00Z,UAB,5,1,22
+4428512,Kedon Slovis,QB,"6' 2""",223 lbs,24,2001-04-11T07:00Z,BYU,252,1,22
+4240573,Ihmir Smith-Marsette,WR,"6' 1""",185 lbs,26,1999-08-29T07:00Z,Iowa,2294,5,22
+4428811,Xavier Weaver,WR,"6' 1""",185 lbs,25,2000-10-12T07:00Z,Colorado,38,2,22
+4360761,Michael Wilson,WR,"6' 2""",213 lbs,26,2000-02-23T08:00Z,Stanford,24,3,22
+3886809,Andre Baccellia,WR,"5' 10""",180 lbs,29,1997-01-07T08:00Z,Washington,264,2,22
+4429275,Trey Benson,RB,"6' 0""",220 lbs,23,2002-07-23T07:00Z,Florida State,52,2,22
+3045147,James Conner,RB,"6' 1""",233 lbs,30,1995-05-05T07:00Z,Pittsburgh,221,9,22
+4037235,Greg Dortch,WR,"5' 7""",180 lbs,27,1998-05-29T07:00Z,Wake Forest,154,5,22
+4360739,Simi Fehoko,WR,"6' 4""",225 lbs,28,1997-11-05T08:00Z,Stanford,24,5,22
+4432708,Marvin Harrison Jr.,WR,"6' 3""",220 lbs,23,2002-08-11T07:00Z,Ohio State,194,2,22
+3059722,Zay Jones,WR,"6' 2""",200 lbs,30,1995-03-30T08:00Z,East Carolina,151,9,22
+4427728,Bam Knight,RB,"5' 11""",210 lbs,24,2001-04-11T07:00Z,NC State,152,3,22
+3917315,Kyler Murray,QB,"5' 10""",207 lbs,28,1997-08-07T07:00Z,Oklahoma,201,7,22
+4696700,Tip Reiman,TE,"6' 5""",271 lbs,24,2001-09-17T07:00Z,Illinois,356,2,22
+4259324,Travis Vokolek,TE,"6' 6""",260 lbs,27,1998-06-04T07:00Z,Nebraska,158,2,22
+4373626,Tyler Allgeier,RB,"5' 10""",225 lbs,25,2000-04-15T07:00Z,BYU,252,4,1
+4369886,Chris Blair,WR,"6' 2""",215 lbs,28,1997-10-06T07:00Z,Alcorn State,2016,2,1
+4605841,Nathan Carter,RB,"5' 10""",202 lbs,23,2002-05-22T07:00Z,Michigan State,127,0,1
+14880,Kirk Cousins,QB,"6' 3""",205 lbs,37,1988-08-19T07:00Z,Michigan State,127,14,1
+4363551,Dylan Drummond,WR,"6' 0""",190 lbs,26,2000-01-17T08:00Z,Eastern Michigan,2199,1,1
+4034948,Feleipe Franks,TE,"6' 6""",241 lbs,28,1997-12-22T08:00Z,Arkansas,8,3,1
+4689334,Malik Heath,WR,"6' 2""",213 lbs,25,2000-03-31T08:00Z,Ole Miss,145,3,1
+4426502,Drake London,WR,"6' 4""",215 lbs,24,2001-07-24T07:00Z,USC,30,4,1
+4040655,Darnell Mooney,WR,"5' 11""",180 lbs,28,1997-10-29T08:00Z,Tulane,2655,6,1
+4360248,Kyle Pitts Sr.,TE,"6' 6""",250 lbs,25,2000-10-06T07:00Z,Florida,57,5,1
+4374045,Teagan Quitoriano,TE,"6' 6""",259 lbs,25,2000-03-15T08:00Z,Oregon State,204,4,1
+4430807,Bijan Robinson,RB,"5' 11""",215 lbs,24,2002-01-30T08:00Z,Texas,251,3,1
+3871102,David Sills V,WR,"6' 3""",211 lbs,29,1996-05-29T07:00Z,West Virginia,277,3,1
+4430482,Joshua Simon,TE,"6' 4""",240 lbs,25,2000-11-27T08:00Z,South Carolina,2579,0,1
+3120590,Easton Stick,QB,"6' 1""",224 lbs,30,1995-09-15T07:00Z,North Dakota State,2449,6,1
+4374187,Deven Thompkins,WR,"5' 8""",155 lbs,26,1999-12-23T08:00Z,Utah State,328,4,1
+4428796,Casey Washington,WR,"6' 0""",205 lbs,24,2001-03-06T08:00Z,Illinois,356,2,1
+4248425,Carlos Washington Jr.,RB,"5' 11""",210 lbs,27,1998-12-26T08:00Z,SE Louisiana,2545,1,1
+4035020,Charlie Woerner,TE,"6' 5""",250 lbs,28,1997-10-16T07:00Z,Georgia,61,6,1
+4360423,Michael Penix Jr.,QB,"6' 3""",220 lbs,25,2000-05-08T07:00Z,Washington,264,2,1
+4690013,Rasheen Ali,RB,"5' 11""",210 lbs,25,2001-02-16T08:00Z,Marshall,276,2,33
+3116365,Mark Andrews,TE,"6' 5""",250 lbs,30,1995-09-06T07:00Z,Oklahoma,201,8,33
+4360939,Rashod Bateman,WR,"6' 1""",193 lbs,26,1999-11-29T08:00Z,Minnesota,135,5,33
+4429615,Zay Flowers,WR,"5' 9""",183 lbs,25,2000-09-11T07:00Z,Boston College,103,3,33
+3043078,Derrick Henry,RB,"6' 2""",252 lbs,32,1994-01-04T08:00Z,Alabama,333,10,33
+15795,DeAndre Hopkins,WR,"6' 1""",210 lbs,33,1992-06-06T07:00Z,Clemson,228,13,33
+4035671,Tyler Huntley,QB,"6' 1""",204 lbs,28,1998-02-03T08:00Z,Utah,254,6,33
+3916387,Lamar Jackson,QB,"6' 2""",205 lbs,29,1997-01-07T08:00Z,Louisville,97,8,33
+4426479,Cornelius Johnson,WR,"6' 3""",212 lbs,25,2000-11-29T08:00Z,Michigan,130,1,33
+4241263,Charlie Kolar,TE,"6' 6""",265 lbs,27,1999-02-10T08:00Z,Iowa State,66,4,33
+4361050,Isaiah Likely,TE,"6' 4""",245 lbs,25,2000-04-18T07:00Z,Coastal Carolina,324,4,33
+4596334,Keaton Mitchell,RB,"5' 8""",190 lbs,24,2002-01-17T08:00Z,East Carolina,151,3,33
+2972515,Cooper Rush,QB,"6' 3""",225 lbs,32,1993-11-21T08:00Z,Central Michigan,2117,8,33
+4696882,Devontez Walker,WR,"6' 1""",198 lbs,24,2001-06-19T07:00Z,North Carolina,153,2,33
+4241424,Tylan Wallace,WR,"5' 11""",200 lbs,26,1999-05-13T07:00Z,Oklahoma State,197,5,33
+4690143,LaJohntay Wester,WR,"5' 9""",170 lbs,23,2002-03-29T08:00Z,Colorado,38,0,33
+4038441,Justice Hill,RB,"5' 10""",205 lbs,28,1997-11-14T08:00Z,Oklahoma State,197,7,33
+4428763,Dayton Wade,WR,"5' 9""",184 lbs,25,2000-09-08T07:00Z,Ole Miss,145,1,33
+3918298,Josh Allen,QB,"6' 5""",237 lbs,29,1996-05-21T07:00Z,Wyoming,2751,8,2
+4039034,Shane Buechele,QB,"6' 0""",210 lbs,28,1998-01-08T08:00Z,SMU,2567,4,2
+4635008,Keon Coleman,WR,"6' 4""",215 lbs,22,2003-05-17T07:00Z,Florida State,52,2,2
+4379399,James Cook III,RB,"5' 11""",190 lbs,26,1999-09-25T07:00Z,Georgia,61,4,2
+16731,Brandin Cooks,WR,"5' 10""",189 lbs,32,1993-09-25T07:00Z,Oregon State,204,12,2
+4429501,Ray Davis,RB,"5' 8""",220 lbs,26,1999-11-11T08:00Z,Kentucky,96,2,2
+4429805,Frank Gore Jr.,RB,"5' 8""",195 lbs,23,2002-03-13T08:00Z,Southern Miss,2572,1,2
+4432215,Stephen Gosnell,WR,"6' 2""",198 lbs,24,2001-10-22T07:00Z,Virginia Tech,259,0,2
+4035004,Mecole Hardman Jr.,WR,"5' 10""",187 lbs,27,1998-03-12T08:00Z,Georgia,61,7,2
+4573699,Jackson Hawes,TE,"6' 4""",253 lbs,25,2000-12-06T08:00Z,Georgia Tech,59,0,2
+3915411,Ty Johnson,RB,"5' 10""",210 lbs,28,1997-09-17T07:00Z,Maryland,120,7,2
+4385690,Dalton Kincaid,TE,"6' 4""",240 lbs,26,1999-10-18T07:00Z,Utah,254,3,2
+3930086,Dawson Knox,TE,"6' 4""",254 lbs,29,1996-11-14T08:00Z,Ole Miss,145,7,2
+4688552,Keleki Latu,TE,"6' 7""",244 lbs,23,2002-08-13T07:00Z,Washington,264,0,2
+3121427,Curtis Samuel,WR,"5' 11""",195 lbs,29,1996-08-11T07:00Z,Ohio State,194,9,2
+4373678,Khalil Shakir,WR,"6' 0""",190 lbs,26,2000-02-03T08:00Z,Boise State,68,4,2
+3039707,Mitchell Trubisky,QB,"6' 3""",222 lbs,31,1994-08-20T07:00Z,North Carolina,153,9,2
+4036448,Jalen Virgil,WR,"6' 1""",210 lbs,27,1998-07-13T07:00Z,App State,2026,4,2
+4243537,Gabe Davis,WR,"6' 2""",225 lbs,26,1999-04-01T08:00Z,UCF,2116,6,2
+4242433,Joshua Palmer,WR,"6' 1""",210 lbs,26,1999-09-22T07:00Z,Tennessee,2633,5,2
+4241476,Tyrell Shavers,WR,"6' 4""",211 lbs,26,1999-08-18T07:00Z,San Diego State,21,1,2
+3929637,Dan Chisena,WR,"6' 3""",202 lbs,29,1997-02-25T08:00Z,Penn State,213,5,29
+4695883,Jalen Coker,WR,"6' 3""",213 lbs,24,2001-10-30T08:00Z,Holy Cross,107,2,29
+14012,Andy Dalton,QB,"6' 2""",220 lbs,38,1987-10-29T08:00Z,TCU,2628,15,29
+4038815,Rico Dowdle,RB,"5' 11""",215 lbs,27,1998-06-14T07:00Z,South Carolina,2579,6,29
+4685350,Trevor Etienne,RB,"5' 8""",198 lbs,21,2004-07-09T07:00Z,Georgia,61,0,29
+4683243,Mitchell Evans,TE,"6' 5""",258 lbs,22,2003-03-18T08:00Z,Notre Dame,87,0,29
+4708486,Jimmy Horn Jr.,WR,"5' 8""",174 lbs,23,2002-09-12T07:00Z,Colorado,38,0,29
+4241416,Chuba Hubbard,RB,"6' 1""",210 lbs,26,1999-06-11T07:00Z,Oklahoma State,197,5,29
+4684625,Montrell Johnson Jr.,RB,"5' 11""",212 lbs,23,2002-10-13T07:00Z,Florida,57,0,29
+4430034,Xavier Legette,WR,"6' 3""",227 lbs,25,2001-01-29T08:00Z,South Carolina,2579,2,29
+4685472,Tetairoa McMillan,WR,"6' 5""",212 lbs,22,2003-04-05T08:00Z,Arizona,12,0,29
+4361988,James Mitchell,TE,"6' 4""",249 lbs,26,1999-08-11T07:00Z,Virginia Tech,259,3,29
+4212909,David Moore,WR,"6' 0""",220 lbs,31,1995-01-15T08:00Z,East Central (OK),2191,7,29
+5082648,Bryce Pierre,TE,"6' 5""",255 lbs,25,2001-01-25T08:00Z,UCLA,26,0,29
+4876995,Ja'seem Reed,WR,"6' 2""",195 lbs,22,2003-03-21T08:00Z,San Diego,301,0,29
+4428532,Ainias Smith,WR,"5' 9""",176 lbs,24,2001-05-31T07:00Z,Texas A&M,245,2,29
+4360763,Brycen Tremayne,WR,"6' 4""",212 lbs,26,1999-11-18T08:00Z,Stanford,24,1,29
+4372780,Tommy Tremble,TE,"6' 4""",250 lbs,25,2000-06-02T07:00Z,Notre Dame,87,5,29
+4709392,Anthony Tyus III,RB,"6' 1""",226 lbs,22,2003-03-20T08:00Z,Ohio,195,0,29
+4685720,Bryce Young,QB,"5' 10""",204 lbs,24,2001-07-25T07:00Z,Alabama,333,3,29
+4678008,Jonathon Brooks,RB,"6' 0""",207 lbs,22,2003-07-21T07:00Z,Texas,251,2,29
+4431588,Ja'Tavion Sanders,TE,"6' 4""",252 lbs,22,2003-03-27T08:00Z,Texas,251,2,29
+3914307,Maurice Alexander,WR,"5' 10""",173 lbs,29,1997-01-10T08:00Z,Florida International,2229,1,3
+4434153,Tyson Bagent,QB,"6' 3""",212 lbs,25,2000-06-08T07:00Z,Shepherd,2974,3,3
+4036032,Brittain Brown,RB,"6' 1""",205 lbs,28,1997-10-10T07:00Z,UCLA,26,3,3
+4685278,Luther Burden III,WR,"6' 0""",210 lbs,22,2003-12-12T08:00Z,Missouri,142,0,3
+3948283,Stephen Carlson,TE,"6' 4""",248 lbs,29,1996-12-12T08:00Z,Princeton,163,4,3
+4039050,Devin Duvernay,WR,"5' 11""",202 lbs,28,1997-09-12T07:00Z,Texas,251,6,3
+4037457,Travis Homer,RB,"5' 10""",211 lbs,27,1998-08-07T07:00Z,Miami,2390,7,3
+4379769,Qadir Ismail,TE,"6' 6""",232 lbs,26,2000-02-17T08:00Z,Samford,2535,1,3
+4916349,Nikola Kalinic,TE,"6' 4""",245 lbs,29,1997-01-21T08:00Z,,,2,3
+15168,Case Keenum,QB,"6' 1""",220 lbs,38,1988-02-17T08:00Z,Houston,248,13,3
+4258595,Cole Kmet,TE,"6' 6""",257 lbs,26,1999-03-10T08:00Z,Notre Dame,87,6,3
+4723086,Colston Loveland,TE,"6' 6""",241 lbs,21,2004-04-09T07:00Z,Michigan,130,0,3
+4608686,Kyle Monangai,RB,"5' 8""",207 lbs,23,2002-06-06T07:00Z,Rutgers,164,0,3
+3915416,DJ Moore,WR,"6' 0""",213 lbs,28,1997-04-14T07:00Z,Maryland,120,8,3
+4431299,Rome Odunze,WR,"6' 3""",214 lbs,23,2002-06-03T07:00Z,Washington,264,2,3
+4685183,JP Richardson,WR,"5' 11""",192 lbs,23,2002-03-23T08:00Z,TCU,2628,0,3
+3052897,Durham Smythe,TE,"6' 5""",248 lbs,30,1995-08-09T07:00Z,Notre Dame,87,8,3
+4259545,D'Andre Swift,RB,"5' 8""",204 lbs,27,1999-01-14T08:00Z,Georgia,61,6,3
+5160110,Jahdae Walker,WR,"6' 3""",206 lbs,23,2002-07-05T07:00Z,Texas A&M,245,0,3
+4431611,Caleb Williams,QB,"6' 1""",226 lbs,24,2001-11-18T08:00Z,USC,30,2,3
+3917914,Olamide Zaccheaus,WR,"5' 8""",199 lbs,28,1997-07-23T07:00Z,Virginia,258,7,3
+4575667,Deion Hankins,RB,"5' 11""",226 lbs,25,2000-09-13T07:00Z,Texas State,326,0,3
+4426386,Roschon Johnson,RB,"6' 0""",227 lbs,25,2001-01-31T08:00Z,Texas,251,3,3
+4245645,Gary Brightwell,RB,"6' 1""",218 lbs,28,1998-02-28T08:00Z,Arizona,12,4,4
+4429299,Tahj Brooks,RB,"5' 9""",220 lbs,23,2002-05-13T07:00Z,Texas Tech,2641,0,4
+4362238,Chase Brown,RB,"5' 10""",210 lbs,25,2000-03-21T08:00Z,Illinois,356,3,4
+3886812,Jake Browning,QB,"6' 2""",209 lbs,29,1996-04-11T07:00Z,Washington,264,3,4
+3915511,Joe Burrow,QB,"6' 4""",215 lbs,29,1996-12-10T08:00Z,LSU,99,6,4
+4362628,Ja'Marr Chase,WR,"6' 0""",205 lbs,25,2000-03-01T08:00Z,LSU,99,5,4
+4259592,Sean Clifford,QB,"6' 2""",212 lbs,27,1998-07-14T07:00Z,Penn State,213,2,4
+4036131,Noah Fant,TE,"6' 4""",249 lbs,28,1997-11-20T08:00Z,Iowa,2294,7,4
+11252,Joe Flacco,QB,"6' 6""",245 lbs,41,1985-01-16T08:00Z,Delaware,48,18,4
+3116164,Mike Gesicki,TE,"6' 6""",245 lbs,30,1995-10-03T07:00Z,Penn State,213,8,4
+4700712,Cam Grandy,TE,"6' 5""",253 lbs,26,1999-11-19T08:00Z,Illinois State,2287,2,4
+4239993,Tee Higgins,WR,"6' 4""",220 lbs,27,1999-01-18T08:00Z,Clemson,228,6,4
+3050481,Tanner Hudson,TE,"6' 5""",241 lbs,31,1994-11-12T08:00Z,Southern Arkansas,2568,6,4
+4368003,Andrei Iosivas,WR,"6' 3""",210 lbs,26,1999-10-15T07:00Z,Princeton,163,3,4
+4385430,Xavier Johnson,WR,"6' 1""",204 lbs,26,1999-05-11T07:00Z,Ohio State,194,1,4
+4257188,Charlie Jones,WR,"6' 0""",190 lbs,27,1998-10-29T08:00Z,Purdue,2509,3,4
+4384852,Dohnte Meyers,WR,"5' 11""",186 lbs,,,Delta State,2170,0,4
+4429012,Kendall Milton,RB,"6' 1""",230 lbs,24,2002-02-10T08:00Z,Georgia,61,1,4
+4594444,Jordan Moore,WR,"6' 0""",191 lbs,23,2002-04-18T07:00Z,Duke,150,0,4
+3116389,Samaje Perine,RB,"5' 11""",240 lbs,30,1995-09-16T07:00Z,Oklahoma,201,9,4
+4035776,Kendric Pryor,WR,"5' 11""",189 lbs,28,1998-01-06T08:00Z,Wisconsin,275,2,4
+3127310,Drew Sample,TE,"6' 5""",260 lbs,29,1996-04-16T07:00Z,Washington,264,7,4
+4690070,Mitchell Tinsley,WR,"6' 1""",205 lbs,26,1999-09-15T07:00Z,Penn State,213,2,4
+4570738,Ke'Shawn Williams,WR,"5' 9""",189 lbs,24,2001-12-27T08:00Z,Indiana,84,0,4
+4427834,Erick All Jr.,TE,"6' 5""",255 lbs,25,2000-09-13T07:00Z,Iowa,2294,2,4
+4362603,Brenden Bates,TE,"6' 5""",255 lbs,26,1999-10-16T07:00Z,Kentucky,96,2,5
+4808839,Isaiah Bond,WR,"5' 11""",180 lbs,21,2004-03-15T08:00Z,Texas,251,0,5
+4242536,Sal Cannella,TE,"6' 5""",242 lbs,29,1996-12-02T08:00Z,Auburn,2,1,5
+4613104,Malachi Corley,WR,"5' 11""",215 lbs,23,2002-03-21T08:00Z,Western Kentucky,98,2,5
+5083076,Harold Fannin Jr.,TE,"6' 4""",241 lbs,21,2004-07-20T07:00Z,Bowling Green,189,0,5
+4566157,Luke Floriea,WR,"5' 8""",179 lbs,24,2001-10-23T07:00Z,Kent State,2309,0,5
+4427238,Dillon Gabriel,QB,"5' 11""",205 lbs,25,2000-12-28T08:00Z,Oregon,2483,0,5
+4241463,Jerry Jeudy,WR,"6' 1""",195 lbs,26,1999-04-24T07:00Z,Alabama,333,6,5
+4877203,Gage Larvadain,WR,"5' 8""",171 lbs,23,2003-01-03T08:00Z,South Carolina,2579,0,5
+4432374,Ahmani Marshall,RB,"6' 1""",225 lbs,23,2002-03-21T08:00Z,App State,2026,0,5
+3123076,David Njoku,TE,"6' 4""",246 lbs,29,1996-07-10T07:00Z,Miami,2390,9,5
+4687509,Caden Prieskorn,TE,"6' 5""",255 lbs,26,1999-09-21T07:00Z,Ole Miss,145,0,5
+5081397,Dylan Sampson,RB,"5' 8""",200 lbs,21,2004-09-14T07:00Z,Tennessee,2633,0,5
+4601080,Raheim Sanders,RB,"6' 0""",230 lbs,23,2002-06-08T07:00Z,South Carolina,2579,0,5
+4432762,Shedeur Sanders,QB,"6' 2""",212 lbs,24,2002-02-07T08:00Z,Colorado,38,0,5
+4428678,Jamari Thrash,WR,"6' 0""",190 lbs,25,2000-12-19T08:00Z,Louisville,97,2,5
+4369863,Cedric Tillman,WR,"6' 3""",215 lbs,25,2000-04-19T07:00Z,Tennessee,2633,3,5
+4362018,Blake Whiteheart,TE,"6' 4""",250 lbs,25,2000-03-22T08:00Z,Wake Forest,154,3,5
+4035222,Trayveon Williams,RB,"5' 8""",206 lbs,28,1997-10-18T07:00Z,Texas A&M,245,7,5
+4576845,Isaiah Wooden,WR,"5' 9""",170 lbs,26,2000-02-03T08:00Z,Southern Utah,253,0,5
+2580216,DeAndre Carter,WR,"5' 8""",190 lbs,32,1993-04-10T07:00Z,Sacramento State,16,8,5
+4372019,Jerome Ford,RB,"5' 10""",210 lbs,26,1999-09-12T07:00Z,Cincinnati,2132,4,5
+4685702,Quinshon Judkins,RB,"5' 11""",221 lbs,22,2003-10-29T08:00Z,Ohio State,194,0,5
+3122840,Deshaun Watson,QB,"6' 3""",223 lbs,30,1995-09-14T07:00Z,Clemson,228,9,5
+4429202,Israel Abanikanda,RB,"5' 10""",217 lbs,23,2002-10-05T07:00Z,Pittsburgh,221,3,6
+4685279,Jaydon Blue,RB,"5' 9""",196 lbs,22,2004-01-08T08:00Z,Texas,251,0,6
+3121410,Parris Campbell,WR,"6' 0""",208 lbs,28,1997-07-16T07:00Z,Ohio State,194,7,6
+4242355,Jake Ferguson,TE,"6' 5""",244 lbs,27,1999-01-18T08:00Z,Wisconsin,275,4,6
+5083754,Ryan Flournoy,WR,"6' 1""",200 lbs,26,1999-10-27T07:00Z,Southeast Missouri State,2546,2,6
+3115252,Will Grier,QB,"6' 1""",220 lbs,30,1995-04-03T07:00Z,West Virginia,277,6,6
+4429172,Traeshon Holden,WR,"6' 3""",205 lbs,24,2001-09-12T07:00Z,Oregon,2483,0,6
+4241389,CeeDee Lamb,WR,"6' 2""",200 lbs,26,1999-04-08T07:00Z,Oklahoma,201,6,6
+4383396,Hunter Luepke,RB,"6' 1""",238 lbs,26,2000-02-28T08:00Z,North Dakota State,2449,3,6
+4431562,Phil Mafah,RB,"6' 0""",234 lbs,23,2002-10-24T07:00Z,Clemson,228,0,6
+4360698,Joe Milton III,QB,"6' 5""",246 lbs,25,2000-03-06T08:00Z,Tennessee,2633,2,6
+4426485,Jonathan Mingo,WR,"6' 2""",220 lbs,24,2001-04-20T07:00Z,Ole Miss,145,3,6
+4426354,George Pickens,WR,"6' 3""",200 lbs,24,2001-03-04T08:00Z,Georgia,61,4,6
+2577417,Dak Prescott,QB,"6' 2""",238 lbs,32,1993-07-29T07:00Z,Mississippi State,344,10,6
+4372096,Luke Schoonmaker,TE,"6' 5""",250 lbs,27,1998-09-28T07:00Z,Michigan,130,3,6
+4360967,Brevyn Spann-Ford,TE,"6' 7""",270 lbs,26,1999-12-27T08:00Z,Minnesota,135,2,6
+4249417,Jalen Tolbert,WR,"6' 1""",195 lbs,27,1999-02-27T08:00Z,South Alabama,6,4,6
+3676833,KaVontae Turpin,WR,"5' 9""",153 lbs,29,1996-08-02T07:00Z,TCU,2628,4,6
+4361579,Javonte Williams,RB,"5' 10""",220 lbs,25,2000-04-25T07:00Z,North Carolina,153,5,6
+4240603,Malik Davis,RB,"5' 11""",202 lbs,27,1998-11-26T08:00Z,Florida,57,2,6
+4045163,Miles Sanders,RB,"5' 11""",211 lbs,28,1997-05-01T07:00Z,Penn State,213,7,6
+4383440,Nate Adkins,TE,"6' 3""",252 lbs,26,1999-07-09T07:00Z,South Carolina,2579,3,7
+4362748,Tyler Badie,RB,"5' 8""",197 lbs,26,2000-02-07T08:00Z,Missouri,142,2,7
+4034704,Michael Bandy,WR,"5' 10""",190 lbs,28,1997-12-05T08:00Z,San Diego,301,3,7
+4600981,Pat Bryant,WR,"6' 2""",204 lbs,23,2002-12-10T08:00Z,Illinois,356,0,7
+4241820,Sam Ehlinger,QB,"6' 1""",222 lbs,27,1998-09-30T07:00Z,Texas,251,5,7
+3051876,Evan Engram,TE,"6' 3""",240 lbs,31,1994-09-02T07:00Z,Ole Miss,145,9,7
+4431280,Troy Franklin,WR,"6' 3""",180 lbs,23,2003-02-06T08:00Z,Oregon,2483,2,7
+4568490,RJ Harvey,RB,"5' 8""",205 lbs,25,2001-02-04T08:00Z,UCF,2116,0,7
+4039057,Lil'Jordan Humphrey,WR,"6' 4""",225 lbs,27,1998-04-19T07:00Z,Texas,251,6,7
+4432208,Caleb Lohner,TE,"6' 7""",250 lbs,24,2001-10-01T07:00Z,Utah,254,0,7
+4722893,Jaleel McLaughlin,RB,"5' 7""",187 lbs,25,2000-09-13T07:00Z,Youngstown State,2754,3,7
+4686472,Marvin Mims Jr.,WR,"5' 11""",182 lbs,23,2002-03-19T08:00Z,Oklahoma,201,3,7
+4391845,Cody Schrader,RB,"5' 9""",214 lbs,26,1999-09-08T07:00Z,Missouri,142,2,7
+3892775,Jarrett Stidham,QB,"6' 3""",215 lbs,29,1996-08-08T07:00Z,Auburn,2,6,7
+3128429,Courtland Sutton,WR,"6' 4""",216 lbs,30,1995-10-10T07:00Z,SMU,2567,8,7
+3911853,Adam Trautman,TE,"6' 5""",253 lbs,29,1997-02-05T08:00Z,Dayton,2168,6,7
+4431453,Deuce Vaughn,RB,"5' 6""",176 lbs,24,2001-11-02T08:00Z,Kansas State,2306,3,7
+4241985,J.K. Dobbins,RB,"5' 10""",212 lbs,27,1998-12-17T08:00Z,Ohio State,194,6,7
+4360231,Lucas Krull,TE,"6' 6""",260 lbs,27,1998-07-11T07:00Z,Pittsburgh,221,3,7
+4426338,Bo Nix,QB,"6' 2""",217 lbs,26,2000-02-25T08:00Z,Oregon,2483,2,7
+3115293,Kyle Allen,QB,"6' 3""",210 lbs,29,1996-03-08T08:00Z,Houston,248,7,8
+4240069,Malik Cunningham,WR,"6' 1""",198 lbs,27,1998-10-06T07:00Z,Louisville,97,2,8
+3049698,Anthony Firkser,TE,"6' 2""",245 lbs,31,1995-02-19T08:00Z,Harvard,108,7,8
+4429795,Jahmyr Gibbs,RB,"5' 9""",202 lbs,23,2002-03-20T08:00Z,Alabama,333,3,8
+3046779,Jared Goff,QB,"6' 4""",217 lbs,31,1994-10-14T07:00Z,California,25,10,8
+4569615,Thomas Gordon,TE,"6' 5""",250 lbs,25,2000-09-05T07:00Z,Northwestern,77,0,8
+4877824,Zach Horton,TE,"6' 4""",252 lbs,23,2002-12-02T08:00Z,Indiana,84,0,8
+3116136,Justin Jackson,RB,"6' 0""",199 lbs,29,1996-04-22T07:00Z,Northwestern,77,6,8
+3126997,Tom Kennedy,WR,"5' 10""",195 lbs,29,1996-07-29T07:00Z,Bryant,2803,3,8
+4596439,Dominic Lovett,WR,"5' 10""",185 lbs,23,2002-11-08T08:00Z,Georgia,61,0,8
+4602788,Jackson Meeks,WR,"6' 2""",218 lbs,22,2003-03-24T08:00Z,Syracuse,183,0,8
+4035538,David Montgomery,RB,"5' 11""",230 lbs,28,1997-06-07T07:00Z,Iowa State,66,7,8
+2973405,Kalif Raymond,WR,"5' 8""",180 lbs,31,1994-08-08T07:00Z,Holy Cross,107,9,8
+4383429,Jacob Saylors,RB,"5' 11""",195 lbs,25,2000-03-08T08:00Z,East Tennessee State,2193,1,8
+4432545,Jabari Small,RB,"5' 11""",213 lbs,25,2001-01-31T08:00Z,Tennessee,2633,1,8
+4374302,Amon-Ra St. Brown,WR,"6' 0""",202 lbs,26,1999-10-24T07:00Z,USC,30,5,8
+5123663,Isaac TeSlaa,WR,"6' 4""",214 lbs,24,2002-02-20T08:00Z,Arkansas,8,0,8
+4912274,Sione Vaki,RB,"5' 11""",216 lbs,24,2001-07-30T07:00Z,Utah,254,2,8
+4426388,Jameson Williams,WR,"6' 1""",182 lbs,24,2001-03-26T08:00Z,Alabama,333,4,8
+4608362,Shane Zylstra,TE,"6' 4""",244 lbs,29,1996-11-16T08:00Z,Minnesota State,2364,4,8
+4430027,Sam LaPorta,TE,"6' 3""",245 lbs,25,2001-01-12T08:00Z,Iowa,2294,3,8
+4880638,Kye Robichaux,RB,"6' 0""",213 lbs,23,2002-10-06T07:00Z,Boston College,103,0,8
+4242392,Brock Wright,TE,"6' 5""",254 lbs,27,1998-11-27T08:00Z,Notre Dame,87,5,8
+3149687,Chris Brooks,RB,"6' 1""",219 lbs,26,2000-01-11T08:00Z,BYU,252,3,9
+4372741,McCallan Castles,TE,"6' 4""",250 lbs,26,1999-12-03T08:00Z,Tennessee,2633,1,9
+4429466,Drake Dabney,TE,"6' 5""",246 lbs,23,2002-05-14T07:00Z,TCU,2628,0,9
+4361432,Romeo Doubs,WR,"6' 2""",204 lbs,25,2000-04-13T07:00Z,Nevada,2440,4,9
+4701936,Matthew Golden,WR,"5' 11""",191 lbs,22,2003-08-01T07:00Z,Texas,251,0,9
+4047365,Josh Jacobs,RB,"5' 10""",223 lbs,28,1998-02-11T08:00Z,Alabama,333,7,9
+5178972,Jakobie Keeney-James,WR,"6' 0""",190 lbs,25,2000-09-26T07:00Z,Massachusetts,113,0,9
+4036378,Jordan Love,QB,"6' 4""",219 lbs,27,1998-11-02T08:00Z,Utah State,328,6,9
+4808830,Damien Martinez,RB,"6' 0""",217 lbs,22,2004-01-31T08:00Z,Miami,2390,0,9
+4433971,Kyle McCord,QB,"6' 3""",218 lbs,23,2002-09-19T07:00Z,Syracuse,183,0,9
+4428085,Luke Musgrave,TE,"6' 6""",253 lbs,25,2000-09-02T07:00Z,Oregon State,204,3,9
+4428116,Isaiah Neyor,WR,"6' 4""",218 lbs,24,2001-06-07T07:00Z,Nebraska,158,0,9
+4362249,Jayden Reed,WR,"5' 11""",187 lbs,25,2000-04-28T07:00Z,Michigan State,127,3,9
+4239086,Desmond Ridder,QB,"6' 3""",211 lbs,26,1999-08-31T07:00Z,Cincinnati,2132,4,9
+4608679,Will Sheppard,WR,"6' 3""",196 lbs,24,2002-02-11T08:00Z,Colorado,38,0,9
+4249836,Pierre Strong Jr.,RB,"5' 11""",207 lbs,27,1998-12-10T08:00Z,South Dakota State,2571,4,9
+4362770,Messiah Swinson,TE,"6' 7""",259 lbs,25,2000-04-20T07:00Z,Arizona State,9,1,9
+4248528,Christian Watson,WR,"6' 4""",208 lbs,26,1999-05-12T07:00Z,North Dakota State,2449,4,9
+4360086,Josh Whyle,TE,"6' 7""",248 lbs,26,1999-09-08T07:00Z,Cincinnati,2132,3,9
+4428850,Dontayvion Wicks,WR,"6' 1""",206 lbs,24,2001-06-16T07:00Z,Virginia,258,3,9
+4242512,Malik Willis,QB,"6' 1""",225 lbs,26,1999-05-25T07:00Z,Liberty,2335,4,9
+4887558,Emanuel Wilson,RB,"5' 10""",226 lbs,26,1999-05-08T07:00Z,Fort Valley State,2232,3,9
+4379401,John FitzPatrick,TE,"6' 7""",262 lbs,25,2000-03-09T08:00Z,Georgia,61,4,9
+4572680,Tucker Kraft,TE,"6' 5""",259 lbs,25,2000-11-03T08:00Z,South Dakota State,2571,3,9
+4429023,MarShawn Lloyd,RB,"5' 9""",220 lbs,25,2001-01-05T08:00Z,USC,30,2,9
+4431487,Savion Williams,WR,"6' 4""",222 lbs,24,2001-11-22T08:00Z,TCU,2628,0,9
+3123075,Braxton Berrios,WR,"5' 9""",185 lbs,30,1995-10-06T07:00Z,Miami,2390,8,34
+4373273,British Brooks,RB,"5' 11""",225 lbs,26,1999-11-18T08:00Z,North Carolina,153,2,34
+4040774,Harrison Bryant,TE,"6' 5""",243 lbs,27,1998-04-23T07:00Z,Florida Atlantic,2226,6,34
+3128720,Nick Chubb,RB,"5' 11""",227 lbs,30,1995-12-27T08:00Z,Georgia,61,8,34
+4258173,Nico Collins,WR,"6' 4""",222 lbs,26,1999-03-19T08:00Z,Michigan,130,5,34
+4877706,Jayden Higgins,WR,"6' 4""",215 lbs,23,2002-12-15T08:00Z,Iowa State,66,0,34
+4686422,Xavier Hutchinson,WR,"6' 3""",210 lbs,25,2000-06-01T07:00Z,Iowa State,66,3,34
+4429939,Jawhar Jordan,RB,"5' 10""",186 lbs,26,1999-08-18T07:00Z,Louisville,97,1,34
+4575558,Josh Kelly,WR,"6' 1""",195 lbs,24,2001-07-01T07:00Z,Texas Tech,2641,0,34
+3895856,Christian Kirk,WR,"5' 11""",200 lbs,29,1996-11-18T08:00Z,Texas A&M,245,8,34
+4432338,Luke Lachey,TE,"6' 6""",247 lbs,24,2001-06-29T07:00Z,Iowa,2294,0,34
+4429059,Woody Marks,RB,"5' 10""",208 lbs,25,2000-12-29T08:00Z,USC,30,0,34
+4426335,Graham Mertz,QB,"6' 2""",216 lbs,25,2000-12-06T08:00Z,Florida,57,0,34
+4242546,Davis Mills,QB,"6' 4""",225 lbs,27,1998-10-21T07:00Z,Stanford,24,5,34
+4586312,Jaylin Noel,WR,"5' 11""",201 lbs,23,2002-09-04T07:00Z,Iowa State,66,0,34
+2983509,Dare Ogunbowale,RB,"5' 10""",205 lbs,31,1994-05-04T07:00Z,Wisconsin,275,7,34
+4878842,Layne Pryor,TE,"6' 3""",251 lbs,,,Northern Iowa,2460,0,34
+3117256,Dalton Schultz,TE,"6' 5""",242 lbs,29,1996-07-11T07:00Z,Stanford,24,8,34
+4426496,Cade Stover,TE,"6' 4""",251 lbs,25,2000-06-12T07:00Z,Ohio State,194,2,34
+4432577,C.J. Stroud,QB,"6' 3""",218 lbs,24,2001-10-03T07:00Z,Ohio State,194,3,34
+3118892,Justin Watson,WR,"6' 2""",215 lbs,29,1996-04-04T08:00Z,Pennsylvania,219,8,34
+4430681,Jared Wayne,WR,"6' 3""",210 lbs,25,2000-10-07T07:00Z,Pittsburgh,221,1,34
+4366031,Tank Dell,WR,"5' 10""",165 lbs,26,1999-10-29T07:00Z,Houston,248,3,34
+4362504,Brevin Jordan,TE,"6' 3""",245 lbs,25,2000-07-16T07:00Z,Miami,2390,5,34
+3116385,Joe Mixon,RB,"6' 1""",220 lbs,29,1996-07-24T07:00Z,Oklahoma,201,9,34
+2576336,Ameer Abdullah,RB,"5' 9""",203 lbs,32,1993-06-13T07:00Z,Nebraska,158,11,11
+2998565,Mo Alie-Cox,TE,"6' 5""",267 lbs,32,1993-09-19T07:00Z,VCU,2670,8,11
+4426689,Ulysses Bentley IV,RB,"5' 10""",200 lbs,25,2000-12-30T08:00Z,Ole Miss,145,0,11
+4688813,Josh Downs,WR,"5' 9""",171 lbs,24,2001-08-12T07:00Z,North Carolina,153,3,11
+4061956,Ashton Dulin,WR,"6' 2""",215 lbs,28,1997-05-15T07:00Z,Malone,556,7,11
+4874509,DJ Giddens,RB,"6' 0""",212 lbs,22,2003-08-26T07:00Z,Kansas State,2306,0,11
+4429676,Tyler Goodson,RB,"5' 9""",197 lbs,25,2000-11-10T08:00Z,Iowa,2294,3,11
+4606194,Seth Henigan,QB,"6' 3""",215 lbs,22,2003-03-10T08:00Z,Memphis,235,0,11
+4683423,Riley Leonard,QB,"6' 4""",213 lbs,23,2002-09-13T07:00Z,Notre Dame,87,0,11
+4362523,Will Mallory,TE,"6' 4""",239 lbs,26,1999-06-22T07:00Z,Miami,2390,3,11
+4036275,Sean McKeon,TE,"6' 5""",255 lbs,28,1997-12-28T08:00Z,Michigan,130,5,11
+4578436,Coleman Owen,WR,"5' 10""",181 lbs,24,2001-03-23T08:00Z,Ohio,195,0,11
+4430288,Eli Pancol,WR,"6' 3""",205 lbs,25,2000-07-07T07:00Z,Duke,150,0,11
+4360078,Alec Pierce,WR,"6' 3""",211 lbs,25,2000-05-02T07:00Z,Cincinnati,2132,4,11
+4035687,Michael Pittman Jr.,WR,"6' 4""",223 lbs,28,1997-10-05T07:00Z,USC,30,6,11
+5529,Philip Rivers,QB,"6' 5""",228 lbs,44,1981-12-08T08:00Z,NC State,152,18,11
+4242335,Jonathan Taylor,RB,"5' 10""",226 lbs,27,1999-01-19T08:00Z,Wisconsin,275,6,11
+3051889,Laquon Treadwell,WR,"6' 2""",215 lbs,30,1995-06-14T07:00Z,Ole Miss,145,9,11
+4431459,Tyler Warren,TE,"6' 6""",256 lbs,23,2002-05-24T07:00Z,Penn State,213,0,11
+4243315,Salvon Ahmed,RB,"5' 11""",196 lbs,27,1998-12-30T08:00Z,Washington,264,5,11
+4429684,Anthony Gould,WR,"5' 8""",174 lbs,24,2001-04-06T07:00Z,Oregon State,204,2,11
+3917792,Daniel Jones,QB,"6' 5""",230 lbs,28,1997-05-27T07:00Z,Duke,150,7,11
+4249030,D.J. Montgomery,WR,"6' 1""",201 lbs,29,1996-11-17T08:00Z,Austin Peay,2046,4,11
+4722908,Drew Ogletree,TE,"6' 5""",260 lbs,27,1998-07-28T07:00Z,Youngstown State,2754,4,11
+4429084,Anthony Richardson Sr.,QB,"6' 4""",244 lbs,23,2002-05-22T07:00Z,Florida,57,3,11
+4911851,LeQuint Allen Jr.,RB,"6' 0""",201 lbs,21,2004-08-05T07:00Z,Syracuse,183,0,30
+4362260,Carter Bradley,QB,"6' 3""",213 lbs,25,2000-03-09T08:00Z,South Alabama,6,1,30
+4573243,Chandler Brayboy,WR,"6' 1""",199 lbs,24,2001-08-20T07:00Z,Elon,2210,0,30
+4361577,Dyami Brown,WR,"6' 0""",195 lbs,26,1999-11-01T08:00Z,North Carolina,153,5,30
+4240631,DeeJay Dallas,RB,"5' 10""",217 lbs,27,1998-09-16T07:00Z,Miami,2390,6,30
+4239996,Travis Etienne Jr.,RB,"5' 10""",215 lbs,27,1999-01-26T08:00Z,Clemson,228,5,30
+4429811,Patrick Herbert,TE,"6' 5""",255 lbs,25,2000-10-18T07:00Z,Oregon,2483,0,30
+4690972,Ja'Quinden Jackson,RB,"6' 2""",233 lbs,24,2001-09-12T07:00Z,Arkansas,8,0,30
+4245131,Tim Jones,WR,"6' 1""",200 lbs,27,1998-05-15T07:00Z,Southern Miss,2572,4,30
+4360310,Trevor Lawrence,QB,"6' 6""",220 lbs,26,1999-10-06T07:00Z,Clemson,228,5,30
+4239944,Hunter Long,TE,"6' 5""",243 lbs,27,1998-08-19T07:00Z,Boston College,103,5,30
+3916433,Jakobi Meyers,WR,"6' 2""",200 lbs,29,1996-11-09T08:00Z,NC State,152,7,30
+4244049,Quintin Morris,TE,"6' 2""",243 lbs,27,1999-01-21T08:00Z,Bowling Green,189,4,30
+3059989,Nick Mullens,QB,"6' 0""",210 lbs,30,1995-03-21T08:00Z,Southern Miss,2572,7,30
+3052096,Johnny Mundt,TE,"6' 4""",243 lbs,31,1994-11-23T08:00Z,Oregon,2483,8,30
+3134353,Tim Patrick,WR,"6' 5""",210 lbs,32,1993-11-23T08:00Z,Utah,254,8,30
+4430539,Brenton Strange,TE,"6' 4""",253 lbs,25,2000-12-27T08:00Z,Penn State,213,3,30
+4432773,Brian Thomas Jr.,WR,"6' 2""",209 lbs,23,2002-10-08T07:00Z,LSU,99,2,30
+4244856,Austin Trammell,WR,"5' 10""",185 lbs,27,1998-07-04T07:00Z,Rice,242,3,30
+4882093,Bhayshul Tuten,RB,"5' 9""",209 lbs,23,2003-02-14T08:00Z,Virginia Tech,259,0,30
+4432620,Parker Washington,WR,"5' 10""",204 lbs,23,2002-03-21T08:00Z,Penn State,213,3,30
+4426893,Joshua Cephus,WR,"6' 2""",193 lbs,24,2001-03-05T08:00Z,UTSA,2636,1,30
+4685415,Travis Hunter,WR,"6' 1""",185 lbs,22,2003-05-18T07:00Z,Colorado,38,0,30
+5093923,Andrew Armstrong,WR,"6' 4""",210 lbs,25,2000-10-31T08:00Z,Arkansas,8,0,12
+4241372,Hollywood Brown,WR,"5' 9""",180 lbs,28,1997-06-04T07:00Z,Oklahoma,201,7,12
+4689988,Jason Brownlee,WR,"6' 3""",202 lbs,27,1999-01-30T08:00Z,Southern Miss,2572,2,12
+4240472,Noah Gray,TE,"6' 3""",240 lbs,26,1999-04-30T07:00Z,Duke,150,5,12
+4243322,Jake Haener,QB,"6' 1""",200 lbs,26,1999-03-10T08:00Z,Fresno State,278,4,12
+4431142,Jimmy Holiday,WR,"6' 1""",211 lbs,24,2001-12-16T08:00Z,Louisiana Tech,2348,0,12
+3059915,Kareem Hunt,RB,"5' 11""",216 lbs,30,1995-08-06T07:00Z,Toledo,2649,9,12
+15847,Travis Kelce,TE,"6' 5""",250 lbs,36,1989-10-05T07:00Z,Cincinnati,2132,13,12
+4044111,Chris Oladokun,QB,"6' 1""",213 lbs,28,1997-09-03T07:00Z,South Dakota State,2571,1,12
+4361529,Isiah Pacheco,RB,"5' 10""",216 lbs,26,1999-03-02T08:00Z,Rutgers,164,4,12
+4360238,Dameon Pierce,RB,"5' 10""",215 lbs,26,2000-02-19T08:00Z,Florida,57,4,12
+4876907,ShunDerrick Powell,RB,"5' 7""",183 lbs,23,2002-05-16T07:00Z,Central Arkansas,2110,0,12
+5082630,Jalen Royals,WR,"6' 0""",195 lbs,23,2003-02-18T08:00Z,Utah State,328,0,12
+4596602,Brashard Smith,RB,"5' 10""",196 lbs,22,2003-04-11T07:00Z,SMU,2567,0,12
+3120348,JuJu Smith-Schuster,WR,"6' 1""",215 lbs,29,1996-11-22T08:00Z,USC,30,9,12
+2975674,Robert Tonyan,TE,"6' 5""",240 lbs,31,1994-04-30T07:00Z,Indiana State,282,7,12
+4685784,Tre Watson,TE,"6' 5""",250 lbs,23,2002-10-12T07:00Z,Texas A&M,245,0,12
+4430723,Jared Wiley,TE,"6' 6""",249 lbs,25,2000-11-02T08:00Z,TCU,2628,2,12
+4683062,Xavier Worthy,WR,"5' 11""",165 lbs,22,2003-04-27T07:00Z,Texas,251,2,12
+4431196,Jake Briningstool,TE,"6' 6""",240 lbs,23,2002-12-09T08:00Z,Clemson,228,0,12
+4362087,Keaontay Ingram,RB,"6' 0""",220 lbs,26,1999-10-26T07:00Z,USC,30,3,12
+3139477,Patrick Mahomes,QB,"6' 2""",225 lbs,30,1995-09-17T07:00Z,Texas Tech,2641,9,12
+4038524,Gardner Minshew,QB,"6' 1""",225 lbs,29,1996-05-16T07:00Z,Washington State,265,7,12
+4372716,Nikko Remigio,WR,"5' 9""",187 lbs,26,1999-11-04T08:00Z,Fresno State,278,1,12
+4428331,Rashee Rice,WR,"6' 1""",204 lbs,25,2000-04-22T07:00Z,SMU,2567,3,12
+4362921,Tyquan Thornton,WR,"6' 2""",185 lbs,25,2000-08-07T07:00Z,Baylor,239,4,12
+3919510,Alex Bachman,WR,"6' 0""",190 lbs,29,1996-05-29T07:00Z,Wake Forest,154,2,13
+4603186,Jack Bech,WR,"6' 1""",214 lbs,23,2002-12-18T08:00Z,TCU,2628,0,13
+4698191,Chris Collier,RB,"5' 10""",203 lbs,25,2000-03-24T08:00Z,Lock Haven University,209,2,13
+2579604,Phillip Dorsett II,WR,"5' 10""",185 lbs,33,1993-01-05T08:00Z,Miami,2390,9,13
+4361332,Shedrick Jackson,WR,"6' 1""",198 lbs,26,1999-10-20T07:00Z,Auburn,2,1,13
+4890973,Ashton Jeanty,RB,"5' 8""",208 lbs,22,2003-12-02T08:00Z,Boise State,68,0,13
+4366963,Dylan Laube,RB,"5' 9""",204 lbs,26,1999-12-14T08:00Z,New Hampshire,160,2,13
+2577327,Tyler Lockett,WR,"5' 10""",182 lbs,33,1992-09-28T07:00Z,Kansas State,2306,11,13
+4429086,Michael Mayer,TE,"6' 4""",256 lbs,24,2001-07-06T07:00Z,Notre Dame,87,3,13
+2576414,Raheem Mostert,RB,"5' 10""",212 lbs,33,1992-04-09T07:00Z,Purdue,2509,11,13
+4260394,Aidan O'Connell,QB,"6' 3""",206 lbs,27,1998-09-01T07:00Z,Purdue,2509,3,13
+4035115,Albert Okwuegbunam Jr.,TE,"6' 5""",258 lbs,27,1998-04-25T07:00Z,Missouri,142,5,13
+4240703,Kenny Pickett,QB,"6' 3""",220 lbs,27,1998-06-06T07:00Z,Pittsburgh,221,4,13
+4686781,Brenden Rice,WR,"6' 3""",210 lbs,23,2002-03-18T08:00Z,USC,30,2,13
+5155825,Carter Runyon,TE,"6' 4""",243 lbs,24,2001-07-23T07:00Z,Towson,119,0,13
+4361426,Justin Shorter,WR,"6' 4""",227 lbs,25,2000-04-17T07:00Z,Florida,57,3,13
+15864,Geno Smith,QB,"6' 3""",221 lbs,35,1990-10-10T07:00Z,West Virginia,277,13,13
+4045305,Ian Thomas,TE,"6' 3""",253 lbs,29,1996-06-06T07:00Z,Indiana,84,8,13
+4432775,Dont'e Thornton Jr.,WR,"6' 5""",205 lbs,23,2002-11-30T08:00Z,Tennessee,2633,0,13
+4428718,Tre Tucker,WR,"5' 8""",182 lbs,24,2001-03-08T08:00Z,Cincinnati,2132,3,13
+4361777,Zamir White,RB,"5' 11""",227 lbs,26,1999-09-18T07:00Z,Georgia,61,4,13
+4432665,Brock Bowers,TE,"6' 4""",235 lbs,23,2002-12-13T08:00Z,Georgia,61,2,13
+15818,Keenan Allen,WR,"6' 2""",211 lbs,33,1992-04-27T07:00Z,California,25,13,24
+4569372,Dalevon Campbell,WR,"6' 4""",220 lbs,24,2001-12-05T08:00Z,South Carolina,2579,0,24
+3915486,Tyler Conklin,TE,"6' 3""",248 lbs,30,1995-07-30T07:00Z,Central Michigan,2117,8,24
+4362477,Derius Davis,WR,"5' 8""",165 lbs,25,2000-09-11T07:00Z,TCU,2628,3,24
+3127292,Will Dissly,TE,"6' 4""",265 lbs,29,1996-07-08T07:00Z,Washington,264,8,24
+4242558,Tucker Fisk,TE,"6' 4""",285 lbs,27,1999-01-19T08:00Z,Stanford,24,2,24
+4595342,Oronde Gadsden,TE,"6' 5""",236 lbs,22,2003-06-25T07:00Z,Syracuse,183,0,24
+4433830,Luke Grimm,WR,"6' 0""",190 lbs,24,2001-08-08T07:00Z,Kansas,2305,0,24
+4685382,Omarion Hampton,RB,"6' 0""",220 lbs,22,2003-03-16T08:00Z,North Carolina,153,0,24
+4686612,Tre' Harris,WR,"6' 3""",210 lbs,24,2002-02-28T08:00Z,Ole Miss,145,0,24
+4372071,Hassan Haskins,RB,"6' 2""",228 lbs,26,1999-11-26T08:00Z,Michigan,130,4,24
+4038941,Justin Herbert,QB,"6' 6""",236 lbs,27,1998-03-10T08:00Z,Oregon,2483,6,24
+5160748,JaQuae Jackson,WR,"6' 1""",184 lbs,26,2000-01-30T08:00Z,Rutgers,164,2,24
+4878878,Amar Johnson,RB,"5' 10""",205 lbs,23,2003-01-31T08:00Z,South Dakota State,2571,0,24
+4429025,Quentin Johnston,WR,"6' 2""",208 lbs,24,2001-09-06T07:00Z,TCU,2628,3,24
+4383351,Trey Lance,QB,"6' 4""",226 lbs,25,2000-05-09T07:00Z,North Dakota State,2449,5,24
+4612826,Ladd McConkey,WR,"6' 0""",185 lbs,24,2001-11-11T08:00Z,Georgia,61,2,24
+4384171,Tanner McLachlan,TE,"6' 5""",244 lbs,26,1999-03-15T08:00Z,Arizona,12,2,24
+4362452,Jaret Patterson,RB,"5' 8""",195 lbs,26,1999-12-23T08:00Z,Buffalo,2084,2,24
+4429020,DJ Uiagalelei,QB,"6' 4""",252 lbs,24,2001-04-17T07:00Z,Florida State,52,0,24
+4430968,Kimani Vidal,RB,"5' 8""",215 lbs,24,2001-08-28T07:00Z,Troy,2653,2,24
+4361027,Thomas Yassmin,TE,"6' 5""",251 lbs,26,1999-10-21T07:00Z,Utah,254,1,24
+4241457,Najee Harris,RB,"6' 1""",242 lbs,27,1998-03-09T08:00Z,Alabama,333,5,24
+4430870,KeAndre Lambert-Smith,WR,"6' 1""",182 lbs,23,2002-07-29T07:00Z,Auburn,2,0,24
+16800,Davante Adams,WR,"6' 1""",215 lbs,33,1992-12-24T08:00Z,Fresno State,278,12,14
+4426553,Davis Allen,TE,"6' 6""",251 lbs,25,2001-02-03T08:00Z,Clemson,228,3,14
+4360797,Tutu Atwell,WR,"5' 9""",165 lbs,26,1999-10-07T07:00Z,Louisville,97,5,14
+4259553,Stetson Bennett IV,QB,"5' 11""",190 lbs,28,1997-10-28T08:00Z,Georgia,61,2,14
+4429096,Blake Corum,RB,"5' 8""",210 lbs,25,2000-11-25T08:00Z,Michigan,130,2,14
+4875786,Tru Edwards,WR,"6' 3""",201 lbs,24,2001-06-09T07:00Z,Louisiana Tech,2348,0,14
+4570037,Terrance Ferguson,TE,"6' 5""",255 lbs,22,2003-03-07T08:00Z,Oregon,2483,0,14
+16760,Jimmy Garoppolo,QB,"6' 2""",225 lbs,34,1991-11-02T08:00Z,Eastern Illinois,2197,12,14
+2573401,Tyler Higbee,TE,"6' 6""",253 lbs,33,1993-01-01T08:00Z,Western Kentucky,98,10,14
+4710341,Jarquez Hunter,RB,"5' 10""",209 lbs,23,2002-12-29T08:00Z,Auburn,2,0,14
+4710855,Konata Mumpfield,WR,"6' 1""",185 lbs,23,2002-10-24T07:00Z,Pittsburgh,221,0,14
+4426515,Puka Nacua,WR,"6' 2""",212 lbs,24,2001-05-29T07:00Z,BYU,252,3,14
+4242557,Colby Parkinson,TE,"6' 7""",265 lbs,27,1999-01-08T08:00Z,Stanford,24,6,14
+4431342,Brennan Presley,WR,"5' 8""",174 lbs,24,2002-02-02T08:00Z,Oklahoma State,197,0,14
+4431346,Mark Redman,TE,"6' 5""",255 lbs,24,2002-01-20T08:00Z,Louisville,97,0,14
+4243003,Ronnie Rivers,RB,"5' 9""",198 lbs,27,1999-01-31T08:00Z,Fresno State,278,4,14
+4565908,Tyler Scott,WR,"5' 10""",182 lbs,24,2001-10-12T07:00Z,Cincinnati,2132,3,14
+4386544,Xavier Smith,WR,"5' 9""",176 lbs,28,1997-09-21T07:00Z,Florida A&M,50,2,14
+12483,Matthew Stafford,QB,"6' 3""",214 lbs,38,1988-02-07T08:00Z,Georgia,61,17,14
+2576399,Nick Vannett,TE,"6' 5""",266 lbs,32,1993-03-06T08:00Z,Ohio State,194,10,14
+4428803,Jordan Waters,RB,"6' 0""",225 lbs,25,2000-12-18T08:00Z,NC State,152,0,14
+4569382,Jordan Whittington,WR,"6' 1""",202 lbs,25,2000-10-01T07:00Z,Texas,251,2,14
+4430737,Kyren Williams,RB,"5' 9""",202 lbs,25,2000-08-26T07:00Z,Notre Dame,87,4,14
+4431618,Mario Williams,WR,"5' 9""",178 lbs,23,2003-01-21T08:00Z,Tulane,2655,0,14
+4429160,De'Von Achane,RB,"5' 9""",191 lbs,24,2001-10-13T07:00Z,Texas A&M,245,3,15
+4367209,Greg Dulcich,TE,"6' 4""",245 lbs,25,2000-03-26T08:00Z,UCLA,26,4,15
+4431536,Donovan Edwards,RB,"6' 1""",212 lbs,23,2003-02-25T08:00Z,Michigan,130,0,15
+4889929,Quinn Ewers,QB,"6' 2""",209 lbs,22,2003-03-15T08:00Z,Texas,251,0,15
+4711533,Ollie Gordon II,RB,"6' 2""",225 lbs,22,2004-01-15T08:00Z,Oklahoma State,197,0,15
+4429053,AJ Henning,WR,"5' 10""",192 lbs,24,2001-09-09T07:00Z,Northwestern,77,0,15
+4365395,Julian Hill,TE,"6' 4""",251 lbs,25,2000-07-09T07:00Z,Campbell,2097,3,15
+4361417,Zack Kuntz,TE,"6' 8""",251 lbs,26,1999-06-06T07:00Z,Old Dominion,295,1,15
+4362630,Terrace Marshall Jr.,WR,"6' 2""",200 lbs,25,2000-06-09T07:00Z,LSU,99,5,15
+4693331,Cam Miller,QB,"6' 0""",211 lbs,24,2001-06-18T07:00Z,North Dakota State,2449,0,15
+4241479,Tua Tagovailoa,QB,"6' 1""",225 lbs,27,1998-03-02T08:00Z,Alabama,333,6,15
+4361438,Cole Turner,TE,"6' 6""",240 lbs,25,2000-03-16T08:00Z,Nevada,2440,3,15
+4372016,Jaylen Waddle,WR,"5' 10""",185 lbs,27,1998-11-25T08:00Z,Alabama,333,5,15
+4569603,Malik Washington,WR,"5' 8""",195 lbs,25,2001-01-04T08:00Z,Virginia,258,2,15
+4567506,Tahj Washington,WR,"5' 10""",174 lbs,24,2001-05-16T07:00Z,USC,30,2,15
+4426535,Theo Wease Jr.,WR,"6' 2""",210 lbs,24,2001-06-25T07:00Z,Missouri,142,0,15
+4361259,Zach Wilson,QB,"6' 2""",214 lbs,26,1999-08-03T07:00Z,BYU,252,5,15
+4036335,Cedrick Wilson Jr.,WR,"6' 2""",197 lbs,30,1995-03-10T08:00Z,Boise State,68,8,15
+4682745,Jaylen Wright,RB,"5' 10""",208 lbs,22,2003-04-01T08:00Z,Tennessee,2633,2,15
+4431044,Jalin Conyers,TE,"6' 4""",265 lbs,24,2001-07-25T07:00Z,Texas Tech,2641,0,15
+4043016,Dee Eskridge,WR,"5' 9""",190 lbs,28,1997-03-23T08:00Z,Western Michigan,2711,5,15
+4048244,Alexander Mattison,RB,"5' 11""",220 lbs,27,1998-06-19T07:00Z,Boise State,68,7,15
+2576925,Darren Waller,TE,"6' 6""",238 lbs,33,1992-09-13T07:00Z,Georgia Tech,59,8,15
+4429205,Jordan Addison,WR,"5' 11""",175 lbs,24,2002-01-27T08:00Z,USC,30,3,16
+4573398,Max Brosmer,QB,"6' 2""",217 lbs,24,2001-03-28T08:00Z,Minnesota,135,0,16
+4242431,Ty Chandler,RB,"5' 11""",204 lbs,27,1998-05-12T07:00Z,North Carolina,153,4,16
+4696907,Joaquin Davis,WR,"6' 4""",195 lbs,23,2002-08-18T07:00Z,North Carolina Central,2428,0,16
+4565185,Tai Felton,WR,"6' 1""",183 lbs,22,2003-03-15T08:00Z,Maryland,120,0,16
+4565297,Dontae Fleming,WR,"6' 2""",180 lbs,24,2001-11-28T08:00Z,Tulane,2655,0,16
+4036133,T.J. Hockenson,TE,"6' 5""",248 lbs,28,1997-07-03T07:00Z,Iowa,2294,7,16
+4262921,Justin Jefferson,WR,"6' 1""",195 lbs,26,1999-06-16T07:00Z,LSU,99,6,16
+4360637,Jeshaun Jones,WR,"6' 1""",188 lbs,26,1999-12-22T08:00Z,Maryland,120,1,16
+3042519,Aaron Jones Sr.,RB,"5' 10""",208 lbs,31,1994-12-02T08:00Z,UTEP,2638,9,16
+4360569,Jordan Mason,RB,"5' 11""",223 lbs,26,1999-05-24T07:00Z,Georgia Tech,59,4,16
+4433970,J.J. McCarthy,QB,"6' 3""",219 lbs,23,2003-01-20T08:00Z,Michigan,130,2,16
+4382466,Jalen Nailor,WR,"5' 11""",190 lbs,26,1999-03-02T08:00Z,Michigan State,127,4,16
+4602969,Bryson Nesbit,TE,"6' 5""",238 lbs,23,2002-09-25T07:00Z,North Carolina,153,0,16
+3921690,Josh Oliver,TE,"6' 5""",259 lbs,28,1997-03-21T08:00Z,San José State,23,7,16
+4430656,Myles Price,WR,"5' 9""",183 lbs,24,2001-12-16T08:00Z,Indiana,84,0,16
+3722362,Brett Rypien,QB,"6' 2""",210 lbs,29,1996-07-09T07:00Z,Boise State,68,7,16
+4257364,Zavier Scott,RB,"6' 1""",219 lbs,26,1999-07-17T07:00Z,Maine,311,1,16
+4373030,Ben Sims,TE,"6' 5""",250 lbs,25,2000-05-16T07:00Z,Baylor,239,3,16
+3124092,John Wolford,QB,"6' 1""",218 lbs,30,1995-10-16T07:00Z,Wake Forest,154,5,16
+4433959,Ben Yurosek,TE,"6' 4""",245 lbs,23,2002-03-17T08:00Z,Georgia,61,0,16
+4708049,Gavin Bartholomew,TE,"6' 5""",246 lbs,22,2003-04-30T07:00Z,Pittsburgh,221,0,16
+2573079,Carson Wentz,QB,"6' 5""",237 lbs,33,1992-12-30T08:00Z,North Dakota State,2449,10,16
+4429022,Kayshon Boutte,WR,"5' 11""",197 lbs,23,2002-05-07T07:00Z,LSU,99,3,17
+4695193,Efton Chism III,WR,"5' 10""",198 lbs,24,2001-10-26T07:00Z,Eastern Washington,331,0,17
+4240391,Tommy DeVito,QB,"6' 2""",210 lbs,27,1998-08-07T07:00Z,Illinois,356,3,17
+2976212,Stefon Diggs,WR,"6' 0""",191 lbs,32,1993-11-29T08:00Z,Maryland,120,11,17
+4596545,CJ Dippre,TE,"6' 5""",256 lbs,23,2002-04-29T07:00Z,Alabama,333,0,17
+3044720,Joshua Dobbs,QB,"6' 3""",220 lbs,31,1995-01-26T08:00Z,Tennessee,2633,9,17
+4427095,DeMario Douglas,WR,"5' 8""",192 lbs,25,2000-12-08T08:00Z,Liberty,2335,3,17
+4432710,TreVeyon Henderson,RB,"5' 10""",202 lbs,23,2002-10-22T07:00Z,Ohio State,194,0,17
+3046439,Hunter Henry,TE,"6' 5""",249 lbs,31,1994-12-07T08:00Z,Arkansas,8,10,17
+2991662,Mack Hollins,WR,"6' 4""",221 lbs,32,1993-09-16T07:00Z,North Carolina,153,9,17
+3043275,Austin Hooper,TE,"6' 4""",254 lbs,31,1994-11-04T08:00Z,Stanford,24,10,17
+3115328,Jalen Hurd,WR,"6' 5""",230 lbs,30,1996-01-23T08:00Z,Baylor,239,4,17
+4887705,John Jiles,WR,"6' 3""",220 lbs,25,2000-07-08T07:00Z,West Florida,2697,1,17
+4566195,Marshall Lang,TE,"6' 4""",249 lbs,24,2001-10-15T07:00Z,Northwestern,77,0,17
+4431452,Drake Maye,QB,"6' 4""",225 lbs,23,2002-08-30T07:00Z,North Carolina,153,2,17
+4241555,Elijah Mitchell,RB,"5' 10""",200 lbs,27,1998-05-02T07:00Z,Louisiana,309,5,17
+4569173,Rhamondre Stevenson,RB,"6' 0""",227 lbs,28,1998-02-23T08:00Z,Oklahoma,201,5,17
+4572655,Jeremiah Webb,WR,"5' 11""",198 lbs,24,2001-05-17T07:00Z,South Alabama,6,0,17
+4361100,Jack Westover,TE,"6' 2""",245 lbs,26,1999-06-09T07:00Z,Washington,264,1,17
+4613202,Kyle Williams,WR,"5' 11""",190 lbs,23,2002-11-13T08:00Z,Washington State,265,0,17
+4427600,Terrell Jennings,RB,"6' 0""",217 lbs,24,2001-03-01T08:00Z,Florida A&M,50,1,17
+4698253,Lan Larison,RB,"5' 11""",209 lbs,24,2001-10-11T07:00Z,UC Davis,302,0,17
+4372526,Deneric Prince,RB,"6' 0""",211 lbs,25,2000-04-11T07:00Z,Tulsa,202,1,17
+4605489,Damien Alford,WR,"6' 6""",210 lbs,,,Utah,254,0,18
+4372758,Kevin Austin Jr.,WR,"6' 2""",200 lbs,25,2000-03-30T08:00Z,Notre Dame,87,2,18
+4372063,Ronnie Bell,WR,"6' 0""",192 lbs,26,2000-01-28T08:00Z,Michigan,130,3,18
+4241588,Elijah Cooks,WR,"6' 4""",215 lbs,27,1998-10-13T07:00Z,San José State,23,2,18
+4569682,Audric Estime,RB,"5' 11""",227 lbs,22,2003-09-06T07:00Z,Notre Dame,87,2,18
+2468609,Taysom Hill,QB,"6' 2""",221 lbs,35,1990-08-23T07:00Z,BYU,252,9,18
+4569609,Evan Hull,RB,"5' 10""",209 lbs,25,2000-10-26T07:00Z,Northwestern,77,2,18
+3929645,Juwan Johnson,TE,"6' 4""",231 lbs,29,1996-09-13T07:00Z,Oregon,2483,6,18
+3054850,Alvin Kamara,RB,"5' 10""",215 lbs,30,1995-07-25T07:00Z,Tennessee,2633,9,18
+4432731,Moliki Matavao,TE,"6' 6""",263 lbs,22,2003-03-17T08:00Z,UCLA,26,0,18
+4361370,Chris Olave,WR,"6' 0""",187 lbs,25,2000-06-27T07:00Z,Ohio State,194,4,18
+3127306,Dante Pettis,WR,"6' 1""",195 lbs,30,1995-10-23T07:00Z,Washington,264,7,18
+4426339,Spencer Rattler,QB,"6' 0""",211 lbs,25,2000-09-28T07:00Z,South Carolina,2579,2,18
+4360689,Tyler Shough,QB,"6' 5""",219 lbs,26,1999-09-28T07:00Z,Louisville,97,0,18
+4027873,Samori Toure,WR,"6' 1""",196 lbs,27,1998-03-24T08:00Z,Nebraska,158,3,18
+4430684,Treyton Welch,TE,"6' 4""",240 lbs,25,2001-01-10T08:00Z,Wyoming,2751,1,18
+4427985,Bub Means,WR,"6' 2""",215 lbs,25,2001-01-10T08:00Z,Pittsburgh,221,2,18
+4599739,Kendre Miller,RB,"6' 0""",220 lbs,23,2002-06-11T07:00Z,TCU,2628,3,18
+4876006,Zaire Mitchell-Paden,TE,"6' 5""",257 lbs,26,1999-08-20T07:00Z,Florida Atlantic,2226,1,18
+3843945,Foster Moreau,TE,"6' 4""",250 lbs,28,1997-05-06T07:00Z,LSU,99,7,18
+4682652,Devin Neal,RB,"5' 11""",213 lbs,22,2003-08-12T07:00Z,Kansas,2305,0,18
+4426407,Trey Palmer,WR,"6' 1""",190 lbs,24,2001-04-02T07:00Z,Nebraska,158,3,18
+4911517,Mason Pline,TE,"6' 7""",260 lbs,26,2000-02-05T08:00Z,Furman,231,1,18
+4430637,Ja'Lynn Polk,WR,"6' 1""",203 lbs,23,2002-04-11T07:00Z,Washington,264,2,18
+4034862,Jack Stoll,TE,"6' 4""",247 lbs,28,1998-01-28T08:00Z,Nebraska,158,5,18
+4573697,Mason Tipton,WR,"5' 11""",187 lbs,25,2000-09-27T07:00Z,Yale,43,2,18
+4569559,Devaughn Vele,WR,"6' 5""",210 lbs,28,1997-12-12T08:00Z,Utah,254,2,18
+4361516,Daniel Bellinger,TE,"6' 6""",255 lbs,25,2000-09-22T07:00Z,San Diego State,21,4,19
+4570296,Dalen Cambre,WR,"6' 0""",192 lbs,24,2001-04-10T07:00Z,Louisiana,309,0,19
+4047422,Tanner Conner,TE,"6' 3""",232 lbs,27,1998-03-20T08:00Z,Idaho State,304,3,19
+4689114,Jaxson Dart,QB,"6' 2""",223 lbs,22,2003-05-13T07:00Z,Ole Miss,145,0,19
+4427278,Xavier Gipson,WR,"5' 9""",189 lbs,24,2001-03-08T08:00Z,Stephen F. Austin,2617,3,19
+4570561,Eric Gray,RB,"5' 10""",211 lbs,26,1999-11-04T08:00Z,Oklahoma,201,3,19
+4242540,Isaiah Hodgins,WR,"6' 3""",200 lbs,27,1998-10-21T07:00Z,Oregon State,204,4,19
+4692590,Jalin Hyatt,WR,"6' 0""",185 lbs,24,2001-09-25T07:00Z,Tennessee,2633,3,19
+4565172,Courtney Jackson,WR,"5' 11""",179 lbs,24,2001-03-13T08:00Z,Arkansas State,2032,0,19
+4429148,Theo Johnson,TE,"6' 6""",264 lbs,25,2001-02-26T08:00Z,Penn State,213,2,19
+2531358,Chris Manhertz,TE,"6' 6""",235 lbs,33,1992-04-10T07:00Z,Canisius,2099,10,19
+4367510,Dante Miller,RB,"5' 9""",200 lbs,26,1999-05-14T07:00Z,South Carolina,2579,1,19
+4369466,Ryan Miller,WR,"6' 2""",221 lbs,26,2000-02-20T08:00Z,Furman,231,2,19
+4424106,Gunner Olszewski,WR,"6' 0""",190 lbs,29,1996-11-26T08:00Z,Bemidji State,132,7,19
+4040761,Devin Singletary,RB,"5' 7""",203 lbs,28,1997-09-03T07:00Z,Florida Atlantic,2226,7,19
+3916945,Darius Slayton,WR,"6' 1""",198 lbs,29,1997-01-12T08:00Z,Auburn,2,7,19
+4360516,Tyrone Tracy Jr.,RB,"5' 11""",210 lbs,26,1999-11-23T08:00Z,Purdue,2509,2,19
+14881,Russell Wilson,QB,"5' 11""",206 lbs,37,1988-11-29T08:00Z,Wisconsin,275,14,19
+2969939,Jameis Winston,QB,"6' 4""",231 lbs,32,1994-01-06T08:00Z,Florida State,52,11,19
+4431210,Beaux Collins,WR,"6' 3""",206 lbs,23,2002-12-16T08:00Z,Notre Dame,87,0,19
+4575348,Da'Quan Felton,WR,"6' 5""",216 lbs,25,2001-01-13T08:00Z,Virginia Tech,259,0,19
+4590292,Thomas Fidone II,TE,"6' 6""",255 lbs,23,2002-09-20T07:00Z,Nebraska,158,0,19
+4362227,Bryce Ford-Wheaton,WR,"6' 3""",220 lbs,25,2000-03-09T08:00Z,West Virginia,277,3,19
+4595348,Malik Nabers,WR,"6' 0""",200 lbs,22,2003-07-28T07:00Z,LSU,99,2,19
+4569587,Wan'Dale Robinson,WR,"5' 8""",185 lbs,25,2001-01-05T08:00Z,Kentucky,96,4,19
+4696981,Cam Skattebo,RB,"5' 11""",215 lbs,24,2002-02-05T08:00Z,Arizona State,9,0,19
+4429435,Brady Cook,QB,"6' 2""",215 lbs,24,2001-10-12T07:00Z,Missouri,142,0,20
+4431053,Mac Dalena,WR,"5' 11""",180 lbs,24,2001-10-04T07:00Z,Fresno State,278,0,20
+4427366,Breece Hall,RB,"5' 11""",217 lbs,24,2001-05-31T07:00Z,Iowa State,66,4,20
+4035886,Khalil Herbert,RB,"5' 9""",212 lbs,27,1998-04-21T07:00Z,Virginia Tech,259,5,20
+4240858,Hendon Hooker,QB,"6' 3""",221 lbs,28,1998-01-13T08:00Z,Tennessee,2633,3,20
+2310331,Tyler Johnson,WR,"6' 1""",208 lbs,27,1998-08-25T07:00Z,Minnesota,135,5,20
+4567096,John Metchie III,WR,"5' 11""",187 lbs,25,2000-07-18T07:00Z,Alabama,333,3,20
+4597500,Adonai Mitchell,WR,"6' 2""",205 lbs,23,2002-10-08T07:00Z,Texas,251,2,20
+4035537,Kene Nwangwu,RB,"6' 1""",210 lbs,28,1998-02-09T08:00Z,Iowa State,66,5,20
+4892576,Jamaal Pritchett,WR,"5' 8""",175 lbs,22,2003-06-10T07:00Z,South Alabama,6,0,20
+4361372,Jeremy Ruckert,TE,"6' 5""",250 lbs,25,2000-08-11T07:00Z,Ohio State,194,4,20
+4613050,Quentin Skinner,WR,"6' 5""",195 lbs,24,2001-12-24T08:00Z,Kansas,2305,0,20
+4250764,Stone Smartt,TE,"6' 4""",226 lbs,27,1998-10-04T07:00Z,Old Dominion,295,4,20
+4429105,Arian Smith,WR,"6' 0""",179 lbs,24,2001-10-11T07:00Z,Georgia,61,0,20
+14163,Tyrod Taylor,QB,"6' 1""",217 lbs,36,1989-08-03T07:00Z,Virginia Tech,259,15,20
+4569371,Isaiah Williams,WR,"5' 10""",185 lbs,25,2001-01-29T08:00Z,Illinois,356,2,20
+4241410,Jelani Woods,TE,"6' 7""",253 lbs,27,1998-10-09T07:00Z,Virginia,258,4,20
+4250360,Bailey Zappe,QB,"6' 1""",215 lbs,26,1999-04-26T07:00Z,Western Kentucky,98,4,20
+4685247,Braelon Allen,RB,"6' 1""",235 lbs,22,2004-01-20T08:00Z,Wisconsin,275,2,20
+3929636,Irvin Charles,WR,"6' 4""",219 lbs,28,1997-04-13T07:00Z,Indiana-Pennsylvania,2291,3,20
+4695404,Isaiah Davis,RB,"6' 1""",220 lbs,24,2002-02-21T08:00Z,South Dakota State,2571,2,20
+4362887,Justin Fields,QB,"6' 3""",227 lbs,26,1999-03-05T08:00Z,Ohio State,194,5,20
+3115306,Josh Reynolds,WR,"6' 3""",192 lbs,31,1995-02-16T08:00Z,Texas A&M,245,9,20
+4808766,Mason Taylor,TE,"6' 5""",251 lbs,21,2004-05-08T07:00Z,LSU,99,0,20
+4569618,Garrett Wilson,WR,"6' 0""",183 lbs,25,2000-07-22T07:00Z,Ohio State,194,4,20
+3929630,Saquon Barkley,RB,"6' 0""",233 lbs,29,1997-02-09T08:00Z,Penn State,213,8,21
+4429262,Jaheim Bell,TE,"6' 2""",241 lbs,24,2001-06-14T07:00Z,Florida State,52,2,21
+4429013,Tank Bigsby,RB,"5' 11""",215 lbs,23,2002-08-30T07:00Z,Auburn,2,3,21
+4047646,A.J. Brown,WR,"6' 1""",226 lbs,28,1997-06-30T07:00Z,Ole Miss,145,7,21
+4241374,Grant Calcaterra,TE,"6' 4""",240 lbs,27,1998-12-04T08:00Z,SMU,2567,4,21
+4715355,Darius Cooper,WR,"5' 11""",210 lbs,24,2001-11-22T08:00Z,Tarleton State,2627,0,21
+3926231,Britain Covey,WR,"5' 8""",173 lbs,28,1997-03-18T08:00Z,Utah,254,4,21
+4239934,AJ Dillon,RB,"6' 0""",247 lbs,27,1998-05-02T07:00Z,Boston College,103,6,21
+4361409,Jahan Dotson,WR,"5' 11""",184 lbs,25,2000-03-22T08:00Z,Penn State,213,4,21
+3121023,Dallas Goedert,TE,"6' 5""",256 lbs,31,1995-01-03T08:00Z,South Dakota State,2571,8,21
+4039160,Kylen Granson,TE,"6' 3""",242 lbs,27,1998-03-27T08:00Z,SMU,2567,5,21
+4689546,Danny Gray,WR,"6' 0""",200 lbs,26,1999-04-01T08:00Z,SMU,2567,3,21
+4426875,Sam Howell,QB,"6' 1""",220 lbs,25,2000-09-16T07:00Z,North Carolina,153,4,21
+4040715,Jalen Hurts,QB,"6' 1""",223 lbs,27,1998-08-07T07:00Z,Oklahoma,201,6,21
+4248557,E.J. Jenkins,TE,"6' 6""",245 lbs,27,1998-11-03T08:00Z,Georgia Tech,59,2,21
+4372026,Cameron Latu,TE,"6' 5""",244 lbs,26,2000-02-24T08:00Z,Alabama,333,2,21
+4685201,Tanner McKee,QB,"6' 6""",231 lbs,25,2000-04-27T07:00Z,Stanford,24,3,21
+4431545,Will Shipley,RB,"5' 11""",209 lbs,23,2002-08-29T07:00Z,Clemson,228,2,21
+4241478,DeVonta Smith,WR,"6' 0""",170 lbs,27,1998-11-14T08:00Z,Alabama,333,5,21
+4714365,Carson Steele,RB,"6' 0""",228 lbs,23,2002-10-21T07:00Z,UCLA,26,2,21
+4050373,Quez Watkins,WR,"6' 0""",193 lbs,27,1998-06-09T07:00Z,Southern Miss,2572,5,21
+4686104,Johnny Wilson,WR,"6' 6""",228 lbs,24,2001-04-03T07:00Z,Florida State,52,2,21
+4243389,Calvin Austin III,WR,"5' 9""",162 lbs,26,1999-03-24T08:00Z,Memphis,235,4,23
+5192448,Cole Burgess,WR,"6' 1""",198 lbs,26,2000-02-11T08:00Z,Cortland,2782,1,23
+4361411,Pat Freiermuth,TE,"6' 5""",258 lbs,27,1998-10-25T07:00Z,Penn State,213,5,23
+4371733,Kenneth Gainwell,RB,"5' 9""",200 lbs,26,1999-03-14T08:00Z,Memphis,235,5,23
+4695800,JJ Galbreath,TE,"6' 4""",240 lbs,24,2001-08-05T07:00Z,South Dakota,233,0,23
+4241961,Connor Heyward,TE,"6' 0""",230 lbs,27,1999-01-22T08:00Z,Michigan State,127,4,23
+4429955,Will Howard,QB,"6' 4""",236 lbs,24,2001-09-24T07:00Z,Ohio State,194,0,23
+4694237,Max Hurleman,RB,"5' 11""",200 lbs,24,2001-10-19T07:00Z,Notre Dame,87,0,23
+4819231,Kaleb Johnson,RB,"6' 1""",224 lbs,22,2003-08-14T07:00Z,Iowa,2294,0,23
+4047650,DK Metcalf,WR,"6' 4""",229 lbs,28,1997-12-14T08:00Z,Ole Miss,145,7,23
+3914397,Scotty Miller,WR,"5' 9""",174 lbs,28,1997-07-31T07:00Z,Bowling Green,189,7,23
+4428119,Lew Nichols,RB,"5' 10""",220 lbs,24,2001-08-16T07:00Z,Central Michigan,2117,1,23
+4362019,A.T. Perry,WR,"6' 5""",205 lbs,26,1999-10-26T07:00Z,Wake Forest,154,2,23
+4426494,John Rhys Plumlee,WR,"6' 0""",200 lbs,25,2001-01-02T08:00Z,UCF,2116,0,23
+8439,Aaron Rodgers,QB,"6' 2""",223 lbs,42,1983-12-02T08:00Z,California,25,21,23
+3116407,Mason Rudolph,QB,"6' 5""",235 lbs,30,1995-07-17T07:00Z,Oklahoma State,197,8,23
+4035656,Ben Skowronek,WR,"6' 3""",224 lbs,28,1997-06-27T07:00Z,Notre Dame,87,5,23
+4240577,Brandon Smith,WR,"6' 1""",218 lbs,27,1998-12-10T08:00Z,Iowa,2294,1,23
+3054212,Jonnu Smith,TE,"6' 3""",248 lbs,30,1995-08-22T07:00Z,Florida International,2229,9,23
+16460,Adam Thielen,WR,"6' 2""",195 lbs,35,1990-08-22T07:00Z,Minnesota State,2364,12,23
+3051738,Marquez Valdes-Scantling,WR,"6' 4""",206 lbs,31,1994-10-10T07:00Z,South Florida,58,8,23
+4569987,Jaylen Warren,RB,"5' 8""",215 lbs,27,1998-11-01T08:00Z,Oklahoma State,197,4,23
+4431492,Roman Wilson,WR,"5' 10""",186 lbs,24,2001-06-19T07:00Z,Michigan,130,2,23
+3912092,Donald Parham Jr.,TE,"6' 8""",237 lbs,28,1997-08-16T07:00Z,Stetson,56,5,23
+4036419,Skylar Thompson,QB,"6' 2""",219 lbs,28,1997-06-04T07:00Z,Kansas State,2306,4,23
+4430802,Darnell Washington,TE,"6' 7""",264 lbs,24,2001-08-17T07:00Z,Georgia,61,3,23
+4887918,Junior Bergen,WR,"5' 9""",184 lbs,23,2002-10-23T07:00Z,Montana,149,0,25
+3045523,Kendrick Bourne,WR,"6' 1""",205 lbs,30,1995-08-04T07:00Z,Eastern Washington,331,9,25
+4250945,Colton Dowell,WR,"6' 3""",212 lbs,26,1999-04-19T07:00Z,UT Martin,2630,3,25
+4040612,Luke Farrell,TE,"6' 5""",250 lbs,28,1997-10-14T07:00Z,Ohio State,194,5,25
+4372561,Isaac Guerendo,RB,"6' 0""",221 lbs,25,2000-06-28T07:00Z,Louisville,97,2,25
+4685397,Jordan James,RB,"5' 9""",208 lbs,21,2004-03-29T08:00Z,Oregon,2483,0,25
+3886598,Jauan Jennings,WR,"6' 3""",212 lbs,28,1997-07-10T07:00Z,Tennessee,2633,5,25
+4241464,Mac Jones,QB,"6' 3""",220 lbs,27,1998-09-05T07:00Z,Alabama,333,5,25
+4361182,Adrian Martinez,QB,"6' 2""",220 lbs,26,2000-01-07T08:00Z,Kansas State,2306,1,25
+3117251,Christian McCaffrey,RB,"5' 11""",210 lbs,29,1996-06-07T07:00Z,Stanford,24,9,25
+4430191,Skyy Moore,WR,"5' 10""",195 lbs,25,2000-09-10T07:00Z,Western Michigan,2711,4,25
+4428209,Ricky Pearsall,WR,"6' 1""",189 lbs,25,2000-09-09T07:00Z,Florida,57,2,25
+4361741,Brock Purdy,QB,"6' 1""",220 lbs,26,1999-12-27T08:00Z,Iowa State,66,4,25
+3043116,Demarcus Robinson,WR,"6' 1""",202 lbs,31,1994-09-21T07:00Z,Florida,57,10,25
+4241474,Brian Robinson Jr.,RB,"6' 1""",225 lbs,26,1999-03-22T08:00Z,Alabama,333,4,25
+4428396,Hayden Rucci,TE,"6' 5""",247 lbs,25,2001-01-27T08:00Z,Wisconsin,275,1,25
+4259147,Jake Tonges,TE,"6' 4""",240 lbs,26,1999-07-08T07:00Z,California,25,3,25
+3115928,Malik Turner,WR,"6' 2""",202 lbs,30,1996-01-30T08:00Z,Illinois,356,5,25
+4431466,Jordan Watkins,WR,"5' 11""",196 lbs,24,2002-02-15T08:00Z,Ole Miss,145,0,25
+4360290,Brayden Willis,TE,"6' 4""",240 lbs,26,1999-11-11T08:00Z,Oklahoma,201,3,25
+4360438,Brandon Aiyuk,WR,"6' 0""",200 lbs,27,1998-03-17T08:00Z,Arizona State,9,6,25
+4575665,Jacob Cowing,WR,"5' 9""",171 lbs,25,2001-02-04T08:00Z,Arizona,12,2,25
+3040151,George Kittle,TE,"6' 4""",250 lbs,32,1993-10-09T07:00Z,Iowa,2294,9,25
+4430431,Kurtis Rourke,QB,"6' 4""",220 lbs,25,2000-10-25T07:00Z,Indiana,84,0,25
+3040569,Trent Taylor,WR,"5' 8""",180 lbs,31,1994-04-30T07:00Z,Louisiana Tech,2348,7,25
+4039358,Patrick Taylor Jr.,RB,"6' 2""",217 lbs,27,1998-04-29T07:00Z,Memphis,235,5,25
+4240021,Cam Akers,RB,"5' 10""",217 lbs,26,1999-06-22T07:00Z,Florida State,52,5,26
+4678006,Elijah Arroyo,TE,"6' 5""",254 lbs,22,2003-04-05T08:00Z,Miami,2390,0,26
+4576297,AJ Barner,TE,"6' 6""",251 lbs,23,2002-05-03T07:00Z,Michigan,130,2,26
+4360405,Jake Bobo,WR,"6' 4""",207 lbs,27,1998-08-04T07:00Z,UCLA,26,3,26
+4429313,Tyrone Broden,WR,"6' 5""",194 lbs,25,2001-02-26T08:00Z,Arkansas,8,0,26
+3912547,Sam Darnold,QB,"6' 3""",225 lbs,28,1997-06-05T07:00Z,USC,30,8,26
+4600597,Montorie Foster Jr.,WR,"5' 11""",188 lbs,24,2001-08-03T07:00Z,Michigan State,127,0,26
+4429835,George Holani,RB,"5' 11""",210 lbs,26,1999-12-16T08:00Z,Boise State,68,2,26
+4035693,Velus Jones Jr.,RB,"6' 0""",204 lbs,28,1997-05-11T07:00Z,Tennessee,2633,5,26
+4569547,Nick Kallerup,TE,"6' 5""",266 lbs,24,2001-03-27T08:00Z,Minnesota,135,0,26
+2977187,Cooper Kupp,WR,"6' 1""",205 lbs,32,1993-06-15T07:00Z,Eastern Washington,331,9,26
+3924327,Drew Lock,QB,"6' 4""",228 lbs,29,1996-11-10T08:00Z,Missouri,142,7,26
+4432734,Jalen Milroe,QB,"6' 2""",216 lbs,23,2002-12-13T08:00Z,Alabama,333,0,26
+2975863,Eric Saubert,TE,"6' 5""",253 lbs,31,1994-05-09T07:00Z,Drake,2181,8,26
+4032473,Rashid Shaheed,WR,"6' 0""",180 lbs,27,1998-08-31T07:00Z,Weber State,2692,4,26
+4430878,Jaxon Smith-Njigba,WR,"6' 0""",197 lbs,24,2002-02-14T08:00Z,Ohio State,194,3,26
+4567048,Kenneth Walker III,RB,"5' 9""",211 lbs,25,2000-10-20T07:00Z,Michigan State,127,4,26
+4431479,Ricky White III,WR,"6' 1""",184 lbs,24,2002-02-06T08:00Z,UNLV,2439,0,26
+4428943,Jacardia Wright,RB,"6' 0""",218 lbs,25,2000-09-26T07:00Z,Missouri State,2623,0,26
+4401805,Dareke Young,WR,"6' 2""",224 lbs,26,1999-06-04T07:00Z,Lenoir Rhyne,2331,4,26
+4426385,Zach Charbonnet,RB,"6' 1""",214 lbs,25,2001-01-08T08:00Z,UCLA,26,3,26
+4597703,Tory Horton,WR,"6' 2""",196 lbs,23,2002-11-29T08:00Z,Colorado State,36,0,26
+4427391,Kenny McIntosh,RB,"6' 0""",204 lbs,25,2000-03-03T08:00Z,Georgia,61,3,26
+4241983,Cody White,WR,"6' 3""",227 lbs,27,1998-11-28T08:00Z,Michigan State,127,4,26
+4426444,Connor Bazelak,QB,"6' 3""",225 lbs,25,2000-09-22T07:00Z,Bowling Green,189,0,27
+16728,Teddy Bridgewater,QB,"6' 2""",210 lbs,33,1992-11-10T08:00Z,Louisville,97,11,27
+4361112,Devin Culp,TE,"6' 4""",237 lbs,26,2000-02-02T08:00Z,Washington,264,2,27
+4372505,Payne Durham,TE,"6' 5""",255 lbs,25,2000-06-15T07:00Z,Purdue,2509,3,27
+4567750,Emeka Egbuka,WR,"6' 1""",205 lbs,23,2002-10-14T07:00Z,Ohio State,194,0,27
+16737,Mike Evans,WR,"6' 5""",231 lbs,32,1993-08-21T07:00Z,Texas A&M,245,12,27
+3116165,Chris Godwin Jr.,WR,"6' 1""",209 lbs,30,1996-02-27T08:00Z,Penn State,213,9,27
+4429847,Garrett Greene,WR,"5' 11""",201 lbs,24,2001-10-01T07:00Z,West Virginia,277,0,27
+4572786,Dennis Houston,WR,"6' 1""",190 lbs,26,1999-04-24T07:00Z,Western Illinois,2710,1,27
+4596448,Bucky Irving,RB,"5' 10""",195 lbs,23,2002-08-19T07:00Z,Oregon,2483,2,27
+5097554,Kameron Johnson,WR,"5' 10""",170 lbs,23,2002-03-17T08:00Z,Barton College,2054,2,27
+4608810,Tez Johnson,WR,"5' 10""",165 lbs,23,2002-05-18T07:00Z,Oregon,2483,0,27
+3052587,Baker Mayfield,QB,"6' 1""",215 lbs,30,1995-04-14T07:00Z,Oklahoma,201,8,27
+4430834,Jalen McMillan,WR,"6' 1""",192 lbs,24,2001-12-07T08:00Z,Washington,264,2,27
+4243331,Cade Otton,TE,"6' 5""",247 lbs,26,1999-04-15T07:00Z,Washington,264,4,27
+2976592,Sterling Shepard,WR,"5' 10""",194 lbs,33,1993-02-10T08:00Z,Oklahoma,201,10,27
+4430871,Sean Tucker,RB,"5' 10""",205 lbs,24,2001-10-25T07:00Z,Syracuse,183,3,27
+4697815,Rachaad White,RB,"6' 0""",214 lbs,27,1999-01-12T08:00Z,Arizona State,9,4,27
+4569156,Michael Wiley,RB,"5' 10""",209 lbs,24,2001-11-10T08:00Z,Arizona,12,1,27
+4568024,Josh Williams,RB,"5' 9""",210 lbs,24,2001-06-09T07:00Z,LSU,99,0,27
+4249616,Owen Wright,RB,"5' 9""",217 lbs,27,1999-02-28T08:00Z,Monmouth,2405,2,27
+4034779,Ko Kieft,TE,"6' 5""",265 lbs,28,1998-01-20T08:00Z,Minnesota,135,4,27
+4581750,Jaden Smith,WR,"6' 6""",210 lbs,24,2001-12-13T08:00Z,Tarleton State,2627,0,27
+2574511,Brandon Allen,QB,"6' 2""",209 lbs,33,1992-09-05T07:00Z,Arkansas,8,9,10
+4883647,Elic Ayomanor,WR,"6' 2""",206 lbs,22,2003-06-03T07:00Z,Stanford,24,0,10
+4367567,Julius Chestnut,RB,"5' 11""",228 lbs,25,2000-10-26T07:00Z,Sacred Heart,2529,4,10
+4431268,Chimere Dike,WR,"6' 1""",196 lbs,23,2002-12-14T08:00Z,Florida,57,0,10
+4686728,Gunnar Helm,TE,"6' 5""",241 lbs,23,2002-09-06T07:00Z,Texas,251,0,10
+4057082,Mason Kinsey,WR,"5' 11""",200 lbs,27,1998-08-29T07:00Z,Berry College,2757,3,10
+4360978,David Martin-Robinson,TE,"6' 3""",247 lbs,26,1999-12-26T08:00Z,Temple,218,2,10
+4429121,Kalel Mullings,RB,"6' 2""",226 lbs,23,2002-10-04T07:00Z,Michigan,130,0,10
+4360635,Chig Okonkwo,TE,"6' 3""",238 lbs,26,1999-09-08T07:00Z,Maryland,120,4,10
+4362617,Bryce Oliver,WR,"6' 1""",214 lbs,25,2000-05-19T07:00Z,Youngstown State,2754,2,10
+3916148,Tony Pollard,RB,"6' 0""",209 lbs,28,1997-04-30T07:00Z,Memphis,235,7,10
+4879189,Hal Presley,WR,"6' 3""",210 lbs,24,2002-01-22T08:00Z,Baylor,239,0,10
+3916204,James Proche II,WR,"5' 11""",193 lbs,29,1996-09-21T07:00Z,SMU,2567,7,10
+4431353,Xavier Restrepo,WR,"5' 10""",202 lbs,23,2002-04-22T07:00Z,Miami,2390,0,10
+4428557,Tyjae Spears,RB,"5' 11""",195 lbs,24,2001-06-15T07:00Z,Tulane,2655,3,10
+4688380,Cam Ward,QB,"6' 2""",219 lbs,23,2002-05-25T07:00Z,Miami,2390,0,10
+4361604,Blake Watson,RB,"5' 9""",195 lbs,26,1999-10-14T07:00Z,Memphis,235,2,10
+4362570,Joel Wilson,TE,"6' 4""",245 lbs,25,2000-06-21T07:00Z,Central Michigan,2117,1,10
+3930066,Van Jefferson,WR,"6' 1""",200 lbs,29,1996-07-26T07:00Z,Florida,57,6,10
+4361418,Will Levis,QB,"6' 4""",229 lbs,26,1999-06-27T07:00Z,Kentucky,96,3,10
+3925357,Calvin Ridley,WR,"6' 1""",190 lbs,31,1994-12-20T08:00Z,Alabama,333,7,10
+4048228,John Bates,TE,"6' 6""",256 lbs,28,1997-11-06T08:00Z,Boise State,68,5,28
+4431506,Ja'Corey Brooks,WR,"6' 3""",195 lbs,24,2001-10-31T08:00Z,Louisville,97,0,28
+4567156,Treylon Burks,WR,"6' 2""",225 lbs,25,2000-03-23T08:00Z,Arkansas,8,4,28
+3917849,Lawrence Cager,TE,"6' 5""",220 lbs,28,1997-08-20T07:00Z,Georgia,61,4,28
+4575131,Jacory Croskey-Merritt,RB,"5' 11""",208 lbs,24,2001-04-12T07:00Z,Arizona,12,0,28
+4426348,Jayden Daniels,QB,"6' 4""",210 lbs,25,2000-12-18T08:00Z,LSU,99,2,28
+2574630,Jeff Driskel,QB,"6' 4""",231 lbs,32,1993-04-23T07:00Z,Louisiana Tech,2348,8,28
+3119195,Chase Edmonds,RB,"5' 9""",205 lbs,29,1996-04-13T07:00Z,Fordham,2230,8,28
+4361994,Sam Hartman,QB,"6' 1""",209 lbs,26,1999-07-29T07:00Z,Notre Dame,87,1,28
+11394,Josh Johnson,QB,"6' 3""",214 lbs,39,1986-05-15T07:00Z,San Diego,301,11,28
+5083297,Jacoby Jones,WR,"6' 3""",228 lbs,24,2001-07-18T07:00Z,UCF,2116,0,28
+2576980,Marcus Mariota,QB,"6' 4""",222 lbs,32,1993-10-30T07:00Z,Oregon,2483,11,28
+3121422,Terry McLaurin,WR,"6' 0""",210 lbs,30,1995-09-15T07:00Z,Ohio State,194,7,28
+3127586,Jeremy McNichols,RB,"5' 9""",205 lbs,30,1995-12-26T08:00Z,Boise State,68,5,28
+2576581,Chris Moore,WR,"6' 1""",200 lbs,32,1993-06-16T07:00Z,Cincinnati,2132,9,28
+4570242,Nick Nash,WR,"6' 3""",195 lbs,26,1999-07-08T07:00Z,San José State,23,0,28
+4362619,Chris Rodriguez Jr.,RB,"5' 11""",224 lbs,26,1999-09-26T07:00Z,Kentucky,96,3,28
+3126486,Deebo Samuel,WR,"6' 0""",215 lbs,30,1996-01-15T08:00Z,South Carolina,2579,7,28
+4690923,Ben Sinnott,TE,"6' 4""",245 lbs,23,2002-06-14T07:00Z,Kansas State,2306,2,28
+4361088,Colson Yankoff,TE,"6' 4""",225 lbs,25,2000-03-01T08:00Z,UCLA,26,2,28
+3121409,Noah Brown,WR,"6' 2""",225 lbs,30,1996-01-06T08:00Z,Ohio State,194,9,28
+3068267,Austin Ekeler,RB,"5' 10""",200 lbs,30,1995-05-17T07:00Z,Western Colorado,2714,9,28
+15835,Zach Ertz,TE,"6' 5""",250 lbs,35,1990-11-10T08:00Z,Stanford,24,13,28
+3916564,Tyree Jackson,TE,"6' 7""",249 lbs,28,1997-11-07T08:00Z,Buffalo,2084,3,28
+4602667,Jaylin Lane,WR,"5' 10""",196 lbs,23,2002-05-01T07:00Z,Virginia Tech,259,0,28
+4426948,Luke McCaffrey,WR,"6' 2""",195 lbs,24,2001-04-02T07:00Z,Rice,242,2,28
