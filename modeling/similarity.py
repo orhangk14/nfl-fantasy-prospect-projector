@@ -61,6 +61,17 @@ WR_FEATURES = COMMON_MEASURABLES + DRAFT_FEATURES + [
     ('college_td_rate', 'efficiency', True),
     ('breakout_ratio', 'efficiency', True),
     ('last_season_ppr_ppg', 'efficiency', True),
+    # v3: Peak dominance & draft interactions
+    ('peak_to_career_ratio', 'peak', True),
+    ('peak_to_last_ratio', 'peak', True),
+    ('peak_season_share', 'peak', False),       # lower = more consistent (good)
+    ('draft_pick_log', 'draft', False),
+    ('draft_x_peak_ppg', 'draft', True),
+    ('draft_x_college_ppg', 'draft', True),
+    ('snap_share_proxy', 'draft', True),
+    ('opportunity_adjusted_peak', 'draft', True),
+    ('trend_direction', 'efficiency', True),
+    ('peak_recency', 'efficiency', False),       # lower = more recent peak (good)
 ]
 
 RB_FEATURES = COMMON_MEASURABLES + DRAFT_FEATURES + [
@@ -88,6 +99,17 @@ RB_FEATURES = COMMON_MEASURABLES + DRAFT_FEATURES + [
     ('college_td_rate', 'efficiency', True),
     ('breakout_ratio', 'efficiency', True),
     ('last_season_ppr_ppg', 'efficiency', True),
+    # v3: Peak dominance & draft interactions
+    ('peak_to_career_ratio', 'peak', True),
+    ('peak_to_last_ratio', 'peak', True),
+    ('peak_season_share', 'peak', False),
+    ('draft_pick_log', 'draft', False),
+    ('draft_x_peak_ppg', 'draft', True),
+    ('draft_x_college_ppg', 'draft', True),
+    ('snap_share_proxy', 'draft', True),
+    ('opportunity_adjusted_peak', 'draft', True),
+    ('trend_direction', 'efficiency', True),
+    ('peak_recency', 'efficiency', False),
 ]
 
 QB_FEATURES = COMMON_MEASURABLES + DRAFT_FEATURES + [
@@ -113,6 +135,18 @@ QB_FEATURES = COMMON_MEASURABLES + DRAFT_FEATURES + [
     ('college_td_int_ratio', 'efficiency', True),
     ('breakout_ratio', 'efficiency', True),
     ('last_season_ppr_ppg', 'efficiency', True),
+    # v3: Peak dominance & draft interactions
+    ('peak_to_career_ratio', 'peak', True),
+    ('peak_to_last_ratio', 'peak', True),
+    ('peak_season_share', 'peak', False),
+    ('draft_pick_log', 'draft', False),
+    ('draft_x_peak_ppg', 'draft', True),
+    ('draft_x_college_ppg', 'draft', True),
+    ('snap_share_proxy', 'draft', True),
+    ('opportunity_adjusted_peak', 'draft', True),
+    ('trend_direction', 'efficiency', True),
+    ('peak_recency', 'efficiency', False),
+    ('qb_rushing_value', 'efficiency', True),
 ]
 
 TE_FEATURES = COMMON_MEASURABLES + DRAFT_FEATURES + [
@@ -137,6 +171,17 @@ TE_FEATURES = COMMON_MEASURABLES + DRAFT_FEATURES + [
     ('college_td_rate', 'efficiency', True),
     ('breakout_ratio', 'efficiency', True),
     ('last_season_ppr_ppg', 'efficiency', True),
+    # v3: Peak dominance & draft interactions
+    ('peak_to_career_ratio', 'peak', True),
+    ('peak_to_last_ratio', 'peak', True),
+    ('peak_season_share', 'peak', False),
+    ('draft_pick_log', 'draft', False),
+    ('draft_x_peak_ppg', 'draft', True),
+    ('draft_x_college_ppg', 'draft', True),
+    ('snap_share_proxy', 'draft', True),
+    ('opportunity_adjusted_peak', 'draft', True),
+    ('trend_direction', 'efficiency', True),
+    ('peak_recency', 'efficiency', False),
 ]
 
 POS_FEATURES = {
@@ -155,9 +200,12 @@ POS_FEATURES = {
 # Efficiency: 10%
 # Draft capital: 35%
 # Measurables: 15%
+
+# v3: Reweighted — peak dominance features make peak category stronger,
+# draft interaction features capture opportunity premium better.
 CATEGORY_WEIGHTS = {
-    'production': 0.15,
-    'peak': 0.20,
+    'production': 0.10,
+    'peak': 0.25,
     'efficiency': 0.10,
     'draft': 0.40,
     'measurable': 0.15,
@@ -171,8 +219,17 @@ def load_profiles():
 def enrich_profiles(profiles):
     """
     Add derived efficiency/dominance features.
-    v2: Also handles new peak features from build_features.
+    
+    v3: Enhanced with peak dominance, draft capital interactions,
+    opportunity proxies, and trajectory features.
+    
+    Key insights:
+    - Peak season matters WAY more than career avg (Ja'Marr Chase, JSN)
+    - Draft capital = opportunity (snaps), not just talent signal
+    - Recency matters: was the player trending up or down?
     """
+    import math
+
     for p in profiles:
         pos = p.get('position', '')
 
@@ -235,6 +292,134 @@ def enrich_profiles(profiles):
                 p['breakout_ratio'] = peak_ppg / career_ppg
             else:
                 p['breakout_ratio'] = None
+
+        # ══════════════════════════════════════════════════════════════
+        # v3 NEW FEATURES: Peak Dominance, Draft Interactions, Opportunity
+        # ══════════════════════════════════════════════════════════════
+
+        peak_ppg = p.get('peak_ppr_ppg', 0) or 0
+        career_ppg = p.get('college_ppr_ppg', 0) or 0
+        last_ppg = p.get('last_season_ppr_ppg', 0) or 0
+        draft_pick = p.get('draft_pick')
+        draft_round = p.get('draft_round')
+
+        # ── Peak Dominance Features ──────────────────────────────────
+        # How much better was peak year vs career avg?
+        # JSN: 25.8 / 15.1 = 1.71x — peak was WAY above average
+        # Bowers: 19.5 / 18.4 = 1.06x — consistently elite
+        if career_ppg > 0:
+            p['peak_to_career_ratio'] = peak_ppg / career_ppg
+        else:
+            p['peak_to_career_ratio'] = None
+
+        # Peak vs last season — catches declining players
+        # If peak == last, player was peaking when drafted (good sign)
+        # If peak >> last, player may have peaked early or was injured
+        if last_ppg > 0:
+            p['peak_to_last_ratio'] = peak_ppg / last_ppg
+        else:
+            p['peak_to_last_ratio'] = None
+
+        # Peak season share — what % of total career PPR came in best year?
+        # High share + few seasons = spike player (risky)
+        # High share + many seasons = one breakout year surrounded by meh
+        peak_gp = p.get('peak_gp') or 1
+        peak_total = peak_ppg * peak_gp
+        career_total_college = sum([
+            (p.get('college_ppr_ppg', 0) or 0) * (p.get('total_college_games', 0) or 1)
+        ])
+        # Better estimate using per-game * games
+        if total_games > 0 and career_ppg > 0:
+            estimated_career_total = career_ppg * total_games
+            if estimated_career_total > 0:
+                p['peak_season_share'] = peak_total / estimated_career_total
+            else:
+                p['peak_season_share'] = None
+        else:
+            p['peak_season_share'] = None
+
+        # ── Draft Capital Features ───────────────────────────────────
+        # Log transform of draft pick — compresses 1-224 into ~0-5.4
+        # Pick 1 = 0, Pick 10 = 2.3, Pick 32 = 3.5, Pick 100 = 4.6, Pick 224 = 5.4
+        if draft_pick is not None:
+            try:
+                pick_val = float(draft_pick)
+                if pick_val > 0:
+                    p['draft_pick_log'] = math.log(pick_val)
+                else:
+                    p['draft_pick_log'] = 0.0
+            except (ValueError, TypeError):
+                p['draft_pick_log'] = None
+        else:
+            p['draft_pick_log'] = None
+
+        # Draft × Peak interaction — high pick + elite peak = best signal
+        # Uses inverse log so higher pick (lower number) = higher value
+        if p.get('draft_pick_log') is not None and peak_ppg > 0:
+            inv_log = 1.0 / (1.0 + p['draft_pick_log'])
+            p['draft_x_peak_ppg'] = inv_log * peak_ppg
+            p['draft_x_college_ppg'] = inv_log * career_ppg if career_ppg > 0 else None
+        else:
+            p['draft_x_peak_ppg'] = None
+            p['draft_x_college_ppg'] = None
+
+        # ── Opportunity Proxy ────────────────────────────────────────
+        # Expected snap share / volume multiplier based on draft position
+        # R1 picks get ~80% snaps year 1, late rounders get ~30-40%
+        if draft_round is not None:
+            try:
+                rd = float(draft_round)
+                if rd <= 1:
+                    p['snap_share_proxy'] = 0.80
+                elif rd <= 2:
+                    p['snap_share_proxy'] = 0.65
+                elif rd <= 3:
+                    p['snap_share_proxy'] = 0.50
+                elif rd <= 4:
+                    p['snap_share_proxy'] = 0.40
+                elif rd <= 5:
+                    p['snap_share_proxy'] = 0.30
+                else:
+                    p['snap_share_proxy'] = 0.20
+            except (ValueError, TypeError):
+                p['snap_share_proxy'] = None
+        else:
+            p['snap_share_proxy'] = None
+
+        # Volume-adjusted peak: what would peak production look like
+        # scaled to expected NFL opportunity?
+        if p.get('snap_share_proxy') and peak_ppg > 0:
+            p['opportunity_adjusted_peak'] = peak_ppg * p['snap_share_proxy']
+        else:
+            p['opportunity_adjusted_peak'] = None
+
+        # ── Recency / Trajectory ─────────────────────────────────────
+        # Was the player trending UP or DOWN entering the draft?
+        if career_ppg > 0 and last_ppg > 0:
+            p['trend_direction'] = last_ppg / career_ppg
+        else:
+            p['trend_direction'] = None
+
+        # Peak recency — how long ago was the peak?
+        # 0 = peak was most recent season (ideal)
+        # 1+ = peak was further back (JSN had peak in 2021, drafted 2023 → 2)
+        peak_year = p.get('peak_season_year')
+        last_year = p.get('last_season_year')
+        if peak_year and last_year:
+            try:
+                p['peak_recency'] = int(float(last_year)) - int(float(peak_year))
+            except (ValueError, TypeError):
+                p['peak_recency'] = None
+        else:
+            p['peak_recency'] = None
+
+        # ── QB-specific: rushing value interaction ───────────────────
+        if pos == 'QB':
+            qb_rush = p.get('college_rush_yds_pg') or p.get('college_rush_yds_pg_qb') or 0
+            if p.get('snap_share_proxy') and qb_rush > 0:
+                p['qb_rushing_value'] = qb_rush * p['snap_share_proxy']
+            else:
+                p['qb_rushing_value'] = None
 
     return profiles
 
