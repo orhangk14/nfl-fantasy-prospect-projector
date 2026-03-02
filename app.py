@@ -219,7 +219,7 @@ def main():
     # ── Tab 7 ───────────────────────────────────────────────────
     with tab_find:
         from tabs.find_my_player import render as render_find
-        render_find(projections)
+        render_find(projections, load_profiles)
 
 if __name__ == "__main__":
     main()
