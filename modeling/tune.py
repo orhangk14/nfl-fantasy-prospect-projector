@@ -343,13 +343,13 @@ def main():
                     if meas_w < 0.05 or meas_w > 0.25:
                         continue
 
-                    cat_weights = {
-                        'production': prod_w,
-                        'peak': peak_w,
-                        'efficiency': eff_w,
-                        'draft': draft_w,
-                        'measurable': meas_w,
-                    }
+                cat_weights = {
+                    'production': prod_w,
+                    'peak': peak_w,
+                    'efficiency': eff_w,
+                    'draft': draft_w,
+                    'measurable': meas_w,
+                }
 
                 rookie_m, dynasty_m, _, _ = evaluate_config(
                     profiles, cat_weights, use_draft_adj=False
@@ -463,8 +463,9 @@ def main():
         w = cfg.get('weights', best_weights)
         adj = cfg.get('draft_adj', False)
         print(f"  {i}. Score: {cfg['score']:.4f}  "
-              f"Weights: P={w['production']:.0%} E={w['efficiency']:.0%} "
-              f"D={w['draft']:.0%} M={w['measurable']:.0%}  "
+              f"Weights: P={w['production']:.0%} Pk={w['peak']:.0%} "
+              f"E={w['efficiency']:.0%} D={w['draft']:.0%} "
+              f"M={w['measurable']:.0%}  "
               f"DraftAdj: {adj}  "
               f"Rookie MAE: {cfg['rookie']['mae']:.2f}  "
               f"Corr: {cfg['rookie']['correlation']:.3f}")
