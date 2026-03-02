@@ -92,12 +92,13 @@ Output: data/processed/prospect_projections.json
 - Wan Dale Robinson: Projected 8.0, Actual 8.6 (Error: -0.6)
 
 ### Known Limitations
-- Under-projects generational breakouts (Puka Nacua, Brock Bowers)
+- Under-projects generational outliers (Puka Nacua, Brock Bowers)
 - Over-projects injured players (Jameson Williams, Jonathon Brooks)
 - QB has highest error due to small sample + high variance
 
 ## Similarity Weights
 
+- Optimized based on a local backtesting run
     Category        Weight
     Draft Capital   40%
     Peak Season     20%
