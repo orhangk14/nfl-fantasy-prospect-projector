@@ -144,7 +144,7 @@ Optimized via grid search backtesting:
 - **Position Rankings** - Per-position breakdowns with top value, ceiling, and safety insights
 - **Compare** - Head-to-head prospect comparison with shared comp analysis
 - **Build Custom Prospect** - Input any college stats + measurables to generate projections
-- **Historical Classes** - Browse past draft classes, see hits/busts, round-by-round breakdowns, archetype performance, and cross-class rankings
+- **Historical Classes** - Browse past draft classes, see hits/busts, round-by-round breakdowns, archetype performance, and cross-class rankings - Note the very old classes have inflated PPG as the only guys still playing were the best of the best
 
 ## Project Structure
 
