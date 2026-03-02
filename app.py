@@ -176,13 +176,14 @@ def main():
     )
 
     # Tabs
-    tab_board, tab_detail, tab_pos, tab_compare, tab_custom, tab_hist = st.tabs([
+    tab_board, tab_detail, tab_pos, tab_compare, tab_custom, tab_hist, tab_find = st.tabs([
         "📋 Big Board",
         "🔬 Deep Dive",
         "📊 Position Rankings",
         "⚖️ Compare",
         "🛠️ Build Custom Prospect",
         "📜 Historical Classes",
+        "🔎 Find My Player",
     ])
 
     # ── Tab 1 ───────────────────────────────────────────────────────
@@ -215,7 +216,10 @@ def main():
         from tabs.historical_class import render as render_hist
         profiles = load_profiles()
         render_hist(profiles)
-
+    # ── Tab 7 ───────────────────────────────────────────────────
+    with tab_find:
+        from tabs.find_my_player import render as render_find
+        render_find(projections)
 
 if __name__ == "__main__":
     main()
