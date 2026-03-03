@@ -204,11 +204,11 @@ POS_FEATURES = {
 # v3: Reweighted — peak dominance features make peak category stronger,
 # draft interaction features capture opportunity premium better.
 CATEGORY_WEIGHTS = {
-    'production': 0.10,
-    'peak': 0.25,
+    'production': 0.20,
+    'peak': 0.20,
     'efficiency': 0.10,
     'draft': 0.40,
-    'measurable': 0.15,
+    'measurable': 0.10,
 }
 def load_profiles():
     path = os.path.join(PROCESSED_DIR, "player_profiles.json")
